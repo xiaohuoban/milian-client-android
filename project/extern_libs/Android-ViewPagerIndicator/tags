@@ -1,0 +1,1148 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+BOLD_FADE_PERCENTAGE	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private static final float BOLD_FADE_PERCENTAGE = 0.05f;$/;"	f	class:TitlePageIndicator	file:
+BOLD_FADE_PERCENTAGE	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private static final float BOLD_FADE_PERCENTAGE = 0.05f;$/;"	f	class:TitlePageIndicator	file:
+BaseSampleActivity	sample/src/com/viewpagerindicator/sample/BaseSampleActivity.java	/^public abstract class BaseSampleActivity extends FragmentActivity {$/;"	c
+Bottom	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^        Bottom(0), Top(1);$/;"	e	enum:TitlePageIndicator.LinePosition	file:
+Bottom	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^        Bottom(0), Top(1);$/;"	e	enum:TitlePageIndicator.LinePosition	file:
+BuildConfig	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/BuildConfig.java	/^public final class BuildConfig {$/;"	c
+BuildConfig	library/gen/com/viewpagerindicator/BuildConfig.java	/^public final class BuildConfig {$/;"	c
+CONTENT	sample/src/com/viewpagerindicator/sample/SampleTabsDefault.java	/^    private static final String[] CONTENT = new String[] { "Recent", "Artists", "Albums", "Songs", "Playlists", "Genres" };$/;"	f	class:SampleTabsDefault	file:
+CONTENT	sample/src/com/viewpagerindicator/sample/SampleTabsStyled.java	/^    private static final String[] CONTENT = new String[] { "Recent", "Artists", "Albums", "Songs", "Playlists", "Genres" };$/;"	f	class:SampleTabsStyled	file:
+CONTENT	sample/src/com/viewpagerindicator/sample/SampleTabsWithIcons.java	/^    private static final String[] CONTENT = new String[] { "Calendar", "Camera", "Alarms", "Location" };$/;"	f	class:SampleTabsWithIcons	file:
+CONTENT	sample/src/com/viewpagerindicator/sample/TestFragmentAdapter.java	/^    protected static final String[] CONTENT = new String[] { "This", "Is", "A", "Test", };$/;"	f	class:TestFragmentAdapter
+CREATOR	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^        public static final Parcelable.Creator<SavedState> CREATOR = new Parcelable.Creator<SavedState>() {$/;"	f	class:CirclePageIndicator.SavedState
+CREATOR	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^        public static final Parcelable.Creator<SavedState> CREATOR = new Parcelable.Creator<SavedState>() {$/;"	f	class:LinePageIndicator.SavedState
+CREATOR	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^        public static final Parcelable.Creator<SavedState> CREATOR = new Parcelable.Creator<SavedState>() {$/;"	f	class:TitlePageIndicator.SavedState
+CREATOR	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^        public static final Creator<SavedState> CREATOR = new Creator<SavedState>() {$/;"	f	class:UnderlinePageIndicator.SavedState
+CREATOR	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^        public static final Parcelable.Creator<SavedState> CREATOR = new Parcelable.Creator<SavedState>() {$/;"	f	class:CirclePageIndicator.SavedState
+CREATOR	library/src/com/viewpagerindicator/LinePageIndicator.java	/^        public static final Parcelable.Creator<SavedState> CREATOR = new Parcelable.Creator<SavedState>() {$/;"	f	class:LinePageIndicator.SavedState
+CREATOR	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^        public static final Parcelable.Creator<SavedState> CREATOR = new Parcelable.Creator<SavedState>() {$/;"	f	class:TitlePageIndicator.SavedState
+CREATOR	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^        public static final Creator<SavedState> CREATOR = new Creator<SavedState>() {$/;"	f	class:UnderlinePageIndicator.SavedState
+CirclePageIndicator	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int[] CirclePageIndicator = {$/;"	f	class:R.styleable
+CirclePageIndicator	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public CirclePageIndicator(Context context) {$/;"	m	class:CirclePageIndicator
+CirclePageIndicator	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public CirclePageIndicator(Context context, AttributeSet attrs) {$/;"	m	class:CirclePageIndicator
+CirclePageIndicator	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public CirclePageIndicator(Context context, AttributeSet attrs, int defStyle) {$/;"	m	class:CirclePageIndicator
+CirclePageIndicator	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^public class CirclePageIndicator extends View implements PageIndicator {$/;"	c
+CirclePageIndicator	library/gen/com/viewpagerindicator/R.java	/^        public static final int[] CirclePageIndicator = {$/;"	f	class:R.styleable
+CirclePageIndicator	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public CirclePageIndicator(Context context) {$/;"	m	class:CirclePageIndicator
+CirclePageIndicator	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public CirclePageIndicator(Context context, AttributeSet attrs) {$/;"	m	class:CirclePageIndicator
+CirclePageIndicator	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public CirclePageIndicator(Context context, AttributeSet attrs, int defStyle) {$/;"	m	class:CirclePageIndicator
+CirclePageIndicator	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^public class CirclePageIndicator extends View implements PageIndicator {$/;"	c
+CirclePageIndicator_android_background	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int CirclePageIndicator_android_background = 1;$/;"	f	class:R.styleable
+CirclePageIndicator_android_background	library/gen/com/viewpagerindicator/R.java	/^        public static final int CirclePageIndicator_android_background = 1;$/;"	f	class:R.styleable
+CirclePageIndicator_android_orientation	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int CirclePageIndicator_android_orientation = 0;$/;"	f	class:R.styleable
+CirclePageIndicator_android_orientation	library/gen/com/viewpagerindicator/R.java	/^        public static final int CirclePageIndicator_android_orientation = 0;$/;"	f	class:R.styleable
+CirclePageIndicator_centered	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int CirclePageIndicator_centered = 2;$/;"	f	class:R.styleable
+CirclePageIndicator_centered	library/gen/com/viewpagerindicator/R.java	/^        public static final int CirclePageIndicator_centered = 2;$/;"	f	class:R.styleable
+CirclePageIndicator_fillColor	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int CirclePageIndicator_fillColor = 4;$/;"	f	class:R.styleable
+CirclePageIndicator_fillColor	library/gen/com/viewpagerindicator/R.java	/^        public static final int CirclePageIndicator_fillColor = 4;$/;"	f	class:R.styleable
+CirclePageIndicator_pageColor	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int CirclePageIndicator_pageColor = 5;$/;"	f	class:R.styleable
+CirclePageIndicator_pageColor	library/gen/com/viewpagerindicator/R.java	/^        public static final int CirclePageIndicator_pageColor = 5;$/;"	f	class:R.styleable
+CirclePageIndicator_radius	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int CirclePageIndicator_radius = 6;$/;"	f	class:R.styleable
+CirclePageIndicator_radius	library/gen/com/viewpagerindicator/R.java	/^        public static final int CirclePageIndicator_radius = 6;$/;"	f	class:R.styleable
+CirclePageIndicator_snap	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int CirclePageIndicator_snap = 7;$/;"	f	class:R.styleable
+CirclePageIndicator_snap	library/gen/com/viewpagerindicator/R.java	/^        public static final int CirclePageIndicator_snap = 7;$/;"	f	class:R.styleable
+CirclePageIndicator_strokeColor	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int CirclePageIndicator_strokeColor = 8;$/;"	f	class:R.styleable
+CirclePageIndicator_strokeColor	library/gen/com/viewpagerindicator/R.java	/^        public static final int CirclePageIndicator_strokeColor = 8;$/;"	f	class:R.styleable
+CirclePageIndicator_strokeWidth	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int CirclePageIndicator_strokeWidth = 3;$/;"	f	class:R.styleable
+CirclePageIndicator_strokeWidth	library/gen/com/viewpagerindicator/R.java	/^        public static final int CirclePageIndicator_strokeWidth = 3;$/;"	f	class:R.styleable
+DEBUG	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/BuildConfig.java	/^    public final static boolean DEBUG = true;$/;"	f	class:BuildConfig
+DEBUG	library/gen/com/viewpagerindicator/BuildConfig.java	/^    public final static boolean DEBUG = true;$/;"	f	class:BuildConfig
+EMPTY_TITLE	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TabPageIndicator.java	/^    private static final CharSequence EMPTY_TITLE = "";$/;"	f	class:TabPageIndicator	file:
+EMPTY_TITLE	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private static final String EMPTY_TITLE = "";$/;"	f	class:TitlePageIndicator	file:
+EMPTY_TITLE	library/src/com/viewpagerindicator/TabPageIndicator.java	/^    private static final CharSequence EMPTY_TITLE = "";$/;"	f	class:TabPageIndicator	file:
+EMPTY_TITLE	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private static final String EMPTY_TITLE = "";$/;"	f	class:TitlePageIndicator	file:
+FADE_FRAME_MS	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    private static final int FADE_FRAME_MS = 30;$/;"	f	class:UnderlinePageIndicator	file:
+FADE_FRAME_MS	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    private static final int FADE_FRAME_MS = 30;$/;"	f	class:UnderlinePageIndicator	file:
+GoogleMusicAdapter	sample/src/com/viewpagerindicator/sample/SampleTabsDefault.java	/^        public GoogleMusicAdapter(FragmentManager fm) {$/;"	m	class:SampleTabsDefault.GoogleMusicAdapter
+GoogleMusicAdapter	sample/src/com/viewpagerindicator/sample/SampleTabsDefault.java	/^    class GoogleMusicAdapter extends FragmentPagerAdapter {$/;"	c	class:SampleTabsDefault
+GoogleMusicAdapter	sample/src/com/viewpagerindicator/sample/SampleTabsStyled.java	/^        public GoogleMusicAdapter(FragmentManager fm) {$/;"	m	class:SampleTabsStyled.GoogleMusicAdapter
+GoogleMusicAdapter	sample/src/com/viewpagerindicator/sample/SampleTabsStyled.java	/^    class GoogleMusicAdapter extends FragmentPagerAdapter {$/;"	c	class:SampleTabsStyled
+GoogleMusicAdapter	sample/src/com/viewpagerindicator/sample/SampleTabsWithIcons.java	/^        public GoogleMusicAdapter(FragmentManager fm) {$/;"	m	class:SampleTabsWithIcons.GoogleMusicAdapter
+GoogleMusicAdapter	sample/src/com/viewpagerindicator/sample/SampleTabsWithIcons.java	/^    class GoogleMusicAdapter extends FragmentPagerAdapter implements IconPagerAdapter {$/;"	c	class:SampleTabsWithIcons
+ICONS	sample/src/com/viewpagerindicator/sample/SampleTabsWithIcons.java	/^    private static final int[] ICONS = new int[] {$/;"	f	class:SampleTabsWithIcons	file:
+ICONS	sample/src/com/viewpagerindicator/sample/TestFragmentAdapter.java	/^    protected static final int[] ICONS = new int[] {$/;"	f	class:TestFragmentAdapter
+INVALID_POINTER	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private static final int INVALID_POINTER = -1;$/;"	f	class:CirclePageIndicator	file:
+INVALID_POINTER	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    private static final int INVALID_POINTER = -1;$/;"	f	class:LinePageIndicator	file:
+INVALID_POINTER	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private static final int INVALID_POINTER = -1;$/;"	f	class:TitlePageIndicator	file:
+INVALID_POINTER	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    private static final int INVALID_POINTER = -1;$/;"	f	class:UnderlinePageIndicator	file:
+INVALID_POINTER	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private static final int INVALID_POINTER = -1;$/;"	f	class:CirclePageIndicator	file:
+INVALID_POINTER	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    private static final int INVALID_POINTER = -1;$/;"	f	class:LinePageIndicator	file:
+INVALID_POINTER	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private static final int INVALID_POINTER = -1;$/;"	f	class:TitlePageIndicator	file:
+INVALID_POINTER	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    private static final int INVALID_POINTER = -1;$/;"	f	class:UnderlinePageIndicator	file:
+IconPageIndicator	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IconPageIndicator.java	/^    public IconPageIndicator(Context context) {$/;"	m	class:IconPageIndicator
+IconPageIndicator	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IconPageIndicator.java	/^    public IconPageIndicator(Context context, AttributeSet attrs) {$/;"	m	class:IconPageIndicator
+IconPageIndicator	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IconPageIndicator.java	/^public class IconPageIndicator extends HorizontalScrollView implements PageIndicator {$/;"	c
+IconPageIndicator	library/src/com/viewpagerindicator/IconPageIndicator.java	/^    public IconPageIndicator(Context context) {$/;"	m	class:IconPageIndicator
+IconPageIndicator	library/src/com/viewpagerindicator/IconPageIndicator.java	/^    public IconPageIndicator(Context context, AttributeSet attrs) {$/;"	m	class:IconPageIndicator
+IconPageIndicator	library/src/com/viewpagerindicator/IconPageIndicator.java	/^public class IconPageIndicator extends HorizontalScrollView implements PageIndicator {$/;"	c
+IconPagerAdapter	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IconPagerAdapter.java	/^public interface IconPagerAdapter {$/;"	i
+IconPagerAdapter	library/src/com/viewpagerindicator/IconPagerAdapter.java	/^public interface IconPagerAdapter {$/;"	i
+IcsLinearLayout	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IcsLinearLayout.java	/^    public IcsLinearLayout(Context context, int themeAttr) {$/;"	m	class:IcsLinearLayout
+IcsLinearLayout	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IcsLinearLayout.java	/^class IcsLinearLayout extends LinearLayout {$/;"	c
+IcsLinearLayout	library/src/com/viewpagerindicator/IcsLinearLayout.java	/^    public IcsLinearLayout(Context context, int themeAttr) {$/;"	m	class:IcsLinearLayout
+IcsLinearLayout	library/src/com/viewpagerindicator/IcsLinearLayout.java	/^class IcsLinearLayout extends LinearLayout {$/;"	c
+IndicatorStyle	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^        private IndicatorStyle(int value) {$/;"	m	class:TitlePageIndicator.IndicatorStyle	file:
+IndicatorStyle	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public enum IndicatorStyle {$/;"	g	class:TitlePageIndicator
+IndicatorStyle	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^        private IndicatorStyle(int value) {$/;"	m	class:TitlePageIndicator.IndicatorStyle	file:
+IndicatorStyle	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public enum IndicatorStyle {$/;"	g	class:TitlePageIndicator
+KEY_CONTENT	sample/src/com/viewpagerindicator/sample/TestFragment.java	/^    private static final String KEY_CONTENT = "TestFragment:Content";$/;"	f	class:TestFragment	file:
+LL	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IcsLinearLayout.java	/^    private static final int[] LL = new int[] {$/;"	f	class:IcsLinearLayout	file:
+LL	library/src/com/viewpagerindicator/IcsLinearLayout.java	/^    private static final int[] LL = new int[] {$/;"	f	class:IcsLinearLayout	file:
+LL_DIVIDER	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IcsLinearLayout.java	/^    private static final int LL_DIVIDER = 0;$/;"	f	class:IcsLinearLayout	file:
+LL_DIVIDER	library/src/com/viewpagerindicator/IcsLinearLayout.java	/^    private static final int LL_DIVIDER = 0;$/;"	f	class:IcsLinearLayout	file:
+LL_DIVIDER_PADDING	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IcsLinearLayout.java	/^    private static final int LL_DIVIDER_PADDING = 2;$/;"	f	class:IcsLinearLayout	file:
+LL_DIVIDER_PADDING	library/src/com/viewpagerindicator/IcsLinearLayout.java	/^    private static final int LL_DIVIDER_PADDING = 2;$/;"	f	class:IcsLinearLayout	file:
+LL_SHOW_DIVIDER	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IcsLinearLayout.java	/^    private static final int LL_SHOW_DIVIDER = 1;$/;"	f	class:IcsLinearLayout	file:
+LL_SHOW_DIVIDER	library/src/com/viewpagerindicator/IcsLinearLayout.java	/^    private static final int LL_SHOW_DIVIDER = 1;$/;"	f	class:IcsLinearLayout	file:
+LinePageIndicator	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int[] LinePageIndicator = {$/;"	f	class:R.styleable
+LinePageIndicator	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    public LinePageIndicator(Context context) {$/;"	m	class:LinePageIndicator
+LinePageIndicator	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    public LinePageIndicator(Context context, AttributeSet attrs) {$/;"	m	class:LinePageIndicator
+LinePageIndicator	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    public LinePageIndicator(Context context, AttributeSet attrs, int defStyle) {$/;"	m	class:LinePageIndicator
+LinePageIndicator	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^public class LinePageIndicator extends View implements PageIndicator {$/;"	c
+LinePageIndicator	library/gen/com/viewpagerindicator/R.java	/^        public static final int[] LinePageIndicator = {$/;"	f	class:R.styleable
+LinePageIndicator	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    public LinePageIndicator(Context context) {$/;"	m	class:LinePageIndicator
+LinePageIndicator	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    public LinePageIndicator(Context context, AttributeSet attrs) {$/;"	m	class:LinePageIndicator
+LinePageIndicator	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    public LinePageIndicator(Context context, AttributeSet attrs, int defStyle) {$/;"	m	class:LinePageIndicator
+LinePageIndicator	library/src/com/viewpagerindicator/LinePageIndicator.java	/^public class LinePageIndicator extends View implements PageIndicator {$/;"	c
+LinePageIndicator_android_background	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int LinePageIndicator_android_background = 0;$/;"	f	class:R.styleable
+LinePageIndicator_android_background	library/gen/com/viewpagerindicator/R.java	/^        public static final int LinePageIndicator_android_background = 0;$/;"	f	class:R.styleable
+LinePageIndicator_centered	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int LinePageIndicator_centered = 1;$/;"	f	class:R.styleable
+LinePageIndicator_centered	library/gen/com/viewpagerindicator/R.java	/^        public static final int LinePageIndicator_centered = 1;$/;"	f	class:R.styleable
+LinePageIndicator_gapWidth	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int LinePageIndicator_gapWidth = 6;$/;"	f	class:R.styleable
+LinePageIndicator_gapWidth	library/gen/com/viewpagerindicator/R.java	/^        public static final int LinePageIndicator_gapWidth = 6;$/;"	f	class:R.styleable
+LinePageIndicator_lineWidth	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int LinePageIndicator_lineWidth = 5;$/;"	f	class:R.styleable
+LinePageIndicator_lineWidth	library/gen/com/viewpagerindicator/R.java	/^        public static final int LinePageIndicator_lineWidth = 5;$/;"	f	class:R.styleable
+LinePageIndicator_selectedColor	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int LinePageIndicator_selectedColor = 2;$/;"	f	class:R.styleable
+LinePageIndicator_selectedColor	library/gen/com/viewpagerindicator/R.java	/^        public static final int LinePageIndicator_selectedColor = 2;$/;"	f	class:R.styleable
+LinePageIndicator_strokeWidth	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int LinePageIndicator_strokeWidth = 3;$/;"	f	class:R.styleable
+LinePageIndicator_strokeWidth	library/gen/com/viewpagerindicator/R.java	/^        public static final int LinePageIndicator_strokeWidth = 3;$/;"	f	class:R.styleable
+LinePageIndicator_unselectedColor	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int LinePageIndicator_unselectedColor = 4;$/;"	f	class:R.styleable
+LinePageIndicator_unselectedColor	library/gen/com/viewpagerindicator/R.java	/^        public static final int LinePageIndicator_unselectedColor = 4;$/;"	f	class:R.styleable
+LinePosition	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^        private LinePosition(int value) {$/;"	m	class:TitlePageIndicator.LinePosition	file:
+LinePosition	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public enum LinePosition {$/;"	g	class:TitlePageIndicator
+LinePosition	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^        private LinePosition(int value) {$/;"	m	class:TitlePageIndicator.LinePosition	file:
+LinePosition	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public enum LinePosition {$/;"	g	class:TitlePageIndicator
+ListSamples	sample/src/com/viewpagerindicator/sample/ListSamples.java	/^public class ListSamples extends ListActivity {$/;"	c
+NAME_COMPARATOR	sample/src/com/viewpagerindicator/sample/ListSamples.java	/^    private final static Comparator<Map<String, Object>> NAME_COMPARATOR =$/;"	f	class:ListSamples	file:
+None	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^        None(0), Triangle(1), Underline(2);$/;"	e	enum:TitlePageIndicator.IndicatorStyle	file:
+None	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^        None(0), Triangle(1), Underline(2);$/;"	e	enum:TitlePageIndicator.IndicatorStyle	file:
+OnCenterItemClickListener	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public interface OnCenterItemClickListener {$/;"	i	class:TitlePageIndicator
+OnCenterItemClickListener	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public interface OnCenterItemClickListener {$/;"	i	class:TitlePageIndicator
+OnTabReselectedListener	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TabPageIndicator.java	/^    public interface OnTabReselectedListener {$/;"	i	class:TabPageIndicator
+OnTabReselectedListener	library/src/com/viewpagerindicator/TabPageIndicator.java	/^    public interface OnTabReselectedListener {$/;"	i	class:TabPageIndicator
+PageIndicator	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/PageIndicator.java	/^public interface PageIndicator extends ViewPager.OnPageChangeListener {$/;"	i
+PageIndicator	library/src/com/viewpagerindicator/PageIndicator.java	/^public interface PageIndicator extends ViewPager.OnPageChangeListener {$/;"	i
+R	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^public final class R {$/;"	c
+R	library/gen/com/viewpagerindicator/R.java	/^public final class R {$/;"	c
+RANDOM	sample/src/com/viewpagerindicator/sample/BaseSampleActivity.java	/^    private static final Random RANDOM = new Random();$/;"	f	class:BaseSampleActivity	file:
+SELECTION_FADE_PERCENTAGE	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private static final float SELECTION_FADE_PERCENTAGE = 0.25f;$/;"	f	class:TitlePageIndicator	file:
+SELECTION_FADE_PERCENTAGE	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private static final float SELECTION_FADE_PERCENTAGE = 0.25f;$/;"	f	class:TitlePageIndicator	file:
+SampleCirclesDefault	sample/src/com/viewpagerindicator/sample/SampleCirclesDefault.java	/^public class SampleCirclesDefault extends BaseSampleActivity {$/;"	c
+SampleCirclesInitialPage	sample/src/com/viewpagerindicator/sample/SampleCirclesInitialPage.java	/^public class SampleCirclesInitialPage extends BaseSampleActivity {$/;"	c
+SampleCirclesSnap	sample/src/com/viewpagerindicator/sample/SampleCirclesSnap.java	/^public class SampleCirclesSnap extends BaseSampleActivity {$/;"	c
+SampleCirclesStyledLayout	sample/src/com/viewpagerindicator/sample/SampleCirclesStyledLayout.java	/^public class SampleCirclesStyledLayout extends BaseSampleActivity {$/;"	c
+SampleCirclesStyledMethods	sample/src/com/viewpagerindicator/sample/SampleCirclesStyledMethods.java	/^public class SampleCirclesStyledMethods extends BaseSampleActivity {$/;"	c
+SampleCirclesStyledTheme	sample/src/com/viewpagerindicator/sample/SampleCirclesStyledTheme.java	/^public class SampleCirclesStyledTheme extends BaseSampleActivity {$/;"	c
+SampleCirclesWithListener	sample/src/com/viewpagerindicator/sample/SampleCirclesWithListener.java	/^public class SampleCirclesWithListener extends BaseSampleActivity {$/;"	c
+SampleIconsDefault	sample/src/com/viewpagerindicator/sample/SampleIconsDefault.java	/^public class SampleIconsDefault extends BaseSampleActivity {$/;"	c
+SampleLinesDefault	sample/src/com/viewpagerindicator/sample/SampleLinesDefault.java	/^public class SampleLinesDefault extends BaseSampleActivity {$/;"	c
+SampleLinesStyledLayout	sample/src/com/viewpagerindicator/sample/SampleLinesStyledLayout.java	/^public class SampleLinesStyledLayout extends BaseSampleActivity {$/;"	c
+SampleLinesStyledMethods	sample/src/com/viewpagerindicator/sample/SampleLinesStyledMethods.java	/^public class SampleLinesStyledMethods extends BaseSampleActivity {$/;"	c
+SampleLinesStyledTheme	sample/src/com/viewpagerindicator/sample/SampleLinesStyledTheme.java	/^public class SampleLinesStyledTheme extends BaseSampleActivity {$/;"	c
+SampleTabsDefault	sample/src/com/viewpagerindicator/sample/SampleTabsDefault.java	/^public class SampleTabsDefault extends FragmentActivity {$/;"	c
+SampleTabsStyled	sample/src/com/viewpagerindicator/sample/SampleTabsStyled.java	/^public class SampleTabsStyled extends FragmentActivity {$/;"	c
+SampleTabsWithIcons	sample/src/com/viewpagerindicator/sample/SampleTabsWithIcons.java	/^public class SampleTabsWithIcons extends FragmentActivity {$/;"	c
+SampleTitlesBottom	sample/src/com/viewpagerindicator/sample/SampleTitlesBottom.java	/^public class SampleTitlesBottom extends BaseSampleActivity {$/;"	c
+SampleTitlesCenterClickListener	sample/src/com/viewpagerindicator/sample/SampleTitlesCenterClickListener.java	/^public class SampleTitlesCenterClickListener extends BaseSampleActivity implements OnCenterItemClickListener {$/;"	c
+SampleTitlesDefault	sample/src/com/viewpagerindicator/sample/SampleTitlesDefault.java	/^public class SampleTitlesDefault extends BaseSampleActivity {$/;"	c
+SampleTitlesInitialPage	sample/src/com/viewpagerindicator/sample/SampleTitlesInitialPage.java	/^public class SampleTitlesInitialPage extends BaseSampleActivity {$/;"	c
+SampleTitlesStyledLayout	sample/src/com/viewpagerindicator/sample/SampleTitlesStyledLayout.java	/^public class SampleTitlesStyledLayout extends BaseSampleActivity {$/;"	c
+SampleTitlesStyledMethods	sample/src/com/viewpagerindicator/sample/SampleTitlesStyledMethods.java	/^public class SampleTitlesStyledMethods extends BaseSampleActivity {$/;"	c
+SampleTitlesStyledTheme	sample/src/com/viewpagerindicator/sample/SampleTitlesStyledTheme.java	/^public class SampleTitlesStyledTheme extends BaseSampleActivity {$/;"	c
+SampleTitlesTriangle	sample/src/com/viewpagerindicator/sample/SampleTitlesTriangle.java	/^public class SampleTitlesTriangle extends BaseSampleActivity {$/;"	c
+SampleTitlesWithListener	sample/src/com/viewpagerindicator/sample/SampleTitlesWithListener.java	/^public class SampleTitlesWithListener extends BaseSampleActivity {$/;"	c
+SampleUnderlinesDefault	sample/src/com/viewpagerindicator/sample/SampleUnderlinesDefault.java	/^public class SampleUnderlinesDefault extends BaseSampleActivity {$/;"	c
+SampleUnderlinesNoFade	sample/src/com/viewpagerindicator/sample/SampleUnderlinesNoFade.java	/^public class SampleUnderlinesNoFade extends BaseSampleActivity {$/;"	c
+SampleUnderlinesStyledLayout	sample/src/com/viewpagerindicator/sample/SampleUnderlinesStyledLayout.java	/^public class SampleUnderlinesStyledLayout extends BaseSampleActivity {$/;"	c
+SampleUnderlinesStyledMethods	sample/src/com/viewpagerindicator/sample/SampleUnderlinesStyledMethods.java	/^public class SampleUnderlinesStyledMethods extends BaseSampleActivity {$/;"	c
+SampleUnderlinesStyledTheme	sample/src/com/viewpagerindicator/sample/SampleUnderlinesStyledTheme.java	/^public class SampleUnderlinesStyledTheme extends BaseSampleActivity {$/;"	c
+SavedState	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^        private SavedState(Parcel in) {$/;"	m	class:CirclePageIndicator.SavedState	file:
+SavedState	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^        public SavedState(Parcelable superState) {$/;"	m	class:CirclePageIndicator.SavedState
+SavedState	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    static class SavedState extends BaseSavedState {$/;"	c	class:CirclePageIndicator
+SavedState	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^        private SavedState(Parcel in) {$/;"	m	class:LinePageIndicator.SavedState	file:
+SavedState	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^        public SavedState(Parcelable superState) {$/;"	m	class:LinePageIndicator.SavedState
+SavedState	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    static class SavedState extends BaseSavedState {$/;"	c	class:LinePageIndicator
+SavedState	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^        private SavedState(Parcel in) {$/;"	m	class:TitlePageIndicator.SavedState	file:
+SavedState	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^        public SavedState(Parcelable superState) {$/;"	m	class:TitlePageIndicator.SavedState
+SavedState	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    static class SavedState extends BaseSavedState {$/;"	c	class:TitlePageIndicator
+SavedState	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^        private SavedState(Parcel in) {$/;"	m	class:UnderlinePageIndicator.SavedState	file:
+SavedState	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^        public SavedState(Parcelable superState) {$/;"	m	class:UnderlinePageIndicator.SavedState
+SavedState	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    static class SavedState extends BaseSavedState {$/;"	c	class:UnderlinePageIndicator
+SavedState	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^        private SavedState(Parcel in) {$/;"	m	class:CirclePageIndicator.SavedState	file:
+SavedState	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^        public SavedState(Parcelable superState) {$/;"	m	class:CirclePageIndicator.SavedState
+SavedState	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    static class SavedState extends BaseSavedState {$/;"	c	class:CirclePageIndicator
+SavedState	library/src/com/viewpagerindicator/LinePageIndicator.java	/^        private SavedState(Parcel in) {$/;"	m	class:LinePageIndicator.SavedState	file:
+SavedState	library/src/com/viewpagerindicator/LinePageIndicator.java	/^        public SavedState(Parcelable superState) {$/;"	m	class:LinePageIndicator.SavedState
+SavedState	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    static class SavedState extends BaseSavedState {$/;"	c	class:LinePageIndicator
+SavedState	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^        private SavedState(Parcel in) {$/;"	m	class:TitlePageIndicator.SavedState	file:
+SavedState	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^        public SavedState(Parcelable superState) {$/;"	m	class:TitlePageIndicator.SavedState
+SavedState	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    static class SavedState extends BaseSavedState {$/;"	c	class:TitlePageIndicator
+SavedState	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^        private SavedState(Parcel in) {$/;"	m	class:UnderlinePageIndicator.SavedState	file:
+SavedState	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^        public SavedState(Parcelable superState) {$/;"	m	class:UnderlinePageIndicator.SavedState
+SavedState	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    static class SavedState extends BaseSavedState {$/;"	c	class:UnderlinePageIndicator
+TabPageIndicator	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TabPageIndicator.java	/^    public TabPageIndicator(Context context) {$/;"	m	class:TabPageIndicator
+TabPageIndicator	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TabPageIndicator.java	/^    public TabPageIndicator(Context context, AttributeSet attrs) {$/;"	m	class:TabPageIndicator
+TabPageIndicator	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TabPageIndicator.java	/^public class TabPageIndicator extends HorizontalScrollView implements PageIndicator {$/;"	c
+TabPageIndicator	library/src/com/viewpagerindicator/TabPageIndicator.java	/^    public TabPageIndicator(Context context) {$/;"	m	class:TabPageIndicator
+TabPageIndicator	library/src/com/viewpagerindicator/TabPageIndicator.java	/^    public TabPageIndicator(Context context, AttributeSet attrs) {$/;"	m	class:TabPageIndicator
+TabPageIndicator	library/src/com/viewpagerindicator/TabPageIndicator.java	/^public class TabPageIndicator extends HorizontalScrollView implements PageIndicator {$/;"	c
+TabView	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TabPageIndicator.java	/^        public TabView(Context context) {$/;"	m	class:TabPageIndicator.TabView
+TabView	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TabPageIndicator.java	/^    private class TabView extends TextView {$/;"	c	class:TabPageIndicator
+TabView	library/src/com/viewpagerindicator/TabPageIndicator.java	/^        public TabView(Context context) {$/;"	m	class:TabPageIndicator.TabView
+TabView	library/src/com/viewpagerindicator/TabPageIndicator.java	/^    private class TabView extends TextView {$/;"	c	class:TabPageIndicator
+TestFragment	sample/src/com/viewpagerindicator/sample/TestFragment.java	/^public final class TestFragment extends Fragment {$/;"	c
+TestFragmentAdapter	sample/src/com/viewpagerindicator/sample/TestFragmentAdapter.java	/^    public TestFragmentAdapter(FragmentManager fm) {$/;"	m	class:TestFragmentAdapter
+TestFragmentAdapter	sample/src/com/viewpagerindicator/sample/TestFragmentAdapter.java	/^class TestFragmentAdapter extends FragmentPagerAdapter implements IconPagerAdapter {$/;"	c
+TextAppearance_TabPageIndicator	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int TextAppearance_TabPageIndicator=0x7f080003;$/;"	f	class:R.style
+TextAppearance_TabPageIndicator	library/gen/com/viewpagerindicator/R.java	/^        public static int TextAppearance_TabPageIndicator=0x7f080003;$/;"	f	class:R.style
+Theme_PageIndicatorDefaults	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int Theme_PageIndicatorDefaults=0x7f080000;$/;"	f	class:R.style
+Theme_PageIndicatorDefaults	library/gen/com/viewpagerindicator/R.java	/^        public static int Theme_PageIndicatorDefaults=0x7f080000;$/;"	f	class:R.style
+TitlePageIndicator	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int[] TitlePageIndicator = {$/;"	f	class:R.styleable
+TitlePageIndicator	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public TitlePageIndicator(Context context) {$/;"	m	class:TitlePageIndicator
+TitlePageIndicator	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public TitlePageIndicator(Context context, AttributeSet attrs) {$/;"	m	class:TitlePageIndicator
+TitlePageIndicator	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public TitlePageIndicator(Context context, AttributeSet attrs, int defStyle) {$/;"	m	class:TitlePageIndicator
+TitlePageIndicator	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^public class TitlePageIndicator extends View implements PageIndicator {$/;"	c
+TitlePageIndicator	library/gen/com/viewpagerindicator/R.java	/^        public static final int[] TitlePageIndicator = {$/;"	f	class:R.styleable
+TitlePageIndicator	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public TitlePageIndicator(Context context) {$/;"	m	class:TitlePageIndicator
+TitlePageIndicator	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public TitlePageIndicator(Context context, AttributeSet attrs) {$/;"	m	class:TitlePageIndicator
+TitlePageIndicator	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public TitlePageIndicator(Context context, AttributeSet attrs, int defStyle) {$/;"	m	class:TitlePageIndicator
+TitlePageIndicator	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^public class TitlePageIndicator extends View implements PageIndicator {$/;"	c
+TitlePageIndicator_android_background	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int TitlePageIndicator_android_background = 2;$/;"	f	class:R.styleable
+TitlePageIndicator_android_background	library/gen/com/viewpagerindicator/R.java	/^        public static final int TitlePageIndicator_android_background = 2;$/;"	f	class:R.styleable
+TitlePageIndicator_android_textColor	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int TitlePageIndicator_android_textColor = 1;$/;"	f	class:R.styleable
+TitlePageIndicator_android_textColor	library/gen/com/viewpagerindicator/R.java	/^        public static final int TitlePageIndicator_android_textColor = 1;$/;"	f	class:R.styleable
+TitlePageIndicator_android_textSize	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int TitlePageIndicator_android_textSize = 0;$/;"	f	class:R.styleable
+TitlePageIndicator_android_textSize	library/gen/com/viewpagerindicator/R.java	/^        public static final int TitlePageIndicator_android_textSize = 0;$/;"	f	class:R.styleable
+TitlePageIndicator_clipPadding	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int TitlePageIndicator_clipPadding = 4;$/;"	f	class:R.styleable
+TitlePageIndicator_clipPadding	library/gen/com/viewpagerindicator/R.java	/^        public static final int TitlePageIndicator_clipPadding = 4;$/;"	f	class:R.styleable
+TitlePageIndicator_footerColor	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int TitlePageIndicator_footerColor = 5;$/;"	f	class:R.styleable
+TitlePageIndicator_footerColor	library/gen/com/viewpagerindicator/R.java	/^        public static final int TitlePageIndicator_footerColor = 5;$/;"	f	class:R.styleable
+TitlePageIndicator_footerIndicatorHeight	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int TitlePageIndicator_footerIndicatorHeight = 8;$/;"	f	class:R.styleable
+TitlePageIndicator_footerIndicatorHeight	library/gen/com/viewpagerindicator/R.java	/^        public static final int TitlePageIndicator_footerIndicatorHeight = 8;$/;"	f	class:R.styleable
+TitlePageIndicator_footerIndicatorStyle	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int TitlePageIndicator_footerIndicatorStyle = 7;$/;"	f	class:R.styleable
+TitlePageIndicator_footerIndicatorStyle	library/gen/com/viewpagerindicator/R.java	/^        public static final int TitlePageIndicator_footerIndicatorStyle = 7;$/;"	f	class:R.styleable
+TitlePageIndicator_footerIndicatorUnderlinePadding	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int TitlePageIndicator_footerIndicatorUnderlinePadding = 9;$/;"	f	class:R.styleable
+TitlePageIndicator_footerIndicatorUnderlinePadding	library/gen/com/viewpagerindicator/R.java	/^        public static final int TitlePageIndicator_footerIndicatorUnderlinePadding = 9;$/;"	f	class:R.styleable
+TitlePageIndicator_footerLineHeight	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int TitlePageIndicator_footerLineHeight = 6;$/;"	f	class:R.styleable
+TitlePageIndicator_footerLineHeight	library/gen/com/viewpagerindicator/R.java	/^        public static final int TitlePageIndicator_footerLineHeight = 6;$/;"	f	class:R.styleable
+TitlePageIndicator_footerPadding	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int TitlePageIndicator_footerPadding = 10;$/;"	f	class:R.styleable
+TitlePageIndicator_footerPadding	library/gen/com/viewpagerindicator/R.java	/^        public static final int TitlePageIndicator_footerPadding = 10;$/;"	f	class:R.styleable
+TitlePageIndicator_linePosition	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int TitlePageIndicator_linePosition = 11;$/;"	f	class:R.styleable
+TitlePageIndicator_linePosition	library/gen/com/viewpagerindicator/R.java	/^        public static final int TitlePageIndicator_linePosition = 11;$/;"	f	class:R.styleable
+TitlePageIndicator_selectedBold	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int TitlePageIndicator_selectedBold = 12;$/;"	f	class:R.styleable
+TitlePageIndicator_selectedBold	library/gen/com/viewpagerindicator/R.java	/^        public static final int TitlePageIndicator_selectedBold = 12;$/;"	f	class:R.styleable
+TitlePageIndicator_selectedColor	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int TitlePageIndicator_selectedColor = 3;$/;"	f	class:R.styleable
+TitlePageIndicator_selectedColor	library/gen/com/viewpagerindicator/R.java	/^        public static final int TitlePageIndicator_selectedColor = 3;$/;"	f	class:R.styleable
+TitlePageIndicator_titlePadding	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int TitlePageIndicator_titlePadding = 13;$/;"	f	class:R.styleable
+TitlePageIndicator_titlePadding	library/gen/com/viewpagerindicator/R.java	/^        public static final int TitlePageIndicator_titlePadding = 13;$/;"	f	class:R.styleable
+TitlePageIndicator_topPadding	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int TitlePageIndicator_topPadding = 14;$/;"	f	class:R.styleable
+TitlePageIndicator_topPadding	library/gen/com/viewpagerindicator/R.java	/^        public static final int TitlePageIndicator_topPadding = 14;$/;"	f	class:R.styleable
+Top	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^        Bottom(0), Top(1);$/;"	e	enum:TitlePageIndicator.LinePosition	file:
+Top	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^        Bottom(0), Top(1);$/;"	e	enum:TitlePageIndicator.LinePosition	file:
+Triangle	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^        None(0), Triangle(1), Underline(2);$/;"	e	enum:TitlePageIndicator.IndicatorStyle	file:
+Triangle	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^        None(0), Triangle(1), Underline(2);$/;"	e	enum:TitlePageIndicator.IndicatorStyle	file:
+Underline	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^        None(0), Triangle(1), Underline(2);$/;"	e	enum:TitlePageIndicator.IndicatorStyle	file:
+Underline	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^        None(0), Triangle(1), Underline(2);$/;"	e	enum:TitlePageIndicator.IndicatorStyle	file:
+UnderlinePageIndicator	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int[] UnderlinePageIndicator = {$/;"	f	class:R.styleable
+UnderlinePageIndicator	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public UnderlinePageIndicator(Context context) {$/;"	m	class:UnderlinePageIndicator
+UnderlinePageIndicator	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public UnderlinePageIndicator(Context context, AttributeSet attrs) {$/;"	m	class:UnderlinePageIndicator
+UnderlinePageIndicator	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public UnderlinePageIndicator(Context context, AttributeSet attrs, int defStyle) {$/;"	m	class:UnderlinePageIndicator
+UnderlinePageIndicator	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^public class UnderlinePageIndicator extends View implements PageIndicator {$/;"	c
+UnderlinePageIndicator	library/gen/com/viewpagerindicator/R.java	/^        public static final int[] UnderlinePageIndicator = {$/;"	f	class:R.styleable
+UnderlinePageIndicator	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public UnderlinePageIndicator(Context context) {$/;"	m	class:UnderlinePageIndicator
+UnderlinePageIndicator	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public UnderlinePageIndicator(Context context, AttributeSet attrs) {$/;"	m	class:UnderlinePageIndicator
+UnderlinePageIndicator	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public UnderlinePageIndicator(Context context, AttributeSet attrs, int defStyle) {$/;"	m	class:UnderlinePageIndicator
+UnderlinePageIndicator	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^public class UnderlinePageIndicator extends View implements PageIndicator {$/;"	c
+UnderlinePageIndicator_android_background	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int UnderlinePageIndicator_android_background = 0;$/;"	f	class:R.styleable
+UnderlinePageIndicator_android_background	library/gen/com/viewpagerindicator/R.java	/^        public static final int UnderlinePageIndicator_android_background = 0;$/;"	f	class:R.styleable
+UnderlinePageIndicator_fadeDelay	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int UnderlinePageIndicator_fadeDelay = 3;$/;"	f	class:R.styleable
+UnderlinePageIndicator_fadeDelay	library/gen/com/viewpagerindicator/R.java	/^        public static final int UnderlinePageIndicator_fadeDelay = 3;$/;"	f	class:R.styleable
+UnderlinePageIndicator_fadeLength	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int UnderlinePageIndicator_fadeLength = 4;$/;"	f	class:R.styleable
+UnderlinePageIndicator_fadeLength	library/gen/com/viewpagerindicator/R.java	/^        public static final int UnderlinePageIndicator_fadeLength = 4;$/;"	f	class:R.styleable
+UnderlinePageIndicator_fades	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int UnderlinePageIndicator_fades = 2;$/;"	f	class:R.styleable
+UnderlinePageIndicator_fades	library/gen/com/viewpagerindicator/R.java	/^        public static final int UnderlinePageIndicator_fades = 2;$/;"	f	class:R.styleable
+UnderlinePageIndicator_selectedColor	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int UnderlinePageIndicator_selectedColor = 1;$/;"	f	class:R.styleable
+UnderlinePageIndicator_selectedColor	library/gen/com/viewpagerindicator/R.java	/^        public static final int UnderlinePageIndicator_selectedColor = 1;$/;"	f	class:R.styleable
+ViewPagerIndicator	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int[] ViewPagerIndicator = {$/;"	f	class:R.styleable
+ViewPagerIndicator	library/gen/com/viewpagerindicator/R.java	/^        public static final int[] ViewPagerIndicator = {$/;"	f	class:R.styleable
+ViewPagerIndicator_vpiCirclePageIndicatorStyle	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int ViewPagerIndicator_vpiCirclePageIndicatorStyle = 0;$/;"	f	class:R.styleable
+ViewPagerIndicator_vpiCirclePageIndicatorStyle	library/gen/com/viewpagerindicator/R.java	/^        public static final int ViewPagerIndicator_vpiCirclePageIndicatorStyle = 0;$/;"	f	class:R.styleable
+ViewPagerIndicator_vpiIconPageIndicatorStyle	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int ViewPagerIndicator_vpiIconPageIndicatorStyle = 1;$/;"	f	class:R.styleable
+ViewPagerIndicator_vpiIconPageIndicatorStyle	library/gen/com/viewpagerindicator/R.java	/^        public static final int ViewPagerIndicator_vpiIconPageIndicatorStyle = 1;$/;"	f	class:R.styleable
+ViewPagerIndicator_vpiLinePageIndicatorStyle	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int ViewPagerIndicator_vpiLinePageIndicatorStyle = 2;$/;"	f	class:R.styleable
+ViewPagerIndicator_vpiLinePageIndicatorStyle	library/gen/com/viewpagerindicator/R.java	/^        public static final int ViewPagerIndicator_vpiLinePageIndicatorStyle = 2;$/;"	f	class:R.styleable
+ViewPagerIndicator_vpiTabPageIndicatorStyle	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int ViewPagerIndicator_vpiTabPageIndicatorStyle = 4;$/;"	f	class:R.styleable
+ViewPagerIndicator_vpiTabPageIndicatorStyle	library/gen/com/viewpagerindicator/R.java	/^        public static final int ViewPagerIndicator_vpiTabPageIndicatorStyle = 4;$/;"	f	class:R.styleable
+ViewPagerIndicator_vpiTitlePageIndicatorStyle	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int ViewPagerIndicator_vpiTitlePageIndicatorStyle = 3;$/;"	f	class:R.styleable
+ViewPagerIndicator_vpiTitlePageIndicatorStyle	library/gen/com/viewpagerindicator/R.java	/^        public static final int ViewPagerIndicator_vpiTitlePageIndicatorStyle = 3;$/;"	f	class:R.styleable
+ViewPagerIndicator_vpiUnderlinePageIndicatorStyle	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static final int ViewPagerIndicator_vpiUnderlinePageIndicatorStyle = 5;$/;"	f	class:R.styleable
+ViewPagerIndicator_vpiUnderlinePageIndicatorStyle	library/gen/com/viewpagerindicator/R.java	/^        public static final int ViewPagerIndicator_vpiUnderlinePageIndicatorStyle = 5;$/;"	f	class:R.styleable
+Widget	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int Widget=0x7f080001;$/;"	f	class:R.style
+Widget	library/gen/com/viewpagerindicator/R.java	/^        public static int Widget=0x7f080001;$/;"	f	class:R.style
+Widget_IconPageIndicator	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int Widget_IconPageIndicator=0x7f080004;$/;"	f	class:R.style
+Widget_IconPageIndicator	library/gen/com/viewpagerindicator/R.java	/^        public static int Widget_IconPageIndicator=0x7f080004;$/;"	f	class:R.style
+Widget_TabPageIndicator	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int Widget_TabPageIndicator=0x7f080002;$/;"	f	class:R.style
+Widget_TabPageIndicator	library/gen/com/viewpagerindicator/R.java	/^        public static int Widget_TabPageIndicator=0x7f080002;$/;"	f	class:R.style
+activityIntent	sample/src/com/viewpagerindicator/sample/ListSamples.java	/^    protected Intent activityIntent(String pkg, String componentName) {$/;"	m	class:ListSamples
+addItem	sample/src/com/viewpagerindicator/sample/ListSamples.java	/^    protected void addItem(List<Map<String, Object>> data, String name, Intent intent) {$/;"	m	class:ListSamples
+addTab	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TabPageIndicator.java	/^    private void addTab(int index, CharSequence text, int iconResId) {$/;"	m	class:TabPageIndicator	file:
+addTab	library/src/com/viewpagerindicator/TabPageIndicator.java	/^    private void addTab(int index, CharSequence text, int iconResId) {$/;"	m	class:TabPageIndicator	file:
+animateToIcon	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IconPageIndicator.java	/^    private void animateToIcon(final int position) {$/;"	m	class:IconPageIndicator	file:
+animateToIcon	library/src/com/viewpagerindicator/IconPageIndicator.java	/^    private void animateToIcon(final int position) {$/;"	m	class:IconPageIndicator	file:
+animateToTab	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TabPageIndicator.java	/^    private void animateToTab(final int position) {$/;"	m	class:TabPageIndicator	file:
+animateToTab	library/src/com/viewpagerindicator/TabPageIndicator.java	/^    private void animateToTab(final int position) {$/;"	m	class:TabPageIndicator	file:
+attr	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^    public static final class attr {$/;"	c	class:R
+attr	library/gen/com/viewpagerindicator/R.java	/^    public static final class attr {$/;"	c	class:R
+bool	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^    public static final class bool {$/;"	c	class:R
+bool	library/gen/com/viewpagerindicator/R.java	/^    public static final class bool {$/;"	c	class:R
+bottom	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int bottom=0x7f030003;$/;"	f	class:R.id
+bottom	library/gen/com/viewpagerindicator/R.java	/^        public static int bottom=0x7f030003;$/;"	f	class:R.id
+browseIntent	sample/src/com/viewpagerindicator/sample/ListSamples.java	/^    protected Intent browseIntent(String path) {$/;"	m	class:ListSamples
+calcBounds	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private Rect calcBounds(int index, Paint paint) {$/;"	m	class:TitlePageIndicator	file:
+calcBounds	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private Rect calcBounds(int index, Paint paint) {$/;"	m	class:TitlePageIndicator	file:
+calculateAllBounds	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private ArrayList<Rect> calculateAllBounds(Paint paint) {$/;"	m	class:TitlePageIndicator	file:
+calculateAllBounds	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private ArrayList<Rect> calculateAllBounds(Paint paint) {$/;"	m	class:TitlePageIndicator	file:
+centered	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int centered=0x7f010006;$/;"	f	class:R.attr
+centered	library/gen/com/viewpagerindicator/R.java	/^        public static int centered=0x7f010006;$/;"	f	class:R.attr
+clipPadding	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int clipPadding=0x7f010011;$/;"	f	class:R.attr
+clipPadding	library/gen/com/viewpagerindicator/R.java	/^        public static int clipPadding=0x7f010011;$/;"	f	class:R.attr
+clipViewOnTheLeft	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private void clipViewOnTheLeft(Rect curViewBound, float curViewWidth, int left) {$/;"	m	class:TitlePageIndicator	file:
+clipViewOnTheLeft	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private void clipViewOnTheLeft(Rect curViewBound, float curViewWidth, int left) {$/;"	m	class:TitlePageIndicator	file:
+clipViewOnTheRight	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private void clipViewOnTheRight(Rect curViewBound, float curViewWidth, int right) {$/;"	m	class:TitlePageIndicator	file:
+clipViewOnTheRight	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private void clipViewOnTheRight(Rect curViewBound, float curViewWidth, int right) {$/;"	m	class:TitlePageIndicator	file:
+color	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^    public static final class color {$/;"	c	class:R
+color	library/gen/com/viewpagerindicator/R.java	/^    public static final class color {$/;"	c	class:R
+com.viewpagerindicator	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/BuildConfig.java	/^package com.viewpagerindicator;$/;"	p
+com.viewpagerindicator	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^package com.viewpagerindicator;$/;"	p
+com.viewpagerindicator	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^package com.viewpagerindicator;$/;"	p
+com.viewpagerindicator	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IconPageIndicator.java	/^package com.viewpagerindicator;$/;"	p
+com.viewpagerindicator	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IconPagerAdapter.java	/^package com.viewpagerindicator;$/;"	p
+com.viewpagerindicator	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IcsLinearLayout.java	/^package com.viewpagerindicator;$/;"	p
+com.viewpagerindicator	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^package com.viewpagerindicator;$/;"	p
+com.viewpagerindicator	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/PageIndicator.java	/^package com.viewpagerindicator;$/;"	p
+com.viewpagerindicator	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TabPageIndicator.java	/^package com.viewpagerindicator;$/;"	p
+com.viewpagerindicator	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^package com.viewpagerindicator;$/;"	p
+com.viewpagerindicator	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^package com.viewpagerindicator;$/;"	p
+com.viewpagerindicator	library/gen/com/viewpagerindicator/BuildConfig.java	/^package com.viewpagerindicator;$/;"	p
+com.viewpagerindicator	library/gen/com/viewpagerindicator/R.java	/^package com.viewpagerindicator;$/;"	p
+com.viewpagerindicator	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^package com.viewpagerindicator;$/;"	p
+com.viewpagerindicator	library/src/com/viewpagerindicator/IconPageIndicator.java	/^package com.viewpagerindicator;$/;"	p
+com.viewpagerindicator	library/src/com/viewpagerindicator/IconPagerAdapter.java	/^package com.viewpagerindicator;$/;"	p
+com.viewpagerindicator	library/src/com/viewpagerindicator/IcsLinearLayout.java	/^package com.viewpagerindicator;$/;"	p
+com.viewpagerindicator	library/src/com/viewpagerindicator/LinePageIndicator.java	/^package com.viewpagerindicator;$/;"	p
+com.viewpagerindicator	library/src/com/viewpagerindicator/PageIndicator.java	/^package com.viewpagerindicator;$/;"	p
+com.viewpagerindicator	library/src/com/viewpagerindicator/TabPageIndicator.java	/^package com.viewpagerindicator;$/;"	p
+com.viewpagerindicator	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^package com.viewpagerindicator;$/;"	p
+com.viewpagerindicator	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^package com.viewpagerindicator;$/;"	p
+com.viewpagerindicator.sample	sample/src/com/viewpagerindicator/sample/BaseSampleActivity.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	sample/src/com/viewpagerindicator/sample/ListSamples.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	sample/src/com/viewpagerindicator/sample/SampleCirclesDefault.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	sample/src/com/viewpagerindicator/sample/SampleCirclesInitialPage.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	sample/src/com/viewpagerindicator/sample/SampleCirclesSnap.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	sample/src/com/viewpagerindicator/sample/SampleCirclesStyledLayout.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	sample/src/com/viewpagerindicator/sample/SampleCirclesStyledMethods.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	sample/src/com/viewpagerindicator/sample/SampleCirclesStyledTheme.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	sample/src/com/viewpagerindicator/sample/SampleCirclesWithListener.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	sample/src/com/viewpagerindicator/sample/SampleIconsDefault.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	sample/src/com/viewpagerindicator/sample/SampleLinesDefault.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	sample/src/com/viewpagerindicator/sample/SampleLinesStyledLayout.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	sample/src/com/viewpagerindicator/sample/SampleLinesStyledMethods.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	sample/src/com/viewpagerindicator/sample/SampleLinesStyledTheme.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	sample/src/com/viewpagerindicator/sample/SampleTabsDefault.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	sample/src/com/viewpagerindicator/sample/SampleTabsStyled.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	sample/src/com/viewpagerindicator/sample/SampleTabsWithIcons.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	sample/src/com/viewpagerindicator/sample/SampleTitlesBottom.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	sample/src/com/viewpagerindicator/sample/SampleTitlesCenterClickListener.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	sample/src/com/viewpagerindicator/sample/SampleTitlesDefault.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	sample/src/com/viewpagerindicator/sample/SampleTitlesInitialPage.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	sample/src/com/viewpagerindicator/sample/SampleTitlesStyledLayout.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	sample/src/com/viewpagerindicator/sample/SampleTitlesStyledMethods.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	sample/src/com/viewpagerindicator/sample/SampleTitlesStyledTheme.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	sample/src/com/viewpagerindicator/sample/SampleTitlesTriangle.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	sample/src/com/viewpagerindicator/sample/SampleTitlesWithListener.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	sample/src/com/viewpagerindicator/sample/SampleUnderlinesDefault.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	sample/src/com/viewpagerindicator/sample/SampleUnderlinesNoFade.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	sample/src/com/viewpagerindicator/sample/SampleUnderlinesStyledLayout.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	sample/src/com/viewpagerindicator/sample/SampleUnderlinesStyledMethods.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	sample/src/com/viewpagerindicator/sample/SampleUnderlinesStyledTheme.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	sample/src/com/viewpagerindicator/sample/TestFragment.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	sample/src/com/viewpagerindicator/sample/TestFragmentAdapter.java	/^package com.viewpagerindicator.sample;$/;"	p
+currentPage	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^        int currentPage;$/;"	f	class:CirclePageIndicator.SavedState
+currentPage	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^        int currentPage;$/;"	f	class:LinePageIndicator.SavedState
+currentPage	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^        int currentPage;$/;"	f	class:TitlePageIndicator.SavedState
+currentPage	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^        int currentPage;$/;"	f	class:UnderlinePageIndicator.SavedState
+currentPage	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^        int currentPage;$/;"	f	class:CirclePageIndicator.SavedState
+currentPage	library/src/com/viewpagerindicator/LinePageIndicator.java	/^        int currentPage;$/;"	f	class:LinePageIndicator.SavedState
+currentPage	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^        int currentPage;$/;"	f	class:TitlePageIndicator.SavedState
+currentPage	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^        int currentPage;$/;"	f	class:UnderlinePageIndicator.SavedState
+default_circle_indicator_centered	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int default_circle_indicator_centered=0x7f050000;$/;"	f	class:R.bool
+default_circle_indicator_centered	library/gen/com/viewpagerindicator/R.java	/^        public static int default_circle_indicator_centered=0x7f050000;$/;"	f	class:R.bool
+default_circle_indicator_fill_color	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int default_circle_indicator_fill_color=0x7f040008;$/;"	f	class:R.color
+default_circle_indicator_fill_color	library/gen/com/viewpagerindicator/R.java	/^        public static int default_circle_indicator_fill_color=0x7f040008;$/;"	f	class:R.color
+default_circle_indicator_orientation	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int default_circle_indicator_orientation=0x7f060000;$/;"	f	class:R.integer
+default_circle_indicator_orientation	library/gen/com/viewpagerindicator/R.java	/^        public static int default_circle_indicator_orientation=0x7f060000;$/;"	f	class:R.integer
+default_circle_indicator_page_color	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int default_circle_indicator_page_color=0x7f040009;$/;"	f	class:R.color
+default_circle_indicator_page_color	library/gen/com/viewpagerindicator/R.java	/^        public static int default_circle_indicator_page_color=0x7f040009;$/;"	f	class:R.color
+default_circle_indicator_radius	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int default_circle_indicator_radius=0x7f070000;$/;"	f	class:R.dimen
+default_circle_indicator_radius	library/gen/com/viewpagerindicator/R.java	/^        public static int default_circle_indicator_radius=0x7f070000;$/;"	f	class:R.dimen
+default_circle_indicator_snap	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int default_circle_indicator_snap=0x7f050001;$/;"	f	class:R.bool
+default_circle_indicator_snap	library/gen/com/viewpagerindicator/R.java	/^        public static int default_circle_indicator_snap=0x7f050001;$/;"	f	class:R.bool
+default_circle_indicator_stroke_color	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int default_circle_indicator_stroke_color=0x7f04000a;$/;"	f	class:R.color
+default_circle_indicator_stroke_color	library/gen/com/viewpagerindicator/R.java	/^        public static int default_circle_indicator_stroke_color=0x7f04000a;$/;"	f	class:R.color
+default_circle_indicator_stroke_width	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int default_circle_indicator_stroke_width=0x7f070001;$/;"	f	class:R.dimen
+default_circle_indicator_stroke_width	library/gen/com/viewpagerindicator/R.java	/^        public static int default_circle_indicator_stroke_width=0x7f070001;$/;"	f	class:R.dimen
+default_line_indicator_centered	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int default_line_indicator_centered=0x7f050002;$/;"	f	class:R.bool
+default_line_indicator_centered	library/gen/com/viewpagerindicator/R.java	/^        public static int default_line_indicator_centered=0x7f050002;$/;"	f	class:R.bool
+default_line_indicator_gap_width	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int default_line_indicator_gap_width=0x7f070003;$/;"	f	class:R.dimen
+default_line_indicator_gap_width	library/gen/com/viewpagerindicator/R.java	/^        public static int default_line_indicator_gap_width=0x7f070003;$/;"	f	class:R.dimen
+default_line_indicator_line_width	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int default_line_indicator_line_width=0x7f070002;$/;"	f	class:R.dimen
+default_line_indicator_line_width	library/gen/com/viewpagerindicator/R.java	/^        public static int default_line_indicator_line_width=0x7f070002;$/;"	f	class:R.dimen
+default_line_indicator_selected_color	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int default_line_indicator_selected_color=0x7f04000b;$/;"	f	class:R.color
+default_line_indicator_selected_color	library/gen/com/viewpagerindicator/R.java	/^        public static int default_line_indicator_selected_color=0x7f04000b;$/;"	f	class:R.color
+default_line_indicator_stroke_width	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int default_line_indicator_stroke_width=0x7f070004;$/;"	f	class:R.dimen
+default_line_indicator_stroke_width	library/gen/com/viewpagerindicator/R.java	/^        public static int default_line_indicator_stroke_width=0x7f070004;$/;"	f	class:R.dimen
+default_line_indicator_unselected_color	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int default_line_indicator_unselected_color=0x7f04000c;$/;"	f	class:R.color
+default_line_indicator_unselected_color	library/gen/com/viewpagerindicator/R.java	/^        public static int default_line_indicator_unselected_color=0x7f04000c;$/;"	f	class:R.color
+default_title_indicator_clip_padding	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int default_title_indicator_clip_padding=0x7f070005;$/;"	f	class:R.dimen
+default_title_indicator_clip_padding	library/gen/com/viewpagerindicator/R.java	/^        public static int default_title_indicator_clip_padding=0x7f070005;$/;"	f	class:R.dimen
+default_title_indicator_footer_color	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int default_title_indicator_footer_color=0x7f04000d;$/;"	f	class:R.color
+default_title_indicator_footer_color	library/gen/com/viewpagerindicator/R.java	/^        public static int default_title_indicator_footer_color=0x7f04000d;$/;"	f	class:R.color
+default_title_indicator_footer_indicator_height	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int default_title_indicator_footer_indicator_height=0x7f070007;$/;"	f	class:R.dimen
+default_title_indicator_footer_indicator_height	library/gen/com/viewpagerindicator/R.java	/^        public static int default_title_indicator_footer_indicator_height=0x7f070007;$/;"	f	class:R.dimen
+default_title_indicator_footer_indicator_style	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int default_title_indicator_footer_indicator_style=0x7f060001;$/;"	f	class:R.integer
+default_title_indicator_footer_indicator_style	library/gen/com/viewpagerindicator/R.java	/^        public static int default_title_indicator_footer_indicator_style=0x7f060001;$/;"	f	class:R.integer
+default_title_indicator_footer_indicator_underline_padding	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int default_title_indicator_footer_indicator_underline_padding=0x7f070008;$/;"	f	class:R.dimen
+default_title_indicator_footer_indicator_underline_padding	library/gen/com/viewpagerindicator/R.java	/^        public static int default_title_indicator_footer_indicator_underline_padding=0x7f070008;$/;"	f	class:R.dimen
+default_title_indicator_footer_line_height	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int default_title_indicator_footer_line_height=0x7f070006;$/;"	f	class:R.dimen
+default_title_indicator_footer_line_height	library/gen/com/viewpagerindicator/R.java	/^        public static int default_title_indicator_footer_line_height=0x7f070006;$/;"	f	class:R.dimen
+default_title_indicator_footer_padding	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int default_title_indicator_footer_padding=0x7f070009;$/;"	f	class:R.dimen
+default_title_indicator_footer_padding	library/gen/com/viewpagerindicator/R.java	/^        public static int default_title_indicator_footer_padding=0x7f070009;$/;"	f	class:R.dimen
+default_title_indicator_line_position	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int default_title_indicator_line_position=0x7f060002;$/;"	f	class:R.integer
+default_title_indicator_line_position	library/gen/com/viewpagerindicator/R.java	/^        public static int default_title_indicator_line_position=0x7f060002;$/;"	f	class:R.integer
+default_title_indicator_selected_bold	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int default_title_indicator_selected_bold=0x7f050003;$/;"	f	class:R.bool
+default_title_indicator_selected_bold	library/gen/com/viewpagerindicator/R.java	/^        public static int default_title_indicator_selected_bold=0x7f050003;$/;"	f	class:R.bool
+default_title_indicator_selected_color	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int default_title_indicator_selected_color=0x7f04000e;$/;"	f	class:R.color
+default_title_indicator_selected_color	library/gen/com/viewpagerindicator/R.java	/^        public static int default_title_indicator_selected_color=0x7f04000e;$/;"	f	class:R.color
+default_title_indicator_text_color	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int default_title_indicator_text_color=0x7f04000f;$/;"	f	class:R.color
+default_title_indicator_text_color	library/gen/com/viewpagerindicator/R.java	/^        public static int default_title_indicator_text_color=0x7f04000f;$/;"	f	class:R.color
+default_title_indicator_text_size	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int default_title_indicator_text_size=0x7f07000a;$/;"	f	class:R.dimen
+default_title_indicator_text_size	library/gen/com/viewpagerindicator/R.java	/^        public static int default_title_indicator_text_size=0x7f07000a;$/;"	f	class:R.dimen
+default_title_indicator_title_padding	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int default_title_indicator_title_padding=0x7f07000b;$/;"	f	class:R.dimen
+default_title_indicator_title_padding	library/gen/com/viewpagerindicator/R.java	/^        public static int default_title_indicator_title_padding=0x7f07000b;$/;"	f	class:R.dimen
+default_title_indicator_top_padding	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int default_title_indicator_top_padding=0x7f07000c;$/;"	f	class:R.dimen
+default_title_indicator_top_padding	library/gen/com/viewpagerindicator/R.java	/^        public static int default_title_indicator_top_padding=0x7f07000c;$/;"	f	class:R.dimen
+default_underline_indicator_fade_delay	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int default_underline_indicator_fade_delay=0x7f060003;$/;"	f	class:R.integer
+default_underline_indicator_fade_delay	library/gen/com/viewpagerindicator/R.java	/^        public static int default_underline_indicator_fade_delay=0x7f060003;$/;"	f	class:R.integer
+default_underline_indicator_fade_length	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int default_underline_indicator_fade_length=0x7f060004;$/;"	f	class:R.integer
+default_underline_indicator_fade_length	library/gen/com/viewpagerindicator/R.java	/^        public static int default_underline_indicator_fade_length=0x7f060004;$/;"	f	class:R.integer
+default_underline_indicator_fades	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int default_underline_indicator_fades=0x7f050004;$/;"	f	class:R.bool
+default_underline_indicator_fades	library/gen/com/viewpagerindicator/R.java	/^        public static int default_underline_indicator_fades=0x7f050004;$/;"	f	class:R.bool
+default_underline_indicator_selected_color	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int default_underline_indicator_selected_color=0x7f040010;$/;"	f	class:R.color
+default_underline_indicator_selected_color	library/gen/com/viewpagerindicator/R.java	/^        public static int default_underline_indicator_selected_color=0x7f040010;$/;"	f	class:R.color
+dimen	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^    public static final class dimen {$/;"	c	class:R
+dimen	library/gen/com/viewpagerindicator/R.java	/^    public static final class dimen {$/;"	c	class:R
+drawDividersHorizontal	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IcsLinearLayout.java	/^    private void drawDividersHorizontal(Canvas canvas) {$/;"	m	class:IcsLinearLayout	file:
+drawDividersHorizontal	library/src/com/viewpagerindicator/IcsLinearLayout.java	/^    private void drawDividersHorizontal(Canvas canvas) {$/;"	m	class:IcsLinearLayout	file:
+drawDividersVertical	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IcsLinearLayout.java	/^    private void drawDividersVertical(Canvas canvas) {$/;"	m	class:IcsLinearLayout	file:
+drawDividersVertical	library/src/com/viewpagerindicator/IcsLinearLayout.java	/^    private void drawDividersVertical(Canvas canvas) {$/;"	m	class:IcsLinearLayout	file:
+drawHorizontalDivider	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IcsLinearLayout.java	/^    private void drawHorizontalDivider(Canvas canvas, int top) {$/;"	m	class:IcsLinearLayout	file:
+drawHorizontalDivider	library/src/com/viewpagerindicator/IcsLinearLayout.java	/^    private void drawHorizontalDivider(Canvas canvas, int top) {$/;"	m	class:IcsLinearLayout	file:
+drawVerticalDivider	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IcsLinearLayout.java	/^    private void drawVerticalDivider(Canvas canvas, int left) {$/;"	m	class:IcsLinearLayout	file:
+drawVerticalDivider	library/src/com/viewpagerindicator/IcsLinearLayout.java	/^    private void drawVerticalDivider(Canvas canvas, int left) {$/;"	m	class:IcsLinearLayout	file:
+drawable	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^    public static final class drawable {$/;"	c	class:R
+drawable	library/gen/com/viewpagerindicator/R.java	/^    public static final class drawable {$/;"	c	class:R
+fadeDelay	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int fadeDelay=0x7f01001d;$/;"	f	class:R.attr
+fadeDelay	library/gen/com/viewpagerindicator/R.java	/^        public static int fadeDelay=0x7f01001d;$/;"	f	class:R.attr
+fadeLength	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int fadeLength=0x7f01001e;$/;"	f	class:R.attr
+fadeLength	library/gen/com/viewpagerindicator/R.java	/^        public static int fadeLength=0x7f01001e;$/;"	f	class:R.attr
+fades	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int fades=0x7f01001c;$/;"	f	class:R.attr
+fades	library/gen/com/viewpagerindicator/R.java	/^        public static int fades=0x7f01001c;$/;"	f	class:R.attr
+fillColor	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int fillColor=0x7f01000a;$/;"	f	class:R.attr
+fillColor	library/gen/com/viewpagerindicator/R.java	/^        public static int fillColor=0x7f01000a;$/;"	f	class:R.attr
+footerColor	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int footerColor=0x7f010012;$/;"	f	class:R.attr
+footerColor	library/gen/com/viewpagerindicator/R.java	/^        public static int footerColor=0x7f010012;$/;"	f	class:R.attr
+footerIndicatorHeight	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int footerIndicatorHeight=0x7f010015;$/;"	f	class:R.attr
+footerIndicatorHeight	library/gen/com/viewpagerindicator/R.java	/^        public static int footerIndicatorHeight=0x7f010015;$/;"	f	class:R.attr
+footerIndicatorStyle	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int footerIndicatorStyle=0x7f010014;$/;"	f	class:R.attr
+footerIndicatorStyle	library/gen/com/viewpagerindicator/R.java	/^        public static int footerIndicatorStyle=0x7f010014;$/;"	f	class:R.attr
+footerIndicatorUnderlinePadding	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int footerIndicatorUnderlinePadding=0x7f010016;$/;"	f	class:R.attr
+footerIndicatorUnderlinePadding	library/gen/com/viewpagerindicator/R.java	/^        public static int footerIndicatorUnderlinePadding=0x7f010016;$/;"	f	class:R.attr
+footerLineHeight	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int footerLineHeight=0x7f010013;$/;"	f	class:R.attr
+footerLineHeight	library/gen/com/viewpagerindicator/R.java	/^        public static int footerLineHeight=0x7f010013;$/;"	f	class:R.attr
+footerPadding	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int footerPadding=0x7f010017;$/;"	f	class:R.attr
+footerPadding	library/gen/com/viewpagerindicator/R.java	/^        public static int footerPadding=0x7f010017;$/;"	f	class:R.attr
+fromValue	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^        public static IndicatorStyle fromValue(int value) {$/;"	m	class:TitlePageIndicator.IndicatorStyle
+fromValue	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^        public static LinePosition fromValue(int value) {$/;"	m	class:TitlePageIndicator.LinePosition
+fromValue	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^        public static IndicatorStyle fromValue(int value) {$/;"	m	class:TitlePageIndicator.IndicatorStyle
+fromValue	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^        public static LinePosition fromValue(int value) {$/;"	m	class:TitlePageIndicator.LinePosition
+gapWidth	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int gapWidth=0x7f010010;$/;"	f	class:R.attr
+gapWidth	library/gen/com/viewpagerindicator/R.java	/^        public static int gapWidth=0x7f010010;$/;"	f	class:R.attr
+getClipPadding	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public float getClipPadding() {$/;"	m	class:TitlePageIndicator
+getClipPadding	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public float getClipPadding() {$/;"	m	class:TitlePageIndicator
+getCount	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IconPagerAdapter.java	/^    int getCount();$/;"	m	interface:IconPagerAdapter
+getCount	library/src/com/viewpagerindicator/IconPagerAdapter.java	/^    int getCount();$/;"	m	interface:IconPagerAdapter
+getCount	sample/src/com/viewpagerindicator/sample/SampleTabsDefault.java	/^        public int getCount() {$/;"	m	class:SampleTabsDefault.GoogleMusicAdapter
+getCount	sample/src/com/viewpagerindicator/sample/SampleTabsStyled.java	/^        public int getCount() {$/;"	m	class:SampleTabsStyled.GoogleMusicAdapter
+getCount	sample/src/com/viewpagerindicator/sample/SampleTabsWithIcons.java	/^        public int getCount() {$/;"	m	class:SampleTabsWithIcons.GoogleMusicAdapter
+getCount	sample/src/com/viewpagerindicator/sample/TestFragmentAdapter.java	/^    public int getCount() {$/;"	m	class:TestFragmentAdapter
+getData	sample/src/com/viewpagerindicator/sample/ListSamples.java	/^    protected List<Map<String, Object>> getData(String prefix) {$/;"	m	class:ListSamples
+getFadeDelay	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public int getFadeDelay() {$/;"	m	class:UnderlinePageIndicator
+getFadeDelay	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public int getFadeDelay() {$/;"	m	class:UnderlinePageIndicator
+getFadeLength	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public int getFadeLength() {$/;"	m	class:UnderlinePageIndicator
+getFadeLength	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public int getFadeLength() {$/;"	m	class:UnderlinePageIndicator
+getFades	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public boolean getFades() {$/;"	m	class:UnderlinePageIndicator
+getFades	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public boolean getFades() {$/;"	m	class:UnderlinePageIndicator
+getFillColor	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public int getFillColor() {$/;"	m	class:CirclePageIndicator
+getFillColor	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public int getFillColor() {$/;"	m	class:CirclePageIndicator
+getFooterColor	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public int getFooterColor() {$/;"	m	class:TitlePageIndicator
+getFooterColor	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public int getFooterColor() {$/;"	m	class:TitlePageIndicator
+getFooterIndicatorHeight	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public float getFooterIndicatorHeight() {$/;"	m	class:TitlePageIndicator
+getFooterIndicatorHeight	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public float getFooterIndicatorHeight() {$/;"	m	class:TitlePageIndicator
+getFooterIndicatorPadding	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public float getFooterIndicatorPadding() {$/;"	m	class:TitlePageIndicator
+getFooterIndicatorPadding	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public float getFooterIndicatorPadding() {$/;"	m	class:TitlePageIndicator
+getFooterIndicatorStyle	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public IndicatorStyle getFooterIndicatorStyle() {$/;"	m	class:TitlePageIndicator
+getFooterIndicatorStyle	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public IndicatorStyle getFooterIndicatorStyle() {$/;"	m	class:TitlePageIndicator
+getFooterLineHeight	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public float getFooterLineHeight() {$/;"	m	class:TitlePageIndicator
+getFooterLineHeight	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public float getFooterLineHeight() {$/;"	m	class:TitlePageIndicator
+getGapWidth	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    public float getGapWidth() {$/;"	m	class:LinePageIndicator
+getGapWidth	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    public float getGapWidth() {$/;"	m	class:LinePageIndicator
+getIconResId	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IconPagerAdapter.java	/^    int getIconResId(int index);$/;"	m	interface:IconPagerAdapter
+getIconResId	library/src/com/viewpagerindicator/IconPagerAdapter.java	/^    int getIconResId(int index);$/;"	m	interface:IconPagerAdapter
+getIconResId	sample/src/com/viewpagerindicator/sample/SampleTabsWithIcons.java	/^        @Override public int getIconResId(int index) {$/;"	m	class:SampleTabsWithIcons.GoogleMusicAdapter
+getIconResId	sample/src/com/viewpagerindicator/sample/TestFragmentAdapter.java	/^    public int getIconResId(int index) {$/;"	m	class:TestFragmentAdapter
+getIndex	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TabPageIndicator.java	/^        public int getIndex() {$/;"	m	class:TabPageIndicator.TabView
+getIndex	library/src/com/viewpagerindicator/TabPageIndicator.java	/^        public int getIndex() {$/;"	m	class:TabPageIndicator.TabView
+getItem	sample/src/com/viewpagerindicator/sample/SampleTabsDefault.java	/^        public Fragment getItem(int position) {$/;"	m	class:SampleTabsDefault.GoogleMusicAdapter
+getItem	sample/src/com/viewpagerindicator/sample/SampleTabsStyled.java	/^        public Fragment getItem(int position) {$/;"	m	class:SampleTabsStyled.GoogleMusicAdapter
+getItem	sample/src/com/viewpagerindicator/sample/SampleTabsWithIcons.java	/^        public Fragment getItem(int position) {$/;"	m	class:SampleTabsWithIcons.GoogleMusicAdapter
+getItem	sample/src/com/viewpagerindicator/sample/TestFragmentAdapter.java	/^    public Fragment getItem(int position) {$/;"	m	class:TestFragmentAdapter
+getLinePosition	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public LinePosition getLinePosition() {$/;"	m	class:TitlePageIndicator
+getLinePosition	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public LinePosition getLinePosition() {$/;"	m	class:TitlePageIndicator
+getLineWidth	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    public float getLineWidth() {$/;"	m	class:LinePageIndicator
+getLineWidth	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    public float getLineWidth() {$/;"	m	class:LinePageIndicator
+getOrientation	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public int getOrientation() {$/;"	m	class:CirclePageIndicator
+getOrientation	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public int getOrientation() {$/;"	m	class:CirclePageIndicator
+getPageColor	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public int getPageColor() {$/;"	m	class:CirclePageIndicator
+getPageColor	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public int getPageColor() {$/;"	m	class:CirclePageIndicator
+getPageTitle	sample/src/com/viewpagerindicator/sample/SampleTabsDefault.java	/^        public CharSequence getPageTitle(int position) {$/;"	m	class:SampleTabsDefault.GoogleMusicAdapter
+getPageTitle	sample/src/com/viewpagerindicator/sample/SampleTabsStyled.java	/^        public CharSequence getPageTitle(int position) {$/;"	m	class:SampleTabsStyled.GoogleMusicAdapter
+getPageTitle	sample/src/com/viewpagerindicator/sample/SampleTabsWithIcons.java	/^        public CharSequence getPageTitle(int position) {$/;"	m	class:SampleTabsWithIcons.GoogleMusicAdapter
+getPageTitle	sample/src/com/viewpagerindicator/sample/TestFragmentAdapter.java	/^    public CharSequence getPageTitle(int position) {$/;"	m	class:TestFragmentAdapter
+getRadius	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public float getRadius() {$/;"	m	class:CirclePageIndicator
+getRadius	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public float getRadius() {$/;"	m	class:CirclePageIndicator
+getSelectedColor	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    public int getSelectedColor() {$/;"	m	class:LinePageIndicator
+getSelectedColor	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public int getSelectedColor() {$/;"	m	class:TitlePageIndicator
+getSelectedColor	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public int getSelectedColor() {$/;"	m	class:UnderlinePageIndicator
+getSelectedColor	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    public int getSelectedColor() {$/;"	m	class:LinePageIndicator
+getSelectedColor	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public int getSelectedColor() {$/;"	m	class:TitlePageIndicator
+getSelectedColor	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public int getSelectedColor() {$/;"	m	class:UnderlinePageIndicator
+getStrokeColor	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public int getStrokeColor() {$/;"	m	class:CirclePageIndicator
+getStrokeColor	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public int getStrokeColor() {$/;"	m	class:CirclePageIndicator
+getStrokeWidth	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public float getStrokeWidth() {$/;"	m	class:CirclePageIndicator
+getStrokeWidth	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    public float getStrokeWidth() {$/;"	m	class:LinePageIndicator
+getStrokeWidth	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public float getStrokeWidth() {$/;"	m	class:CirclePageIndicator
+getStrokeWidth	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    public float getStrokeWidth() {$/;"	m	class:LinePageIndicator
+getTextColor	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public int getTextColor() {$/;"	m	class:TitlePageIndicator
+getTextColor	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public int getTextColor() {$/;"	m	class:TitlePageIndicator
+getTextSize	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public float getTextSize() {$/;"	m	class:TitlePageIndicator
+getTextSize	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public float getTextSize() {$/;"	m	class:TitlePageIndicator
+getTitle	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private CharSequence getTitle(int i) {$/;"	m	class:TitlePageIndicator	file:
+getTitle	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private CharSequence getTitle(int i) {$/;"	m	class:TitlePageIndicator	file:
+getTitlePadding	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public float getTitlePadding() {$/;"	m	class:TitlePageIndicator
+getTitlePadding	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public float getTitlePadding() {$/;"	m	class:TitlePageIndicator
+getTopPadding	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public float getTopPadding() {$/;"	m	class:TitlePageIndicator
+getTopPadding	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public float getTopPadding() {$/;"	m	class:TitlePageIndicator
+getTypeface	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public Typeface getTypeface() {$/;"	m	class:TitlePageIndicator
+getTypeface	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public Typeface getTypeface() {$/;"	m	class:TitlePageIndicator
+getUnselectedColor	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    public int getUnselectedColor() {$/;"	m	class:LinePageIndicator
+getUnselectedColor	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    public int getUnselectedColor() {$/;"	m	class:LinePageIndicator
+hasDividerBeforeChildAt	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IcsLinearLayout.java	/^    private boolean hasDividerBeforeChildAt(int childIndex) {$/;"	m	class:IcsLinearLayout	file:
+hasDividerBeforeChildAt	library/src/com/viewpagerindicator/IcsLinearLayout.java	/^    private boolean hasDividerBeforeChildAt(int childIndex) {$/;"	m	class:IcsLinearLayout	file:
+id	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^    public static final class id {$/;"	c	class:R
+id	library/gen/com/viewpagerindicator/R.java	/^    public static final class id {$/;"	c	class:R
+integer	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^    public static final class integer {$/;"	c	class:R
+integer	library/gen/com/viewpagerindicator/R.java	/^    public static final class integer {$/;"	c	class:R
+isCentered	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public boolean isCentered() {$/;"	m	class:CirclePageIndicator
+isCentered	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    public boolean isCentered() {$/;"	m	class:LinePageIndicator
+isCentered	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public boolean isCentered() {$/;"	m	class:CirclePageIndicator
+isCentered	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    public boolean isCentered() {$/;"	m	class:LinePageIndicator
+isSelectedBold	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public boolean isSelectedBold() {$/;"	m	class:TitlePageIndicator
+isSelectedBold	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public boolean isSelectedBold() {$/;"	m	class:TitlePageIndicator
+isSnap	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public boolean isSnap() {$/;"	m	class:CirclePageIndicator
+isSnap	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public boolean isSnap() {$/;"	m	class:CirclePageIndicator
+linePosition	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int linePosition=0x7f010018;$/;"	f	class:R.attr
+linePosition	library/gen/com/viewpagerindicator/R.java	/^        public static int linePosition=0x7f010018;$/;"	f	class:R.attr
+lineWidth	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int lineWidth=0x7f01000f;$/;"	f	class:R.attr
+lineWidth	library/gen/com/viewpagerindicator/R.java	/^        public static int lineWidth=0x7f01000f;$/;"	f	class:R.attr
+mActivePointerId	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private int mActivePointerId = INVALID_POINTER;$/;"	f	class:CirclePageIndicator	file:
+mActivePointerId	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    private int mActivePointerId = INVALID_POINTER;$/;"	f	class:LinePageIndicator	file:
+mActivePointerId	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private int mActivePointerId = INVALID_POINTER;$/;"	f	class:TitlePageIndicator	file:
+mActivePointerId	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    private int mActivePointerId = INVALID_POINTER;$/;"	f	class:UnderlinePageIndicator	file:
+mActivePointerId	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private int mActivePointerId = INVALID_POINTER;$/;"	f	class:CirclePageIndicator	file:
+mActivePointerId	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    private int mActivePointerId = INVALID_POINTER;$/;"	f	class:LinePageIndicator	file:
+mActivePointerId	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private int mActivePointerId = INVALID_POINTER;$/;"	f	class:TitlePageIndicator	file:
+mActivePointerId	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    private int mActivePointerId = INVALID_POINTER;$/;"	f	class:UnderlinePageIndicator	file:
+mAdapter	sample/src/com/viewpagerindicator/sample/BaseSampleActivity.java	/^    TestFragmentAdapter mAdapter;$/;"	f	class:BaseSampleActivity
+mBoldText	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private boolean mBoldText;$/;"	f	class:TitlePageIndicator	file:
+mBoldText	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private boolean mBoldText;$/;"	f	class:TitlePageIndicator	file:
+mBounds	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private final Rect mBounds = new Rect();$/;"	f	class:TitlePageIndicator	file:
+mBounds	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private final Rect mBounds = new Rect();$/;"	f	class:TitlePageIndicator	file:
+mCenterItemClickListener	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private OnCenterItemClickListener mCenterItemClickListener;$/;"	f	class:TitlePageIndicator	file:
+mCenterItemClickListener	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private OnCenterItemClickListener mCenterItemClickListener;$/;"	f	class:TitlePageIndicator	file:
+mCentered	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private boolean mCentered;$/;"	f	class:CirclePageIndicator	file:
+mCentered	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    private boolean mCentered;$/;"	f	class:LinePageIndicator	file:
+mCentered	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private boolean mCentered;$/;"	f	class:CirclePageIndicator	file:
+mCentered	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    private boolean mCentered;$/;"	f	class:LinePageIndicator	file:
+mClipPadding	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private float mClipPadding;$/;"	f	class:TitlePageIndicator	file:
+mClipPadding	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private float mClipPadding;$/;"	f	class:TitlePageIndicator	file:
+mColorSelected	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private int mColorSelected;$/;"	f	class:TitlePageIndicator	file:
+mColorSelected	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private int mColorSelected;$/;"	f	class:TitlePageIndicator	file:
+mColorText	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private int mColorText;$/;"	f	class:TitlePageIndicator	file:
+mColorText	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private int mColorText;$/;"	f	class:TitlePageIndicator	file:
+mContent	sample/src/com/viewpagerindicator/sample/TestFragment.java	/^    private String mContent = "???";$/;"	f	class:TestFragment	file:
+mCount	sample/src/com/viewpagerindicator/sample/TestFragmentAdapter.java	/^    private int mCount = CONTENT.length;$/;"	f	class:TestFragmentAdapter	file:
+mCurrentPage	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private int mCurrentPage;$/;"	f	class:CirclePageIndicator	file:
+mCurrentPage	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    private int mCurrentPage;$/;"	f	class:LinePageIndicator	file:
+mCurrentPage	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private int mCurrentPage = -1;$/;"	f	class:TitlePageIndicator	file:
+mCurrentPage	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    private int mCurrentPage;$/;"	f	class:UnderlinePageIndicator	file:
+mCurrentPage	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private int mCurrentPage;$/;"	f	class:CirclePageIndicator	file:
+mCurrentPage	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    private int mCurrentPage;$/;"	f	class:LinePageIndicator	file:
+mCurrentPage	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private int mCurrentPage = -1;$/;"	f	class:TitlePageIndicator	file:
+mCurrentPage	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    private int mCurrentPage;$/;"	f	class:UnderlinePageIndicator	file:
+mDivider	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IcsLinearLayout.java	/^    private Drawable mDivider;$/;"	f	class:IcsLinearLayout	file:
+mDivider	library/src/com/viewpagerindicator/IcsLinearLayout.java	/^    private Drawable mDivider;$/;"	f	class:IcsLinearLayout	file:
+mDividerHeight	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IcsLinearLayout.java	/^    private int mDividerHeight;$/;"	f	class:IcsLinearLayout	file:
+mDividerHeight	library/src/com/viewpagerindicator/IcsLinearLayout.java	/^    private int mDividerHeight;$/;"	f	class:IcsLinearLayout	file:
+mDividerPadding	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IcsLinearLayout.java	/^    private int mDividerPadding;$/;"	f	class:IcsLinearLayout	file:
+mDividerPadding	library/src/com/viewpagerindicator/IcsLinearLayout.java	/^    private int mDividerPadding;$/;"	f	class:IcsLinearLayout	file:
+mDividerWidth	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IcsLinearLayout.java	/^    private int mDividerWidth;$/;"	f	class:IcsLinearLayout	file:
+mDividerWidth	library/src/com/viewpagerindicator/IcsLinearLayout.java	/^    private int mDividerWidth;$/;"	f	class:IcsLinearLayout	file:
+mFadeBy	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    private int mFadeBy;$/;"	f	class:UnderlinePageIndicator	file:
+mFadeBy	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    private int mFadeBy;$/;"	f	class:UnderlinePageIndicator	file:
+mFadeDelay	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    private int mFadeDelay;$/;"	f	class:UnderlinePageIndicator	file:
+mFadeDelay	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    private int mFadeDelay;$/;"	f	class:UnderlinePageIndicator	file:
+mFadeLength	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    private int mFadeLength;$/;"	f	class:UnderlinePageIndicator	file:
+mFadeLength	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    private int mFadeLength;$/;"	f	class:UnderlinePageIndicator	file:
+mFadeRunnable	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    private final Runnable mFadeRunnable = new Runnable() {$/;"	f	class:UnderlinePageIndicator	file:
+mFadeRunnable	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    private final Runnable mFadeRunnable = new Runnable() {$/;"	f	class:UnderlinePageIndicator	file:
+mFades	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    private boolean mFades;$/;"	f	class:UnderlinePageIndicator	file:
+mFades	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    private boolean mFades;$/;"	f	class:UnderlinePageIndicator	file:
+mFooterIndicatorHeight	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private float mFooterIndicatorHeight;$/;"	f	class:TitlePageIndicator	file:
+mFooterIndicatorHeight	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private float mFooterIndicatorHeight;$/;"	f	class:TitlePageIndicator	file:
+mFooterIndicatorStyle	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private IndicatorStyle mFooterIndicatorStyle;$/;"	f	class:TitlePageIndicator	file:
+mFooterIndicatorStyle	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private IndicatorStyle mFooterIndicatorStyle;$/;"	f	class:TitlePageIndicator	file:
+mFooterIndicatorUnderlinePadding	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private float mFooterIndicatorUnderlinePadding;$/;"	f	class:TitlePageIndicator	file:
+mFooterIndicatorUnderlinePadding	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private float mFooterIndicatorUnderlinePadding;$/;"	f	class:TitlePageIndicator	file:
+mFooterLineHeight	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private float mFooterLineHeight;$/;"	f	class:TitlePageIndicator	file:
+mFooterLineHeight	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private float mFooterLineHeight;$/;"	f	class:TitlePageIndicator	file:
+mFooterPadding	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private float mFooterPadding;$/;"	f	class:TitlePageIndicator	file:
+mFooterPadding	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private float mFooterPadding;$/;"	f	class:TitlePageIndicator	file:
+mGapWidth	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    private float mGapWidth;$/;"	f	class:LinePageIndicator	file:
+mGapWidth	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    private float mGapWidth;$/;"	f	class:LinePageIndicator	file:
+mIconSelector	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IconPageIndicator.java	/^    private Runnable mIconSelector;$/;"	f	class:IconPageIndicator	file:
+mIconSelector	library/src/com/viewpagerindicator/IconPageIndicator.java	/^    private Runnable mIconSelector;$/;"	f	class:IconPageIndicator	file:
+mIconsLayout	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IconPageIndicator.java	/^    private final IcsLinearLayout mIconsLayout;$/;"	f	class:IconPageIndicator	file:
+mIconsLayout	library/src/com/viewpagerindicator/IconPageIndicator.java	/^    private final IcsLinearLayout mIconsLayout;$/;"	f	class:IconPageIndicator	file:
+mIndex	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TabPageIndicator.java	/^        private int mIndex;$/;"	f	class:TabPageIndicator.TabView	file:
+mIndex	library/src/com/viewpagerindicator/TabPageIndicator.java	/^        private int mIndex;$/;"	f	class:TabPageIndicator.TabView	file:
+mIndicator	sample/src/com/viewpagerindicator/sample/BaseSampleActivity.java	/^    PageIndicator mIndicator;$/;"	f	class:BaseSampleActivity
+mIsDragging	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private boolean mIsDragging;$/;"	f	class:CirclePageIndicator	file:
+mIsDragging	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    private boolean mIsDragging;$/;"	f	class:LinePageIndicator	file:
+mIsDragging	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private boolean mIsDragging;$/;"	f	class:TitlePageIndicator	file:
+mIsDragging	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    private boolean mIsDragging;$/;"	f	class:UnderlinePageIndicator	file:
+mIsDragging	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private boolean mIsDragging;$/;"	f	class:CirclePageIndicator	file:
+mIsDragging	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    private boolean mIsDragging;$/;"	f	class:LinePageIndicator	file:
+mIsDragging	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private boolean mIsDragging;$/;"	f	class:TitlePageIndicator	file:
+mIsDragging	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    private boolean mIsDragging;$/;"	f	class:UnderlinePageIndicator	file:
+mLastMotionX	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private float mLastMotionX = -1;$/;"	f	class:CirclePageIndicator	file:
+mLastMotionX	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    private float mLastMotionX = -1;$/;"	f	class:LinePageIndicator	file:
+mLastMotionX	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private float mLastMotionX = -1;$/;"	f	class:TitlePageIndicator	file:
+mLastMotionX	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    private float mLastMotionX = -1;$/;"	f	class:UnderlinePageIndicator	file:
+mLastMotionX	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private float mLastMotionX = -1;$/;"	f	class:CirclePageIndicator	file:
+mLastMotionX	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    private float mLastMotionX = -1;$/;"	f	class:LinePageIndicator	file:
+mLastMotionX	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private float mLastMotionX = -1;$/;"	f	class:TitlePageIndicator	file:
+mLastMotionX	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    private float mLastMotionX = -1;$/;"	f	class:UnderlinePageIndicator	file:
+mLinePosition	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private LinePosition mLinePosition;$/;"	f	class:TitlePageIndicator	file:
+mLinePosition	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private LinePosition mLinePosition;$/;"	f	class:TitlePageIndicator	file:
+mLineWidth	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    private float mLineWidth;$/;"	f	class:LinePageIndicator	file:
+mLineWidth	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    private float mLineWidth;$/;"	f	class:LinePageIndicator	file:
+mListener	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private ViewPager.OnPageChangeListener mListener;$/;"	f	class:CirclePageIndicator	file:
+mListener	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IconPageIndicator.java	/^    private OnPageChangeListener mListener;$/;"	f	class:IconPageIndicator	file:
+mListener	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    private ViewPager.OnPageChangeListener mListener;$/;"	f	class:LinePageIndicator	file:
+mListener	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TabPageIndicator.java	/^    private ViewPager.OnPageChangeListener mListener;$/;"	f	class:TabPageIndicator	file:
+mListener	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private ViewPager.OnPageChangeListener mListener;$/;"	f	class:TitlePageIndicator	file:
+mListener	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    private ViewPager.OnPageChangeListener mListener;$/;"	f	class:UnderlinePageIndicator	file:
+mListener	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private ViewPager.OnPageChangeListener mListener;$/;"	f	class:CirclePageIndicator	file:
+mListener	library/src/com/viewpagerindicator/IconPageIndicator.java	/^    private OnPageChangeListener mListener;$/;"	f	class:IconPageIndicator	file:
+mListener	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    private ViewPager.OnPageChangeListener mListener;$/;"	f	class:LinePageIndicator	file:
+mListener	library/src/com/viewpagerindicator/TabPageIndicator.java	/^    private ViewPager.OnPageChangeListener mListener;$/;"	f	class:TabPageIndicator	file:
+mListener	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private ViewPager.OnPageChangeListener mListener;$/;"	f	class:TitlePageIndicator	file:
+mListener	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    private ViewPager.OnPageChangeListener mListener;$/;"	f	class:UnderlinePageIndicator	file:
+mMaxTabWidth	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TabPageIndicator.java	/^    private int mMaxTabWidth;$/;"	f	class:TabPageIndicator	file:
+mMaxTabWidth	library/src/com/viewpagerindicator/TabPageIndicator.java	/^    private int mMaxTabWidth;$/;"	f	class:TabPageIndicator	file:
+mOrientation	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private int mOrientation;$/;"	f	class:CirclePageIndicator	file:
+mOrientation	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private int mOrientation;$/;"	f	class:CirclePageIndicator	file:
+mPageOffset	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private float mPageOffset;$/;"	f	class:CirclePageIndicator	file:
+mPageOffset	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private float mPageOffset;$/;"	f	class:TitlePageIndicator	file:
+mPageOffset	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private float mPageOffset;$/;"	f	class:CirclePageIndicator	file:
+mPageOffset	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private float mPageOffset;$/;"	f	class:TitlePageIndicator	file:
+mPager	sample/src/com/viewpagerindicator/sample/BaseSampleActivity.java	/^    ViewPager mPager;$/;"	f	class:BaseSampleActivity
+mPaint	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    private final Paint mPaint = new Paint(Paint.ANTI_ALIAS_FLAG);$/;"	f	class:UnderlinePageIndicator	file:
+mPaint	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    private final Paint mPaint = new Paint(Paint.ANTI_ALIAS_FLAG);$/;"	f	class:UnderlinePageIndicator	file:
+mPaintFill	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private final Paint mPaintFill = new Paint(ANTI_ALIAS_FLAG);$/;"	f	class:CirclePageIndicator	file:
+mPaintFill	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private final Paint mPaintFill = new Paint(ANTI_ALIAS_FLAG);$/;"	f	class:CirclePageIndicator	file:
+mPaintFooterIndicator	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private final Paint mPaintFooterIndicator = new Paint();$/;"	f	class:TitlePageIndicator	file:
+mPaintFooterIndicator	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private final Paint mPaintFooterIndicator = new Paint();$/;"	f	class:TitlePageIndicator	file:
+mPaintFooterLine	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private final Paint mPaintFooterLine = new Paint();$/;"	f	class:TitlePageIndicator	file:
+mPaintFooterLine	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private final Paint mPaintFooterLine = new Paint();$/;"	f	class:TitlePageIndicator	file:
+mPaintPageFill	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private final Paint mPaintPageFill = new Paint(ANTI_ALIAS_FLAG);$/;"	f	class:CirclePageIndicator	file:
+mPaintPageFill	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private final Paint mPaintPageFill = new Paint(ANTI_ALIAS_FLAG);$/;"	f	class:CirclePageIndicator	file:
+mPaintSelected	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    private final Paint mPaintSelected = new Paint(Paint.ANTI_ALIAS_FLAG);$/;"	f	class:LinePageIndicator	file:
+mPaintSelected	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    private final Paint mPaintSelected = new Paint(Paint.ANTI_ALIAS_FLAG);$/;"	f	class:LinePageIndicator	file:
+mPaintStroke	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private final Paint mPaintStroke = new Paint(ANTI_ALIAS_FLAG);$/;"	f	class:CirclePageIndicator	file:
+mPaintStroke	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private final Paint mPaintStroke = new Paint(ANTI_ALIAS_FLAG);$/;"	f	class:CirclePageIndicator	file:
+mPaintText	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private final Paint mPaintText = new Paint();$/;"	f	class:TitlePageIndicator	file:
+mPaintText	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private final Paint mPaintText = new Paint();$/;"	f	class:TitlePageIndicator	file:
+mPaintUnselected	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    private final Paint mPaintUnselected = new Paint(Paint.ANTI_ALIAS_FLAG);$/;"	f	class:LinePageIndicator	file:
+mPaintUnselected	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    private final Paint mPaintUnselected = new Paint(Paint.ANTI_ALIAS_FLAG);$/;"	f	class:LinePageIndicator	file:
+mPath	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private Path mPath = new Path();$/;"	f	class:TitlePageIndicator	file:
+mPath	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private Path mPath = new Path();$/;"	f	class:TitlePageIndicator	file:
+mPositionOffset	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    private float mPositionOffset;$/;"	f	class:UnderlinePageIndicator	file:
+mPositionOffset	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    private float mPositionOffset;$/;"	f	class:UnderlinePageIndicator	file:
+mRadius	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private float mRadius;$/;"	f	class:CirclePageIndicator	file:
+mRadius	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private float mRadius;$/;"	f	class:CirclePageIndicator	file:
+mScrollState	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private int mScrollState;$/;"	f	class:CirclePageIndicator	file:
+mScrollState	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private int mScrollState;$/;"	f	class:TitlePageIndicator	file:
+mScrollState	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    private int mScrollState;$/;"	f	class:UnderlinePageIndicator	file:
+mScrollState	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private int mScrollState;$/;"	f	class:CirclePageIndicator	file:
+mScrollState	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private int mScrollState;$/;"	f	class:TitlePageIndicator	file:
+mScrollState	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    private int mScrollState;$/;"	f	class:UnderlinePageIndicator	file:
+mSelectedIndex	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IconPageIndicator.java	/^    private int mSelectedIndex;$/;"	f	class:IconPageIndicator	file:
+mSelectedIndex	library/src/com/viewpagerindicator/IconPageIndicator.java	/^    private int mSelectedIndex;$/;"	f	class:IconPageIndicator	file:
+mSelectedTabIndex	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TabPageIndicator.java	/^    private int mSelectedTabIndex;$/;"	f	class:TabPageIndicator	file:
+mSelectedTabIndex	library/src/com/viewpagerindicator/TabPageIndicator.java	/^    private int mSelectedTabIndex;$/;"	f	class:TabPageIndicator	file:
+mShowDividers	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IcsLinearLayout.java	/^    private int mShowDividers;$/;"	f	class:IcsLinearLayout	file:
+mShowDividers	library/src/com/viewpagerindicator/IcsLinearLayout.java	/^    private int mShowDividers;$/;"	f	class:IcsLinearLayout	file:
+mSnap	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private boolean mSnap;$/;"	f	class:CirclePageIndicator	file:
+mSnap	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private boolean mSnap;$/;"	f	class:CirclePageIndicator	file:
+mSnapPage	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private int mSnapPage;$/;"	f	class:CirclePageIndicator	file:
+mSnapPage	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private int mSnapPage;$/;"	f	class:CirclePageIndicator	file:
+mTabClickListener	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TabPageIndicator.java	/^    private final OnClickListener mTabClickListener = new OnClickListener() {$/;"	f	class:TabPageIndicator	file:
+mTabClickListener	library/src/com/viewpagerindicator/TabPageIndicator.java	/^    private final OnClickListener mTabClickListener = new OnClickListener() {$/;"	f	class:TabPageIndicator	file:
+mTabLayout	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TabPageIndicator.java	/^    private final IcsLinearLayout mTabLayout;$/;"	f	class:TabPageIndicator	file:
+mTabLayout	library/src/com/viewpagerindicator/TabPageIndicator.java	/^    private final IcsLinearLayout mTabLayout;$/;"	f	class:TabPageIndicator	file:
+mTabReselectedListener	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TabPageIndicator.java	/^    private OnTabReselectedListener mTabReselectedListener;$/;"	f	class:TabPageIndicator	file:
+mTabReselectedListener	library/src/com/viewpagerindicator/TabPageIndicator.java	/^    private OnTabReselectedListener mTabReselectedListener;$/;"	f	class:TabPageIndicator	file:
+mTabSelector	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TabPageIndicator.java	/^    private Runnable mTabSelector;$/;"	f	class:TabPageIndicator	file:
+mTabSelector	library/src/com/viewpagerindicator/TabPageIndicator.java	/^    private Runnable mTabSelector;$/;"	f	class:TabPageIndicator	file:
+mTitlePadding	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private float mTitlePadding;$/;"	f	class:TitlePageIndicator	file:
+mTitlePadding	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private float mTitlePadding;$/;"	f	class:TitlePageIndicator	file:
+mTopPadding	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private float mTopPadding;$/;"	f	class:TitlePageIndicator	file:
+mTopPadding	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private float mTopPadding;$/;"	f	class:TitlePageIndicator	file:
+mTouchSlop	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private int mTouchSlop;$/;"	f	class:CirclePageIndicator	file:
+mTouchSlop	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    private int mTouchSlop;$/;"	f	class:LinePageIndicator	file:
+mTouchSlop	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private int mTouchSlop;$/;"	f	class:TitlePageIndicator	file:
+mTouchSlop	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    private int mTouchSlop;$/;"	f	class:UnderlinePageIndicator	file:
+mTouchSlop	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private int mTouchSlop;$/;"	f	class:CirclePageIndicator	file:
+mTouchSlop	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    private int mTouchSlop;$/;"	f	class:LinePageIndicator	file:
+mTouchSlop	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private int mTouchSlop;$/;"	f	class:TitlePageIndicator	file:
+mTouchSlop	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    private int mTouchSlop;$/;"	f	class:UnderlinePageIndicator	file:
+mViewPager	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private ViewPager mViewPager;$/;"	f	class:CirclePageIndicator	file:
+mViewPager	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IconPageIndicator.java	/^    private ViewPager mViewPager;$/;"	f	class:IconPageIndicator	file:
+mViewPager	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    private ViewPager mViewPager;$/;"	f	class:LinePageIndicator	file:
+mViewPager	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TabPageIndicator.java	/^    private ViewPager mViewPager;$/;"	f	class:TabPageIndicator	file:
+mViewPager	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private ViewPager mViewPager;$/;"	f	class:TitlePageIndicator	file:
+mViewPager	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    private ViewPager mViewPager;$/;"	f	class:UnderlinePageIndicator	file:
+mViewPager	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private ViewPager mViewPager;$/;"	f	class:CirclePageIndicator	file:
+mViewPager	library/src/com/viewpagerindicator/IconPageIndicator.java	/^    private ViewPager mViewPager;$/;"	f	class:IconPageIndicator	file:
+mViewPager	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    private ViewPager mViewPager;$/;"	f	class:LinePageIndicator	file:
+mViewPager	library/src/com/viewpagerindicator/TabPageIndicator.java	/^    private ViewPager mViewPager;$/;"	f	class:TabPageIndicator	file:
+mViewPager	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    private ViewPager mViewPager;$/;"	f	class:TitlePageIndicator	file:
+mViewPager	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    private ViewPager mViewPager;$/;"	f	class:UnderlinePageIndicator	file:
+measureChildWithMargins	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IcsLinearLayout.java	/^    protected void measureChildWithMargins(View child, int parentWidthMeasureSpec, int widthUsed, int parentHeightMeasureSpec, int heightUsed) {$/;"	m	class:IcsLinearLayout
+measureChildWithMargins	library/src/com/viewpagerindicator/IcsLinearLayout.java	/^    protected void measureChildWithMargins(View child, int parentWidthMeasureSpec, int widthUsed, int parentHeightMeasureSpec, int heightUsed) {$/;"	m	class:IcsLinearLayout
+measureHeight	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    private int measureHeight(int measureSpec) {$/;"	m	class:LinePageIndicator	file:
+measureHeight	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    private int measureHeight(int measureSpec) {$/;"	m	class:LinePageIndicator	file:
+measureLong	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private int measureLong(int measureSpec) {$/;"	m	class:CirclePageIndicator	file:
+measureLong	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private int measureLong(int measureSpec) {$/;"	m	class:CirclePageIndicator	file:
+measureShort	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private int measureShort(int measureSpec) {$/;"	m	class:CirclePageIndicator	file:
+measureShort	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    private int measureShort(int measureSpec) {$/;"	m	class:CirclePageIndicator	file:
+measureWidth	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    private int measureWidth(int measureSpec) {$/;"	m	class:LinePageIndicator	file:
+measureWidth	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    private int measureWidth(int measureSpec) {$/;"	m	class:LinePageIndicator	file:
+newInstance	sample/src/com/viewpagerindicator/sample/TestFragment.java	/^    public static TestFragment newInstance(String content) {$/;"	m	class:TestFragment
+none	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int none=0x7f030000;$/;"	f	class:R.id
+none	library/gen/com/viewpagerindicator/R.java	/^        public static int none=0x7f030000;$/;"	f	class:R.id
+notifyDataSetChanged	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public void notifyDataSetChanged() {$/;"	m	class:CirclePageIndicator
+notifyDataSetChanged	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IconPageIndicator.java	/^    public void notifyDataSetChanged() {$/;"	m	class:IconPageIndicator
+notifyDataSetChanged	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    public void notifyDataSetChanged() {$/;"	m	class:LinePageIndicator
+notifyDataSetChanged	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/PageIndicator.java	/^    void notifyDataSetChanged();$/;"	m	interface:PageIndicator
+notifyDataSetChanged	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TabPageIndicator.java	/^    public void notifyDataSetChanged() {$/;"	m	class:TabPageIndicator
+notifyDataSetChanged	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void notifyDataSetChanged() {$/;"	m	class:TitlePageIndicator
+notifyDataSetChanged	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public void notifyDataSetChanged() {$/;"	m	class:UnderlinePageIndicator
+notifyDataSetChanged	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public void notifyDataSetChanged() {$/;"	m	class:CirclePageIndicator
+notifyDataSetChanged	library/src/com/viewpagerindicator/IconPageIndicator.java	/^    public void notifyDataSetChanged() {$/;"	m	class:IconPageIndicator
+notifyDataSetChanged	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    public void notifyDataSetChanged() {$/;"	m	class:LinePageIndicator
+notifyDataSetChanged	library/src/com/viewpagerindicator/PageIndicator.java	/^    void notifyDataSetChanged();$/;"	m	interface:PageIndicator
+notifyDataSetChanged	library/src/com/viewpagerindicator/TabPageIndicator.java	/^    public void notifyDataSetChanged() {$/;"	m	class:TabPageIndicator
+notifyDataSetChanged	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void notifyDataSetChanged() {$/;"	m	class:TitlePageIndicator
+notifyDataSetChanged	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public void notifyDataSetChanged() {$/;"	m	class:UnderlinePageIndicator
+onAttachedToWindow	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IconPageIndicator.java	/^    public void onAttachedToWindow() {$/;"	m	class:IconPageIndicator
+onAttachedToWindow	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TabPageIndicator.java	/^    public void onAttachedToWindow() {$/;"	m	class:TabPageIndicator
+onAttachedToWindow	library/src/com/viewpagerindicator/IconPageIndicator.java	/^    public void onAttachedToWindow() {$/;"	m	class:IconPageIndicator
+onAttachedToWindow	library/src/com/viewpagerindicator/TabPageIndicator.java	/^    public void onAttachedToWindow() {$/;"	m	class:TabPageIndicator
+onCenterItemClick	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^        void onCenterItemClick(int position);$/;"	m	interface:TitlePageIndicator.OnCenterItemClickListener
+onCenterItemClick	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^        void onCenterItemClick(int position);$/;"	m	interface:TitlePageIndicator.OnCenterItemClickListener
+onCenterItemClick	sample/src/com/viewpagerindicator/sample/SampleTitlesCenterClickListener.java	/^    public void onCenterItemClick(int position) {$/;"	m	class:SampleTitlesCenterClickListener
+onCreate	sample/src/com/viewpagerindicator/sample/ListSamples.java	/^    public void onCreate(Bundle savedInstanceState) {$/;"	m	class:ListSamples
+onCreate	sample/src/com/viewpagerindicator/sample/SampleCirclesDefault.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleCirclesDefault
+onCreate	sample/src/com/viewpagerindicator/sample/SampleCirclesInitialPage.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleCirclesInitialPage
+onCreate	sample/src/com/viewpagerindicator/sample/SampleCirclesSnap.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleCirclesSnap
+onCreate	sample/src/com/viewpagerindicator/sample/SampleCirclesStyledLayout.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleCirclesStyledLayout
+onCreate	sample/src/com/viewpagerindicator/sample/SampleCirclesStyledMethods.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleCirclesStyledMethods
+onCreate	sample/src/com/viewpagerindicator/sample/SampleCirclesStyledTheme.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleCirclesStyledTheme
+onCreate	sample/src/com/viewpagerindicator/sample/SampleCirclesWithListener.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleCirclesWithListener
+onCreate	sample/src/com/viewpagerindicator/sample/SampleIconsDefault.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleIconsDefault
+onCreate	sample/src/com/viewpagerindicator/sample/SampleLinesDefault.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleLinesDefault
+onCreate	sample/src/com/viewpagerindicator/sample/SampleLinesStyledLayout.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleLinesStyledLayout
+onCreate	sample/src/com/viewpagerindicator/sample/SampleLinesStyledMethods.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleLinesStyledMethods
+onCreate	sample/src/com/viewpagerindicator/sample/SampleLinesStyledTheme.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleLinesStyledTheme
+onCreate	sample/src/com/viewpagerindicator/sample/SampleTabsDefault.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleTabsDefault
+onCreate	sample/src/com/viewpagerindicator/sample/SampleTabsStyled.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleTabsStyled
+onCreate	sample/src/com/viewpagerindicator/sample/SampleTabsWithIcons.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleTabsWithIcons
+onCreate	sample/src/com/viewpagerindicator/sample/SampleTitlesBottom.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleTitlesBottom
+onCreate	sample/src/com/viewpagerindicator/sample/SampleTitlesCenterClickListener.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleTitlesCenterClickListener
+onCreate	sample/src/com/viewpagerindicator/sample/SampleTitlesDefault.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleTitlesDefault
+onCreate	sample/src/com/viewpagerindicator/sample/SampleTitlesInitialPage.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleTitlesInitialPage
+onCreate	sample/src/com/viewpagerindicator/sample/SampleTitlesStyledLayout.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleTitlesStyledLayout
+onCreate	sample/src/com/viewpagerindicator/sample/SampleTitlesStyledMethods.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleTitlesStyledMethods
+onCreate	sample/src/com/viewpagerindicator/sample/SampleTitlesStyledTheme.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleTitlesStyledTheme
+onCreate	sample/src/com/viewpagerindicator/sample/SampleTitlesTriangle.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleTitlesTriangle
+onCreate	sample/src/com/viewpagerindicator/sample/SampleTitlesWithListener.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleTitlesWithListener
+onCreate	sample/src/com/viewpagerindicator/sample/SampleUnderlinesDefault.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleUnderlinesDefault
+onCreate	sample/src/com/viewpagerindicator/sample/SampleUnderlinesNoFade.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleUnderlinesNoFade
+onCreate	sample/src/com/viewpagerindicator/sample/SampleUnderlinesStyledLayout.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleUnderlinesStyledLayout
+onCreate	sample/src/com/viewpagerindicator/sample/SampleUnderlinesStyledMethods.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleUnderlinesStyledMethods
+onCreate	sample/src/com/viewpagerindicator/sample/SampleUnderlinesStyledTheme.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleUnderlinesStyledTheme
+onCreate	sample/src/com/viewpagerindicator/sample/TestFragment.java	/^    public void onCreate(Bundle savedInstanceState) {$/;"	m	class:TestFragment
+onCreateOptionsMenu	sample/src/com/viewpagerindicator/sample/BaseSampleActivity.java	/^    public boolean onCreateOptionsMenu(Menu menu) {$/;"	m	class:BaseSampleActivity
+onCreateView	sample/src/com/viewpagerindicator/sample/TestFragment.java	/^    public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {$/;"	m	class:TestFragment
+onDetachedFromWindow	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IconPageIndicator.java	/^    public void onDetachedFromWindow() {$/;"	m	class:IconPageIndicator
+onDetachedFromWindow	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TabPageIndicator.java	/^    public void onDetachedFromWindow() {$/;"	m	class:TabPageIndicator
+onDetachedFromWindow	library/src/com/viewpagerindicator/IconPageIndicator.java	/^    public void onDetachedFromWindow() {$/;"	m	class:IconPageIndicator
+onDetachedFromWindow	library/src/com/viewpagerindicator/TabPageIndicator.java	/^    public void onDetachedFromWindow() {$/;"	m	class:TabPageIndicator
+onDraw	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    protected void onDraw(Canvas canvas) {$/;"	m	class:CirclePageIndicator
+onDraw	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IcsLinearLayout.java	/^    protected void onDraw(Canvas canvas) {$/;"	m	class:IcsLinearLayout
+onDraw	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    protected void onDraw(Canvas canvas) {$/;"	m	class:LinePageIndicator
+onDraw	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    protected void onDraw(Canvas canvas) {$/;"	m	class:TitlePageIndicator
+onDraw	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    protected void onDraw(Canvas canvas) {$/;"	m	class:UnderlinePageIndicator
+onDraw	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    protected void onDraw(Canvas canvas) {$/;"	m	class:CirclePageIndicator
+onDraw	library/src/com/viewpagerindicator/IcsLinearLayout.java	/^    protected void onDraw(Canvas canvas) {$/;"	m	class:IcsLinearLayout
+onDraw	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    protected void onDraw(Canvas canvas) {$/;"	m	class:LinePageIndicator
+onDraw	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    protected void onDraw(Canvas canvas) {$/;"	m	class:TitlePageIndicator
+onDraw	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    protected void onDraw(Canvas canvas) {$/;"	m	class:UnderlinePageIndicator
+onListItemClick	sample/src/com/viewpagerindicator/sample/ListSamples.java	/^    protected void onListItemClick(ListView l, View v, int position, long id) {$/;"	m	class:ListSamples
+onMeasure	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    protected void onMeasure(int widthMeasureSpec, int heightMeasureSpec) {$/;"	m	class:CirclePageIndicator
+onMeasure	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    protected void onMeasure(int widthMeasureSpec, int heightMeasureSpec) {$/;"	m	class:LinePageIndicator
+onMeasure	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TabPageIndicator.java	/^        public void onMeasure(int widthMeasureSpec, int heightMeasureSpec) {$/;"	m	class:TabPageIndicator.TabView
+onMeasure	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TabPageIndicator.java	/^    public void onMeasure(int widthMeasureSpec, int heightMeasureSpec) {$/;"	m	class:TabPageIndicator
+onMeasure	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    protected void onMeasure(int widthMeasureSpec, int heightMeasureSpec) {$/;"	m	class:TitlePageIndicator
+onMeasure	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    protected void onMeasure(int widthMeasureSpec, int heightMeasureSpec) {$/;"	m	class:CirclePageIndicator
+onMeasure	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    protected void onMeasure(int widthMeasureSpec, int heightMeasureSpec) {$/;"	m	class:LinePageIndicator
+onMeasure	library/src/com/viewpagerindicator/TabPageIndicator.java	/^        public void onMeasure(int widthMeasureSpec, int heightMeasureSpec) {$/;"	m	class:TabPageIndicator.TabView
+onMeasure	library/src/com/viewpagerindicator/TabPageIndicator.java	/^    public void onMeasure(int widthMeasureSpec, int heightMeasureSpec) {$/;"	m	class:TabPageIndicator
+onMeasure	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    protected void onMeasure(int widthMeasureSpec, int heightMeasureSpec) {$/;"	m	class:TitlePageIndicator
+onOptionsItemSelected	sample/src/com/viewpagerindicator/sample/BaseSampleActivity.java	/^    public boolean onOptionsItemSelected(MenuItem item) {$/;"	m	class:BaseSampleActivity
+onPageScrollStateChanged	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public void onPageScrollStateChanged(int state) {$/;"	m	class:CirclePageIndicator
+onPageScrollStateChanged	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IconPageIndicator.java	/^    public void onPageScrollStateChanged(int arg0) {$/;"	m	class:IconPageIndicator
+onPageScrollStateChanged	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    public void onPageScrollStateChanged(int state) {$/;"	m	class:LinePageIndicator
+onPageScrollStateChanged	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TabPageIndicator.java	/^    public void onPageScrollStateChanged(int arg0) {$/;"	m	class:TabPageIndicator
+onPageScrollStateChanged	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void onPageScrollStateChanged(int state) {$/;"	m	class:TitlePageIndicator
+onPageScrollStateChanged	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public void onPageScrollStateChanged(int state) {$/;"	m	class:UnderlinePageIndicator
+onPageScrollStateChanged	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public void onPageScrollStateChanged(int state) {$/;"	m	class:CirclePageIndicator
+onPageScrollStateChanged	library/src/com/viewpagerindicator/IconPageIndicator.java	/^    public void onPageScrollStateChanged(int arg0) {$/;"	m	class:IconPageIndicator
+onPageScrollStateChanged	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    public void onPageScrollStateChanged(int state) {$/;"	m	class:LinePageIndicator
+onPageScrollStateChanged	library/src/com/viewpagerindicator/TabPageIndicator.java	/^    public void onPageScrollStateChanged(int arg0) {$/;"	m	class:TabPageIndicator
+onPageScrollStateChanged	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void onPageScrollStateChanged(int state) {$/;"	m	class:TitlePageIndicator
+onPageScrollStateChanged	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public void onPageScrollStateChanged(int state) {$/;"	m	class:UnderlinePageIndicator
+onPageScrolled	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {$/;"	m	class:CirclePageIndicator
+onPageScrolled	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IconPageIndicator.java	/^    public void onPageScrolled(int arg0, float arg1, int arg2) {$/;"	m	class:IconPageIndicator
+onPageScrolled	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {$/;"	m	class:LinePageIndicator
+onPageScrolled	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TabPageIndicator.java	/^    public void onPageScrolled(int arg0, float arg1, int arg2) {$/;"	m	class:TabPageIndicator
+onPageScrolled	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {$/;"	m	class:TitlePageIndicator
+onPageScrolled	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {$/;"	m	class:UnderlinePageIndicator
+onPageScrolled	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {$/;"	m	class:CirclePageIndicator
+onPageScrolled	library/src/com/viewpagerindicator/IconPageIndicator.java	/^    public void onPageScrolled(int arg0, float arg1, int arg2) {$/;"	m	class:IconPageIndicator
+onPageScrolled	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {$/;"	m	class:LinePageIndicator
+onPageScrolled	library/src/com/viewpagerindicator/TabPageIndicator.java	/^    public void onPageScrolled(int arg0, float arg1, int arg2) {$/;"	m	class:TabPageIndicator
+onPageScrolled	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {$/;"	m	class:TitlePageIndicator
+onPageScrolled	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {$/;"	m	class:UnderlinePageIndicator
+onPageSelected	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public void onPageSelected(int position) {$/;"	m	class:CirclePageIndicator
+onPageSelected	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IconPageIndicator.java	/^    public void onPageSelected(int arg0) {$/;"	m	class:IconPageIndicator
+onPageSelected	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    public void onPageSelected(int position) {$/;"	m	class:LinePageIndicator
+onPageSelected	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TabPageIndicator.java	/^    public void onPageSelected(int arg0) {$/;"	m	class:TabPageIndicator
+onPageSelected	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void onPageSelected(int position) {$/;"	m	class:TitlePageIndicator
+onPageSelected	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public void onPageSelected(int position) {$/;"	m	class:UnderlinePageIndicator
+onPageSelected	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public void onPageSelected(int position) {$/;"	m	class:CirclePageIndicator
+onPageSelected	library/src/com/viewpagerindicator/IconPageIndicator.java	/^    public void onPageSelected(int arg0) {$/;"	m	class:IconPageIndicator
+onPageSelected	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    public void onPageSelected(int position) {$/;"	m	class:LinePageIndicator
+onPageSelected	library/src/com/viewpagerindicator/TabPageIndicator.java	/^    public void onPageSelected(int arg0) {$/;"	m	class:TabPageIndicator
+onPageSelected	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void onPageSelected(int position) {$/;"	m	class:TitlePageIndicator
+onPageSelected	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public void onPageSelected(int position) {$/;"	m	class:UnderlinePageIndicator
+onRestoreInstanceState	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public void onRestoreInstanceState(Parcelable state) {$/;"	m	class:CirclePageIndicator
+onRestoreInstanceState	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    public void onRestoreInstanceState(Parcelable state) {$/;"	m	class:LinePageIndicator
+onRestoreInstanceState	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void onRestoreInstanceState(Parcelable state) {$/;"	m	class:TitlePageIndicator
+onRestoreInstanceState	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public void onRestoreInstanceState(Parcelable state) {$/;"	m	class:UnderlinePageIndicator
+onRestoreInstanceState	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public void onRestoreInstanceState(Parcelable state) {$/;"	m	class:CirclePageIndicator
+onRestoreInstanceState	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    public void onRestoreInstanceState(Parcelable state) {$/;"	m	class:LinePageIndicator
+onRestoreInstanceState	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void onRestoreInstanceState(Parcelable state) {$/;"	m	class:TitlePageIndicator
+onRestoreInstanceState	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public void onRestoreInstanceState(Parcelable state) {$/;"	m	class:UnderlinePageIndicator
+onSaveInstanceState	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public Parcelable onSaveInstanceState() {$/;"	m	class:CirclePageIndicator
+onSaveInstanceState	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    public Parcelable onSaveInstanceState() {$/;"	m	class:LinePageIndicator
+onSaveInstanceState	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public Parcelable onSaveInstanceState() {$/;"	m	class:TitlePageIndicator
+onSaveInstanceState	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public Parcelable onSaveInstanceState() {$/;"	m	class:UnderlinePageIndicator
+onSaveInstanceState	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public Parcelable onSaveInstanceState() {$/;"	m	class:CirclePageIndicator
+onSaveInstanceState	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    public Parcelable onSaveInstanceState() {$/;"	m	class:LinePageIndicator
+onSaveInstanceState	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public Parcelable onSaveInstanceState() {$/;"	m	class:TitlePageIndicator
+onSaveInstanceState	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public Parcelable onSaveInstanceState() {$/;"	m	class:UnderlinePageIndicator
+onSaveInstanceState	sample/src/com/viewpagerindicator/sample/TestFragment.java	/^    public void onSaveInstanceState(Bundle outState) {$/;"	m	class:TestFragment
+onTabReselected	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TabPageIndicator.java	/^        void onTabReselected(int position);$/;"	m	interface:TabPageIndicator.OnTabReselectedListener
+onTabReselected	library/src/com/viewpagerindicator/TabPageIndicator.java	/^        void onTabReselected(int position);$/;"	m	interface:TabPageIndicator.OnTabReselectedListener
+onTouchEvent	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public boolean onTouchEvent(android.view.MotionEvent ev) {$/;"	m	class:CirclePageIndicator
+onTouchEvent	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    public boolean onTouchEvent(android.view.MotionEvent ev) {$/;"	m	class:LinePageIndicator
+onTouchEvent	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public boolean onTouchEvent(android.view.MotionEvent ev) {$/;"	m	class:TitlePageIndicator
+onTouchEvent	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public boolean onTouchEvent(MotionEvent ev) {$/;"	m	class:UnderlinePageIndicator
+onTouchEvent	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public boolean onTouchEvent(android.view.MotionEvent ev) {$/;"	m	class:CirclePageIndicator
+onTouchEvent	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    public boolean onTouchEvent(android.view.MotionEvent ev) {$/;"	m	class:LinePageIndicator
+onTouchEvent	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public boolean onTouchEvent(android.view.MotionEvent ev) {$/;"	m	class:TitlePageIndicator
+onTouchEvent	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public boolean onTouchEvent(MotionEvent ev) {$/;"	m	class:UnderlinePageIndicator
+pageColor	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int pageColor=0x7f01000b;$/;"	f	class:R.attr
+pageColor	library/gen/com/viewpagerindicator/R.java	/^        public static int pageColor=0x7f01000b;$/;"	f	class:R.attr
+radius	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int radius=0x7f01000c;$/;"	f	class:R.attr
+radius	library/gen/com/viewpagerindicator/R.java	/^        public static int radius=0x7f01000c;$/;"	f	class:R.attr
+selectedBold	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int selectedBold=0x7f010019;$/;"	f	class:R.attr
+selectedBold	library/gen/com/viewpagerindicator/R.java	/^        public static int selectedBold=0x7f010019;$/;"	f	class:R.attr
+selectedColor	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int selectedColor=0x7f010007;$/;"	f	class:R.attr
+selectedColor	library/gen/com/viewpagerindicator/R.java	/^        public static int selectedColor=0x7f010007;$/;"	f	class:R.attr
+setCentered	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public void setCentered(boolean centered) {$/;"	m	class:CirclePageIndicator
+setCentered	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    public void setCentered(boolean centered) {$/;"	m	class:LinePageIndicator
+setCentered	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public void setCentered(boolean centered) {$/;"	m	class:CirclePageIndicator
+setCentered	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    public void setCentered(boolean centered) {$/;"	m	class:LinePageIndicator
+setClipPadding	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void setClipPadding(float clipPadding) {$/;"	m	class:TitlePageIndicator
+setClipPadding	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void setClipPadding(float clipPadding) {$/;"	m	class:TitlePageIndicator
+setCount	sample/src/com/viewpagerindicator/sample/TestFragmentAdapter.java	/^    public void setCount(int count) {$/;"	m	class:TestFragmentAdapter
+setCurrentItem	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public void setCurrentItem(int item) {$/;"	m	class:CirclePageIndicator
+setCurrentItem	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IconPageIndicator.java	/^    public void setCurrentItem(int item) {$/;"	m	class:IconPageIndicator
+setCurrentItem	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    public void setCurrentItem(int item) {$/;"	m	class:LinePageIndicator
+setCurrentItem	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/PageIndicator.java	/^    void setCurrentItem(int item);$/;"	m	interface:PageIndicator
+setCurrentItem	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TabPageIndicator.java	/^    public void setCurrentItem(int item) {$/;"	m	class:TabPageIndicator
+setCurrentItem	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void setCurrentItem(int item) {$/;"	m	class:TitlePageIndicator
+setCurrentItem	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public void setCurrentItem(int item) {$/;"	m	class:UnderlinePageIndicator
+setCurrentItem	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public void setCurrentItem(int item) {$/;"	m	class:CirclePageIndicator
+setCurrentItem	library/src/com/viewpagerindicator/IconPageIndicator.java	/^    public void setCurrentItem(int item) {$/;"	m	class:IconPageIndicator
+setCurrentItem	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    public void setCurrentItem(int item) {$/;"	m	class:LinePageIndicator
+setCurrentItem	library/src/com/viewpagerindicator/PageIndicator.java	/^    void setCurrentItem(int item);$/;"	m	interface:PageIndicator
+setCurrentItem	library/src/com/viewpagerindicator/TabPageIndicator.java	/^    public void setCurrentItem(int item) {$/;"	m	class:TabPageIndicator
+setCurrentItem	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void setCurrentItem(int item) {$/;"	m	class:TitlePageIndicator
+setCurrentItem	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public void setCurrentItem(int item) {$/;"	m	class:UnderlinePageIndicator
+setDividerDrawable	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IcsLinearLayout.java	/^    public void setDividerDrawable(Drawable divider) {$/;"	m	class:IcsLinearLayout
+setDividerDrawable	library/src/com/viewpagerindicator/IcsLinearLayout.java	/^    public void setDividerDrawable(Drawable divider) {$/;"	m	class:IcsLinearLayout
+setFadeDelay	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public void setFadeDelay(int fadeDelay) {$/;"	m	class:UnderlinePageIndicator
+setFadeDelay	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public void setFadeDelay(int fadeDelay) {$/;"	m	class:UnderlinePageIndicator
+setFadeLength	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public void setFadeLength(int fadeLength) {$/;"	m	class:UnderlinePageIndicator
+setFadeLength	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public void setFadeLength(int fadeLength) {$/;"	m	class:UnderlinePageIndicator
+setFades	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public void setFades(boolean fades) {$/;"	m	class:UnderlinePageIndicator
+setFades	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public void setFades(boolean fades) {$/;"	m	class:UnderlinePageIndicator
+setFillColor	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public void setFillColor(int fillColor) {$/;"	m	class:CirclePageIndicator
+setFillColor	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public void setFillColor(int fillColor) {$/;"	m	class:CirclePageIndicator
+setFooterColor	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void setFooterColor(int footerColor) {$/;"	m	class:TitlePageIndicator
+setFooterColor	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void setFooterColor(int footerColor) {$/;"	m	class:TitlePageIndicator
+setFooterIndicatorHeight	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void setFooterIndicatorHeight(float footerTriangleHeight) {$/;"	m	class:TitlePageIndicator
+setFooterIndicatorHeight	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void setFooterIndicatorHeight(float footerTriangleHeight) {$/;"	m	class:TitlePageIndicator
+setFooterIndicatorPadding	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void setFooterIndicatorPadding(float footerIndicatorPadding) {$/;"	m	class:TitlePageIndicator
+setFooterIndicatorPadding	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void setFooterIndicatorPadding(float footerIndicatorPadding) {$/;"	m	class:TitlePageIndicator
+setFooterIndicatorStyle	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void setFooterIndicatorStyle(IndicatorStyle indicatorStyle) {$/;"	m	class:TitlePageIndicator
+setFooterIndicatorStyle	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void setFooterIndicatorStyle(IndicatorStyle indicatorStyle) {$/;"	m	class:TitlePageIndicator
+setFooterLineHeight	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void setFooterLineHeight(float footerLineHeight) {$/;"	m	class:TitlePageIndicator
+setFooterLineHeight	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void setFooterLineHeight(float footerLineHeight) {$/;"	m	class:TitlePageIndicator
+setGapWidth	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    public void setGapWidth(float gapWidth) {$/;"	m	class:LinePageIndicator
+setGapWidth	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    public void setGapWidth(float gapWidth) {$/;"	m	class:LinePageIndicator
+setLinePosition	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void setLinePosition(LinePosition linePosition) {$/;"	m	class:TitlePageIndicator
+setLinePosition	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void setLinePosition(LinePosition linePosition) {$/;"	m	class:TitlePageIndicator
+setLineWidth	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    public void setLineWidth(float lineWidth) {$/;"	m	class:LinePageIndicator
+setLineWidth	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    public void setLineWidth(float lineWidth) {$/;"	m	class:LinePageIndicator
+setOnCenterItemClickListener	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void setOnCenterItemClickListener(OnCenterItemClickListener listener) {$/;"	m	class:TitlePageIndicator
+setOnCenterItemClickListener	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void setOnCenterItemClickListener(OnCenterItemClickListener listener) {$/;"	m	class:TitlePageIndicator
+setOnPageChangeListener	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public void setOnPageChangeListener(ViewPager.OnPageChangeListener listener) {$/;"	m	class:CirclePageIndicator
+setOnPageChangeListener	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IconPageIndicator.java	/^    public void setOnPageChangeListener(OnPageChangeListener listener) {$/;"	m	class:IconPageIndicator
+setOnPageChangeListener	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    public void setOnPageChangeListener(ViewPager.OnPageChangeListener listener) {$/;"	m	class:LinePageIndicator
+setOnPageChangeListener	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/PageIndicator.java	/^    void setOnPageChangeListener(ViewPager.OnPageChangeListener listener);$/;"	m	interface:PageIndicator
+setOnPageChangeListener	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TabPageIndicator.java	/^    public void setOnPageChangeListener(OnPageChangeListener listener) {$/;"	m	class:TabPageIndicator
+setOnPageChangeListener	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void setOnPageChangeListener(ViewPager.OnPageChangeListener listener) {$/;"	m	class:TitlePageIndicator
+setOnPageChangeListener	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public void setOnPageChangeListener(ViewPager.OnPageChangeListener listener) {$/;"	m	class:UnderlinePageIndicator
+setOnPageChangeListener	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public void setOnPageChangeListener(ViewPager.OnPageChangeListener listener) {$/;"	m	class:CirclePageIndicator
+setOnPageChangeListener	library/src/com/viewpagerindicator/IconPageIndicator.java	/^    public void setOnPageChangeListener(OnPageChangeListener listener) {$/;"	m	class:IconPageIndicator
+setOnPageChangeListener	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    public void setOnPageChangeListener(ViewPager.OnPageChangeListener listener) {$/;"	m	class:LinePageIndicator
+setOnPageChangeListener	library/src/com/viewpagerindicator/PageIndicator.java	/^    void setOnPageChangeListener(ViewPager.OnPageChangeListener listener);$/;"	m	interface:PageIndicator
+setOnPageChangeListener	library/src/com/viewpagerindicator/TabPageIndicator.java	/^    public void setOnPageChangeListener(OnPageChangeListener listener) {$/;"	m	class:TabPageIndicator
+setOnPageChangeListener	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void setOnPageChangeListener(ViewPager.OnPageChangeListener listener) {$/;"	m	class:TitlePageIndicator
+setOnPageChangeListener	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public void setOnPageChangeListener(ViewPager.OnPageChangeListener listener) {$/;"	m	class:UnderlinePageIndicator
+setOnTabReselectedListener	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TabPageIndicator.java	/^    public void setOnTabReselectedListener(OnTabReselectedListener listener) {$/;"	m	class:TabPageIndicator
+setOnTabReselectedListener	library/src/com/viewpagerindicator/TabPageIndicator.java	/^    public void setOnTabReselectedListener(OnTabReselectedListener listener) {$/;"	m	class:TabPageIndicator
+setOrientation	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public void setOrientation(int orientation) {$/;"	m	class:CirclePageIndicator
+setOrientation	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public void setOrientation(int orientation) {$/;"	m	class:CirclePageIndicator
+setPageColor	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public void setPageColor(int pageColor) {$/;"	m	class:CirclePageIndicator
+setPageColor	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public void setPageColor(int pageColor) {$/;"	m	class:CirclePageIndicator
+setRadius	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public void setRadius(float radius) {$/;"	m	class:CirclePageIndicator
+setRadius	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public void setRadius(float radius) {$/;"	m	class:CirclePageIndicator
+setSelectedBold	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void setSelectedBold(boolean selectedBold) {$/;"	m	class:TitlePageIndicator
+setSelectedBold	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void setSelectedBold(boolean selectedBold) {$/;"	m	class:TitlePageIndicator
+setSelectedColor	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    public void setSelectedColor(int selectedColor) {$/;"	m	class:LinePageIndicator
+setSelectedColor	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void setSelectedColor(int selectedColor) {$/;"	m	class:TitlePageIndicator
+setSelectedColor	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public void setSelectedColor(int selectedColor) {$/;"	m	class:UnderlinePageIndicator
+setSelectedColor	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    public void setSelectedColor(int selectedColor) {$/;"	m	class:LinePageIndicator
+setSelectedColor	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void setSelectedColor(int selectedColor) {$/;"	m	class:TitlePageIndicator
+setSelectedColor	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public void setSelectedColor(int selectedColor) {$/;"	m	class:UnderlinePageIndicator
+setSnap	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public void setSnap(boolean snap) {$/;"	m	class:CirclePageIndicator
+setSnap	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public void setSnap(boolean snap) {$/;"	m	class:CirclePageIndicator
+setStrokeColor	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public void setStrokeColor(int strokeColor) {$/;"	m	class:CirclePageIndicator
+setStrokeColor	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public void setStrokeColor(int strokeColor) {$/;"	m	class:CirclePageIndicator
+setStrokeWidth	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public void setStrokeWidth(float strokeWidth) {$/;"	m	class:CirclePageIndicator
+setStrokeWidth	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    public void setStrokeWidth(float lineHeight) {$/;"	m	class:LinePageIndicator
+setStrokeWidth	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public void setStrokeWidth(float strokeWidth) {$/;"	m	class:CirclePageIndicator
+setStrokeWidth	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    public void setStrokeWidth(float lineHeight) {$/;"	m	class:LinePageIndicator
+setTextColor	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void setTextColor(int textColor) {$/;"	m	class:TitlePageIndicator
+setTextColor	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void setTextColor(int textColor) {$/;"	m	class:TitlePageIndicator
+setTextSize	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void setTextSize(float textSize) {$/;"	m	class:TitlePageIndicator
+setTextSize	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void setTextSize(float textSize) {$/;"	m	class:TitlePageIndicator
+setTitlePadding	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void setTitlePadding(float titlePadding) {$/;"	m	class:TitlePageIndicator
+setTitlePadding	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void setTitlePadding(float titlePadding) {$/;"	m	class:TitlePageIndicator
+setTopPadding	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void setTopPadding(float topPadding) {$/;"	m	class:TitlePageIndicator
+setTopPadding	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void setTopPadding(float topPadding) {$/;"	m	class:TitlePageIndicator
+setTypeface	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void setTypeface(Typeface typeface) {$/;"	m	class:TitlePageIndicator
+setTypeface	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void setTypeface(Typeface typeface) {$/;"	m	class:TitlePageIndicator
+setUnselectedColor	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    public void setUnselectedColor(int unselectedColor) {$/;"	m	class:LinePageIndicator
+setUnselectedColor	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    public void setUnselectedColor(int unselectedColor) {$/;"	m	class:LinePageIndicator
+setViewPager	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public void setViewPager(ViewPager view) {$/;"	m	class:CirclePageIndicator
+setViewPager	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public void setViewPager(ViewPager view, int initialPosition) {$/;"	m	class:CirclePageIndicator
+setViewPager	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IconPageIndicator.java	/^    public void setViewPager(ViewPager view) {$/;"	m	class:IconPageIndicator
+setViewPager	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/IconPageIndicator.java	/^    public void setViewPager(ViewPager view, int initialPosition) {$/;"	m	class:IconPageIndicator
+setViewPager	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    public void setViewPager(ViewPager view, int initialPosition) {$/;"	m	class:LinePageIndicator
+setViewPager	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^    public void setViewPager(ViewPager viewPager) {$/;"	m	class:LinePageIndicator
+setViewPager	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/PageIndicator.java	/^    void setViewPager(ViewPager view);$/;"	m	interface:PageIndicator
+setViewPager	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/PageIndicator.java	/^    void setViewPager(ViewPager view, int initialPosition);$/;"	m	interface:PageIndicator
+setViewPager	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TabPageIndicator.java	/^    public void setViewPager(ViewPager view) {$/;"	m	class:TabPageIndicator
+setViewPager	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TabPageIndicator.java	/^    public void setViewPager(ViewPager view, int initialPosition) {$/;"	m	class:TabPageIndicator
+setViewPager	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void setViewPager(ViewPager view) {$/;"	m	class:TitlePageIndicator
+setViewPager	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void setViewPager(ViewPager view, int initialPosition) {$/;"	m	class:TitlePageIndicator
+setViewPager	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public void setViewPager(ViewPager view, int initialPosition) {$/;"	m	class:UnderlinePageIndicator
+setViewPager	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public void setViewPager(ViewPager viewPager) {$/;"	m	class:UnderlinePageIndicator
+setViewPager	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public void setViewPager(ViewPager view) {$/;"	m	class:CirclePageIndicator
+setViewPager	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^    public void setViewPager(ViewPager view, int initialPosition) {$/;"	m	class:CirclePageIndicator
+setViewPager	library/src/com/viewpagerindicator/IconPageIndicator.java	/^    public void setViewPager(ViewPager view) {$/;"	m	class:IconPageIndicator
+setViewPager	library/src/com/viewpagerindicator/IconPageIndicator.java	/^    public void setViewPager(ViewPager view, int initialPosition) {$/;"	m	class:IconPageIndicator
+setViewPager	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    public void setViewPager(ViewPager view, int initialPosition) {$/;"	m	class:LinePageIndicator
+setViewPager	library/src/com/viewpagerindicator/LinePageIndicator.java	/^    public void setViewPager(ViewPager viewPager) {$/;"	m	class:LinePageIndicator
+setViewPager	library/src/com/viewpagerindicator/PageIndicator.java	/^    void setViewPager(ViewPager view);$/;"	m	interface:PageIndicator
+setViewPager	library/src/com/viewpagerindicator/PageIndicator.java	/^    void setViewPager(ViewPager view, int initialPosition);$/;"	m	interface:PageIndicator
+setViewPager	library/src/com/viewpagerindicator/TabPageIndicator.java	/^    public void setViewPager(ViewPager view) {$/;"	m	class:TabPageIndicator
+setViewPager	library/src/com/viewpagerindicator/TabPageIndicator.java	/^    public void setViewPager(ViewPager view, int initialPosition) {$/;"	m	class:TabPageIndicator
+setViewPager	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void setViewPager(ViewPager view) {$/;"	m	class:TitlePageIndicator
+setViewPager	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^    public void setViewPager(ViewPager view, int initialPosition) {$/;"	m	class:TitlePageIndicator
+setViewPager	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public void setViewPager(ViewPager view, int initialPosition) {$/;"	m	class:UnderlinePageIndicator
+setViewPager	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^    public void setViewPager(ViewPager viewPager) {$/;"	m	class:UnderlinePageIndicator
+snap	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int snap=0x7f01000d;$/;"	f	class:R.attr
+snap	library/gen/com/viewpagerindicator/R.java	/^        public static int snap=0x7f01000d;$/;"	f	class:R.attr
+strokeColor	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int strokeColor=0x7f01000e;$/;"	f	class:R.attr
+strokeColor	library/gen/com/viewpagerindicator/R.java	/^        public static int strokeColor=0x7f01000e;$/;"	f	class:R.attr
+strokeWidth	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int strokeWidth=0x7f010008;$/;"	f	class:R.attr
+strokeWidth	library/gen/com/viewpagerindicator/R.java	/^        public static int strokeWidth=0x7f010008;$/;"	f	class:R.attr
+style	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^    public static final class style {$/;"	c	class:R
+style	library/gen/com/viewpagerindicator/R.java	/^    public static final class style {$/;"	c	class:R
+styleable	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^    public static final class styleable {$/;"	c	class:R
+styleable	library/gen/com/viewpagerindicator/R.java	/^    public static final class styleable {$/;"	c	class:R
+titlePadding	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int titlePadding=0x7f01001a;$/;"	f	class:R.attr
+titlePadding	library/gen/com/viewpagerindicator/R.java	/^        public static int titlePadding=0x7f01001a;$/;"	f	class:R.attr
+top	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int top=0x7f030004;$/;"	f	class:R.id
+top	library/gen/com/viewpagerindicator/R.java	/^        public static int top=0x7f030004;$/;"	f	class:R.id
+topPadding	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int topPadding=0x7f01001b;$/;"	f	class:R.attr
+topPadding	library/gen/com/viewpagerindicator/R.java	/^        public static int topPadding=0x7f01001b;$/;"	f	class:R.attr
+triangle	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int triangle=0x7f030001;$/;"	f	class:R.id
+triangle	library/gen/com/viewpagerindicator/R.java	/^        public static int triangle=0x7f030001;$/;"	f	class:R.id
+underline	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int underline=0x7f030002;$/;"	f	class:R.id
+underline	library/gen/com/viewpagerindicator/R.java	/^        public static int underline=0x7f030002;$/;"	f	class:R.id
+unselectedColor	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int unselectedColor=0x7f010009;$/;"	f	class:R.attr
+unselectedColor	library/gen/com/viewpagerindicator/R.java	/^        public static int unselectedColor=0x7f010009;$/;"	f	class:R.attr
+value	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^        public final int value;$/;"	f	class:TitlePageIndicator.IndicatorStyle
+value	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^        public final int value;$/;"	f	class:TitlePageIndicator.LinePosition
+value	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^        public final int value;$/;"	f	class:TitlePageIndicator.IndicatorStyle
+value	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^        public final int value;$/;"	f	class:TitlePageIndicator.LinePosition
+vpiCirclePageIndicatorStyle	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int vpiCirclePageIndicatorStyle=0x7f010000;$/;"	f	class:R.attr
+vpiCirclePageIndicatorStyle	library/gen/com/viewpagerindicator/R.java	/^        public static int vpiCirclePageIndicatorStyle=0x7f010000;$/;"	f	class:R.attr
+vpiIconPageIndicatorStyle	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int vpiIconPageIndicatorStyle=0x7f010001;$/;"	f	class:R.attr
+vpiIconPageIndicatorStyle	library/gen/com/viewpagerindicator/R.java	/^        public static int vpiIconPageIndicatorStyle=0x7f010001;$/;"	f	class:R.attr
+vpiLinePageIndicatorStyle	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int vpiLinePageIndicatorStyle=0x7f010002;$/;"	f	class:R.attr
+vpiLinePageIndicatorStyle	library/gen/com/viewpagerindicator/R.java	/^        public static int vpiLinePageIndicatorStyle=0x7f010002;$/;"	f	class:R.attr
+vpiTabPageIndicatorStyle	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int vpiTabPageIndicatorStyle=0x7f010004;$/;"	f	class:R.attr
+vpiTabPageIndicatorStyle	library/gen/com/viewpagerindicator/R.java	/^        public static int vpiTabPageIndicatorStyle=0x7f010004;$/;"	f	class:R.attr
+vpiTitlePageIndicatorStyle	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int vpiTitlePageIndicatorStyle=0x7f010003;$/;"	f	class:R.attr
+vpiTitlePageIndicatorStyle	library/gen/com/viewpagerindicator/R.java	/^        public static int vpiTitlePageIndicatorStyle=0x7f010003;$/;"	f	class:R.attr
+vpiUnderlinePageIndicatorStyle	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int vpiUnderlinePageIndicatorStyle=0x7f010005;$/;"	f	class:R.attr
+vpiUnderlinePageIndicatorStyle	library/gen/com/viewpagerindicator/R.java	/^        public static int vpiUnderlinePageIndicatorStyle=0x7f010005;$/;"	f	class:R.attr
+vpi__background_holo_dark	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int vpi__background_holo_dark=0x7f040000;$/;"	f	class:R.color
+vpi__background_holo_dark	library/gen/com/viewpagerindicator/R.java	/^        public static int vpi__background_holo_dark=0x7f040000;$/;"	f	class:R.color
+vpi__background_holo_light	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int vpi__background_holo_light=0x7f040001;$/;"	f	class:R.color
+vpi__background_holo_light	library/gen/com/viewpagerindicator/R.java	/^        public static int vpi__background_holo_light=0x7f040001;$/;"	f	class:R.color
+vpi__bright_foreground_disabled_holo_dark	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int vpi__bright_foreground_disabled_holo_dark=0x7f040004;$/;"	f	class:R.color
+vpi__bright_foreground_disabled_holo_dark	library/gen/com/viewpagerindicator/R.java	/^        public static int vpi__bright_foreground_disabled_holo_dark=0x7f040004;$/;"	f	class:R.color
+vpi__bright_foreground_disabled_holo_light	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int vpi__bright_foreground_disabled_holo_light=0x7f040005;$/;"	f	class:R.color
+vpi__bright_foreground_disabled_holo_light	library/gen/com/viewpagerindicator/R.java	/^        public static int vpi__bright_foreground_disabled_holo_light=0x7f040005;$/;"	f	class:R.color
+vpi__bright_foreground_holo_dark	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int vpi__bright_foreground_holo_dark=0x7f040002;$/;"	f	class:R.color
+vpi__bright_foreground_holo_dark	library/gen/com/viewpagerindicator/R.java	/^        public static int vpi__bright_foreground_holo_dark=0x7f040002;$/;"	f	class:R.color
+vpi__bright_foreground_holo_light	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int vpi__bright_foreground_holo_light=0x7f040003;$/;"	f	class:R.color
+vpi__bright_foreground_holo_light	library/gen/com/viewpagerindicator/R.java	/^        public static int vpi__bright_foreground_holo_light=0x7f040003;$/;"	f	class:R.color
+vpi__bright_foreground_inverse_holo_dark	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int vpi__bright_foreground_inverse_holo_dark=0x7f040006;$/;"	f	class:R.color
+vpi__bright_foreground_inverse_holo_dark	library/gen/com/viewpagerindicator/R.java	/^        public static int vpi__bright_foreground_inverse_holo_dark=0x7f040006;$/;"	f	class:R.color
+vpi__bright_foreground_inverse_holo_light	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int vpi__bright_foreground_inverse_holo_light=0x7f040007;$/;"	f	class:R.color
+vpi__bright_foreground_inverse_holo_light	library/gen/com/viewpagerindicator/R.java	/^        public static int vpi__bright_foreground_inverse_holo_light=0x7f040007;$/;"	f	class:R.color
+vpi__dark_theme	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int vpi__dark_theme=0x7f040011;$/;"	f	class:R.color
+vpi__dark_theme	library/gen/com/viewpagerindicator/R.java	/^        public static int vpi__dark_theme=0x7f040011;$/;"	f	class:R.color
+vpi__light_theme	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int vpi__light_theme=0x7f040012;$/;"	f	class:R.color
+vpi__light_theme	library/gen/com/viewpagerindicator/R.java	/^        public static int vpi__light_theme=0x7f040012;$/;"	f	class:R.color
+vpi__tab_indicator	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int vpi__tab_indicator=0x7f020000;$/;"	f	class:R.drawable
+vpi__tab_indicator	library/gen/com/viewpagerindicator/R.java	/^        public static int vpi__tab_indicator=0x7f020000;$/;"	f	class:R.drawable
+vpi__tab_selected_focused_holo	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int vpi__tab_selected_focused_holo=0x7f020001;$/;"	f	class:R.drawable
+vpi__tab_selected_focused_holo	library/gen/com/viewpagerindicator/R.java	/^        public static int vpi__tab_selected_focused_holo=0x7f020001;$/;"	f	class:R.drawable
+vpi__tab_selected_holo	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int vpi__tab_selected_holo=0x7f020002;$/;"	f	class:R.drawable
+vpi__tab_selected_holo	library/gen/com/viewpagerindicator/R.java	/^        public static int vpi__tab_selected_holo=0x7f020002;$/;"	f	class:R.drawable
+vpi__tab_selected_pressed_holo	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int vpi__tab_selected_pressed_holo=0x7f020003;$/;"	f	class:R.drawable
+vpi__tab_selected_pressed_holo	library/gen/com/viewpagerindicator/R.java	/^        public static int vpi__tab_selected_pressed_holo=0x7f020003;$/;"	f	class:R.drawable
+vpi__tab_unselected_focused_holo	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int vpi__tab_unselected_focused_holo=0x7f020004;$/;"	f	class:R.drawable
+vpi__tab_unselected_focused_holo	library/gen/com/viewpagerindicator/R.java	/^        public static int vpi__tab_unselected_focused_holo=0x7f020004;$/;"	f	class:R.drawable
+vpi__tab_unselected_holo	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int vpi__tab_unselected_holo=0x7f020005;$/;"	f	class:R.drawable
+vpi__tab_unselected_holo	library/gen/com/viewpagerindicator/R.java	/^        public static int vpi__tab_unselected_holo=0x7f020005;$/;"	f	class:R.drawable
+vpi__tab_unselected_pressed_holo	Android-ViewPagerIndicator-lib/gen/com/viewpagerindicator/R.java	/^        public static int vpi__tab_unselected_pressed_holo=0x7f020006;$/;"	f	class:R.drawable
+vpi__tab_unselected_pressed_holo	library/gen/com/viewpagerindicator/R.java	/^        public static int vpi__tab_unselected_pressed_holo=0x7f020006;$/;"	f	class:R.drawable
+writeToParcel	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/CirclePageIndicator.java	/^        public void writeToParcel(Parcel dest, int flags) {$/;"	m	class:CirclePageIndicator.SavedState
+writeToParcel	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/LinePageIndicator.java	/^        public void writeToParcel(Parcel dest, int flags) {$/;"	m	class:LinePageIndicator.SavedState
+writeToParcel	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/TitlePageIndicator.java	/^        public void writeToParcel(Parcel dest, int flags) {$/;"	m	class:TitlePageIndicator.SavedState
+writeToParcel	Android-ViewPagerIndicator-lib/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^        public void writeToParcel(Parcel dest, int flags) {$/;"	m	class:UnderlinePageIndicator.SavedState
+writeToParcel	library/src/com/viewpagerindicator/CirclePageIndicator.java	/^        public void writeToParcel(Parcel dest, int flags) {$/;"	m	class:CirclePageIndicator.SavedState
+writeToParcel	library/src/com/viewpagerindicator/LinePageIndicator.java	/^        public void writeToParcel(Parcel dest, int flags) {$/;"	m	class:LinePageIndicator.SavedState
+writeToParcel	library/src/com/viewpagerindicator/TitlePageIndicator.java	/^        public void writeToParcel(Parcel dest, int flags) {$/;"	m	class:TitlePageIndicator.SavedState
+writeToParcel	library/src/com/viewpagerindicator/UnderlinePageIndicator.java	/^        public void writeToParcel(Parcel dest, int flags) {$/;"	m	class:UnderlinePageIndicator.SavedState

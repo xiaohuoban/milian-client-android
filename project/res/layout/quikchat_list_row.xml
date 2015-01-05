@@ -1,0 +1,129 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:descendantFocusability="blocksDescendants"  
+    android:padding="8dp">
+ 
+
+	<ImageView
+            android:id="@+id/quikchat_head_image"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_alignParentLeft="true"/>
+
+	<RelativeLayout
+	    android:id="@+id/quikchat_right_block"
+	    android:layout_toRightOf="@+id/quikchat_head_image"
+	    android:layout_alignParentTop="true"
+	    android:layout_height="wrap_content"
+	    android:layout_width="fill_parent"
+	    android:paddingLeft="8dp"
+	    android:paddingTop="3dp">
+	    
+	    <RelativeLayout
+        android:id="@+id/quikchat_right_first_line"
+	     android:layout_alignParentTop="true"
+	    android:layout_height="wrap_content"
+	    android:layout_width="fill_parent"
+	    android:paddingLeft="8dp">
+
+	    <TextView
+	        android:id="@+id/quikchat_name"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_alignParentLeft="true"
+	        android:singleLine="true"
+	        android:textColor="#636363"
+	        android:textSize="20sp"
+	        android:typeface="sans" />
+	 
+	    
+	    
+	    
+ 
+	    <TextView
+	        android:id="@+id/quikchat_lastupdate"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_alignBaseline="@+id/quikchat_name"
+	        android:layout_alignParentRight="true"
+	        android:gravity="right"
+	        android:textColor="#636363"
+	        android:textSize="12sp" />
+	    
+	   </RelativeLayout>
+	   
+	  <RelativeLayout
+        android:id="@+id/quikchat_right_second_line"
+        android:layout_below ="@+id/quikchat_right_first_line"
+	    android:layout_centerVertical="true"
+	    android:layout_height="wrap_content"
+	    android:layout_width="fill_parent"
+	    android:paddingLeft="8dp">
+	      
+	      <TextView
+	        android:id="@+id/quikchat_unread_msg_numbers"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_alignParentLeft="true"
+	        android:gravity="left"
+	        android:textColor="#FFFFFF"
+	        android:text="0"
+	        android:background="#FF4500"
+	        android:radius="10dip" 
+	        android:textSize="12sp" />
+	      
+	      <TextView
+	        android:id="@+id/quikchat_lastmsg"
+	        android:layout_width="wrap_content"
+ 
+	        android:layout_height="wrap_content"
+	        android:layout_alignBaseline="@+id/quikchat_unread_msg_numbers"
+	        android:layout_toRightOf="@+id/quikchat_unread_msg_numbers"
+			android:radius="10dip" 
+	        android:textColor="#636363"
+	        android:textSize="12sp"
+	        android:singleLine="true"
+	        android:paddingLeft="5dp"
+	        android:scrollHorizontally="false"
+	        />
+	      
+	         <LinearLayout 
+			      android:id="@+id/quikchat_unfamiliar_block "
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"  
+			    android:orientation="horizontal"
+			    android:clickable="false"
+			    android:layout_alignParentRight="true"
+			    >
+	       <TextView
+	        android:id="@+id/quikchat_unfamiliar_flag"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_alignBaseline="@+id/quikchat_unread_msg_numbers"
+			android:clickable="false"
+	        android:gravity="center"
+	        android:text="陌"
+	        android:textColor="#FFA500"
+	        android:textSize="12sp" />
+	       
+	       <Button
+	        android:id="@+id/quikchat_add_contact"
+	        android:layout_width="wrap_content"
+	        android:layout_height="20dp"
+
+	        android:gravity="center"
+	        android:text="加友"
+	        android:textColor="#0000CD"
+	        android:background="#00FF00"
+	        android:radius="10dip" 
+	        android:textSize="12sp" />
+	       </LinearLayout>
+	    
+	    </RelativeLayout>
+
+ 	</RelativeLayout>
+ 
+ 
+</RelativeLayout>

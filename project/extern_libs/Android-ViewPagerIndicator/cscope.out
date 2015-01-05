@@ -1,0 +1,23283 @@
+cscope 15 /work/im/branches/im2.0/client/baseLib/extern_libs/Android-ViewPagerIndicator -q 0000000902 0000124965
+	@library/gen/com/viewpagerindicator/BuildConfig.java
+
+2 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+;
+
+4 
+public
+ 
+fš®
+ cÏs 
+	cBudCÚfig
+ {
+
+5 
+public
+ 
+fš®
+ 
+boŞ—n
+ 
+	mDEBUG
+ = 
+Œue
+;
+
+	@library/gen/com/viewpagerindicator/R.java
+
+8 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+;
+
+10 
+public
+ 
+fš®
+ cÏs 
+	cR
+ {
+
+11 
+public
+ 
+fš®
+ cÏs 
+	c©Œ
+ {
+
+19 
+public
+ 
+	mûÁ”ed
+=0x7f010006;
+
+30 
+public
+ 
+	mşPaddšg
+=0x7f010011;
+
+39 
+public
+ 
+	mçdeD–ay
+=0x7f01001d;
+
+48 
+public
+ 
+	mçdeL’gth
+=0x7f01001e;
+
+57 
+public
+ 
+	mçdes
+=0x7f01001c;
+
+67 
+public
+ 
+	mflCŞÜ
+=0x7f01000a;
+
+77 
+public
+ 
+	mfoÙ”CŞÜ
+=0x7f010012;
+
+88 
+public
+ 
+	mfoÙ”IndiÿtÜHeight
+=0x7f010015;
+
+101 
+public
+ 
+	mfoÙ”IndiÿtÜStyË
+=0x7f010014;
+
+112 
+public
+ 
+	mfoÙ”IndiÿtÜUnd”lšePaddšg
+=0x7f010016;
+
+123 
+public
+ 
+	mfoÙ”LšeHeight
+=0x7f010013;
+
+134 
+public
+ 
+	mfoÙ”Paddšg
+=0x7f010017;
+
+145 
+public
+ 
+	mg­Width
+=0x7f010010;
+
+157 
+public
+ 
+	mlšePos™iÚ
+=0x7f010018;
+
+168 
+public
+ 
+	mlšeWidth
+=0x7f01000f;
+
+178 
+public
+ 
+	m·geCŞÜ
+=0x7f01000b;
+
+189 
+public
+ 
+	m¿dius
+=0x7f01000c;
+
+198 
+public
+ 
+	m£ËùedBŞd
+=0x7f010019;
+
+207 
+public
+ 
+	m£ËùedCŞÜ
+=0x7f010007;
+
+216 
+public
+ 
+	m¢­
+=0x7f01000d;
+
+226 
+public
+ 
+	m¡rokeCŞÜ
+=0x7f01000e;
+
+236 
+public
+ 
+	m¡rokeWidth
+=0x7f010008;
+
+247 
+public
+ 
+	mt™ËPaddšg
+=0x7f01001a;
+
+258 
+public
+ 
+	mtİPaddšg
+=0x7f01001b;
+
+267 
+public
+ 
+	mun£ËùedCŞÜ
+=0x7f010009;
+
+272 
+public
+ 
+	mvpiCœşePageIndiÿtÜStyË
+=0x7f010000;
+
+277 
+public
+ 
+	mvpiIcÚPageIndiÿtÜStyË
+=0x7f010001;
+
+282 
+public
+ 
+	mvpiLšePageIndiÿtÜStyË
+=0x7f010002;
+
+287 
+public
+ 
+	mvpiTabPageIndiÿtÜStyË
+=0x7f010004;
+
+292 
+public
+ 
+	mvpiT™ËPageIndiÿtÜStyË
+=0x7f010003;
+
+297 
+public
+ 
+	mvpiUnd”lšePageIndiÿtÜStyË
+=0x7f010005;
+
+299 
+public
+ 
+fš®
+ cÏs 
+	cboŞ
+ {
+
+300 
+public
+ 
+	gdeçuÉ_cœşe_šdiÿtÜ_ûÁ”ed
+=0x7f050000;
+
+301 
+public
+ 
+	gdeçuÉ_cœşe_šdiÿtÜ_¢­
+=0x7f050001;
+
+302 
+public
+ 
+	gdeçuÉ_lše_šdiÿtÜ_ûÁ”ed
+=0x7f050002;
+
+303 
+public
+ 
+	gdeçuÉ_t™Ë_šdiÿtÜ_£Ëùed_bŞd
+=0x7f050003;
+
+304 
+public
+ 
+	gdeçuÉ_und”lše_šdiÿtÜ_çdes
+=0x7f050004;
+
+306 
+public
+ 
+fš®
+ cÏs 
+	ccŞÜ
+ {
+
+307 
+public
+ 
+	gdeçuÉ_cœşe_šdiÿtÜ_fl_cŞÜ
+=0x7f040008;
+
+308 
+public
+ 
+	gdeçuÉ_cœşe_šdiÿtÜ_·ge_cŞÜ
+=0x7f040009;
+
+309 
+public
+ 
+	gdeçuÉ_cœşe_šdiÿtÜ_¡roke_cŞÜ
+=0x7f04000a;
+
+310 
+public
+ 
+	gdeçuÉ_lše_šdiÿtÜ_£Ëùed_cŞÜ
+=0x7f04000b;
+
+311 
+public
+ 
+	gdeçuÉ_lše_šdiÿtÜ_un£Ëùed_cŞÜ
+=0x7f04000c;
+
+312 
+public
+ 
+	gdeçuÉ_t™Ë_šdiÿtÜ_foÙ”_cŞÜ
+=0x7f04000d;
+
+313 
+public
+ 
+	gdeçuÉ_t™Ë_šdiÿtÜ_£Ëùed_cŞÜ
+=0x7f04000e;
+
+314 
+public
+ 
+	gdeçuÉ_t™Ë_šdiÿtÜ_‹xt_cŞÜ
+=0x7f04000f;
+
+315 
+public
+ 
+	gdeçuÉ_und”lše_šdiÿtÜ_£Ëùed_cŞÜ
+=0x7f040010;
+
+316 
+public
+ 
+	gvpi__background_hŞo_d¬k
+=0x7f040000;
+
+317 
+public
+ 
+	gvpi__background_hŞo_light
+=0x7f040001;
+
+318 
+public
+ 
+	gvpi__bright_fÜeground_di§bËd_hŞo_d¬k
+=0x7f040004;
+
+319 
+public
+ 
+	gvpi__bright_fÜeground_di§bËd_hŞo_light
+=0x7f040005;
+
+320 
+public
+ 
+	gvpi__bright_fÜeground_hŞo_d¬k
+=0x7f040002;
+
+321 
+public
+ 
+	gvpi__bright_fÜeground_hŞo_light
+=0x7f040003;
+
+322 
+public
+ 
+	gvpi__bright_fÜeground_šv”£_hŞo_d¬k
+=0x7f040006;
+
+323 
+public
+ 
+	gvpi__bright_fÜeground_šv”£_hŞo_light
+=0x7f040007;
+
+324 
+public
+ 
+	gvpi__d¬k_theme
+=0x7f040011;
+
+325 
+public
+ 
+	gvpi__light_theme
+=0x7f040012;
+
+327 
+public
+ 
+fš®
+ cÏs 
+	cdim’
+ {
+
+328 
+public
+ 
+	gdeçuÉ_cœşe_šdiÿtÜ_¿dius
+=0x7f070000;
+
+329 
+public
+ 
+	gdeçuÉ_cœşe_šdiÿtÜ_¡roke_width
+=0x7f070001;
+
+330 
+public
+ 
+	gdeçuÉ_lše_šdiÿtÜ_g­_width
+=0x7f070003;
+
+331 
+public
+ 
+	gdeçuÉ_lše_šdiÿtÜ_lše_width
+=0x7f070002;
+
+332 
+public
+ 
+	gdeçuÉ_lše_šdiÿtÜ_¡roke_width
+=0x7f070004;
+
+333 
+public
+ 
+	gdeçuÉ_t™Ë_šdiÿtÜ_ş_·ddšg
+=0x7f070005;
+
+334 
+public
+ 
+	gdeçuÉ_t™Ë_šdiÿtÜ_foÙ”_šdiÿtÜ_height
+=0x7f070007;
+
+335 
+public
+ 
+	gdeçuÉ_t™Ë_šdiÿtÜ_foÙ”_šdiÿtÜ_und”lše_·ddšg
+=0x7f070008;
+
+336 
+public
+ 
+	gdeçuÉ_t™Ë_šdiÿtÜ_foÙ”_lše_height
+=0x7f070006;
+
+337 
+public
+ 
+	gdeçuÉ_t™Ë_šdiÿtÜ_foÙ”_·ddšg
+=0x7f070009;
+
+338 
+public
+ 
+	gdeçuÉ_t™Ë_šdiÿtÜ_‹xt_size
+=0x7f07000a;
+
+339 
+public
+ 
+	gdeçuÉ_t™Ë_šdiÿtÜ_t™Ë_·ddšg
+=0x7f07000b;
+
+340 
+public
+ 
+	gdeçuÉ_t™Ë_šdiÿtÜ_tİ_·ddšg
+=0x7f07000c;
+
+342 
+public
+ 
+fš®
+ cÏs 
+	cd¿wabË
+ {
+
+343 
+public
+ 
+	gvpi__b_šdiÿtÜ
+=0x7f020000;
+
+344 
+public
+ 
+	gvpi__b_£Ëùed_focu£d_hŞo
+=0x7f020001;
+
+345 
+public
+ 
+	gvpi__b_£Ëùed_hŞo
+=0x7f020002;
+
+346 
+public
+ 
+	gvpi__b_£Ëùed_´es£d_hŞo
+=0x7f020003;
+
+347 
+public
+ 
+	gvpi__b_un£Ëùed_focu£d_hŞo
+=0x7f020004;
+
+348 
+public
+ 
+	gvpi__b_un£Ëùed_hŞo
+=0x7f020005;
+
+349 
+public
+ 
+	gvpi__b_un£Ëùed_´es£d_hŞo
+=0x7f020006;
+
+351 
+public
+ 
+fš®
+ cÏs 
+	cid
+ {
+
+352 
+public
+ 
+	gbÙtom
+=0x7f030003;
+
+353 
+public
+ 
+	gnÚe
+=0x7f030000;
+
+354 
+public
+ 
+	gtİ
+=0x7f030004;
+
+355 
+public
+ 
+	gŒŸngË
+=0x7f030001;
+
+356 
+public
+ 
+	gund”lše
+=0x7f030002;
+
+358 
+public
+ 
+fš®
+ cÏs 
+	cš‹g”
+ {
+
+359 
+public
+ 
+	gdeçuÉ_cœşe_šdiÿtÜ_Ü›Á©iÚ
+=0x7f060000;
+
+360 
+public
+ 
+	gdeçuÉ_t™Ë_šdiÿtÜ_foÙ”_šdiÿtÜ_¡yË
+=0x7f060001;
+
+361 
+public
+ 
+	gdeçuÉ_t™Ë_šdiÿtÜ_lše_pos™iÚ
+=0x7f060002;
+
+362 
+public
+ 
+	gdeçuÉ_und”lše_šdiÿtÜ_çde_d–ay
+=0x7f060003;
+
+363 
+public
+ 
+	gdeçuÉ_und”lše_šdiÿtÜ_çde_Ëngth
+=0x7f060004;
+
+365 
+public
+ 
+fš®
+ cÏs 
+	c¡yË
+ {
+
+366 
+public
+ 
+	gTextAµ—¿nû_TabPageIndiÿtÜ
+=0x7f080003;
+
+367 
+public
+ 
+	gTheme_PageIndiÿtÜDeçuÉs
+=0x7f080000;
+
+368 
+public
+ 
+	gWidg‘
+=0x7f080001;
+
+369 
+public
+ 
+	gWidg‘_IcÚPageIndiÿtÜ
+=0x7f080004;
+
+370 
+public
+ 
+	gWidg‘_TabPageIndiÿtÜ
+=0x7f080002;
+
+372 
+public
+ 
+fš®
+ cÏs 
+	c¡yËabË
+ {
+
+399 
+public
+ 
+fš®
+ [] 
+	gCœşePageIndiÿtÜ
+ = {
+
+412 
+public
+ 
+fš®
+ 
+	gCœşePageIndiÿtÜ_ªdroid_background
+ = 1;
+
+421 
+public
+ 
+fš®
+ 
+	gCœşePageIndiÿtÜ_ªdroid_Ü›Á©iÚ
+ = 0;
+
+437 
+public
+ 
+fš®
+ 
+	gCœşePageIndiÿtÜ_ûÁ”ed
+ = 2;
+
+454 
+public
+ 
+fš®
+ 
+	gCœşePageIndiÿtÜ_flCŞÜ
+ = 4;
+
+471 
+public
+ 
+fš®
+ 
+	gCœşePageIndiÿtÜ_·geCŞÜ
+ = 5;
+
+489 
+public
+ 
+fš®
+ 
+	gCœşePageIndiÿtÜ_¿dius
+ = 6;
+
+505 
+public
+ 
+fš®
+ 
+	gCœşePageIndiÿtÜ_¢­
+ = 7;
+
+522 
+public
+ 
+fš®
+ 
+	gCœşePageIndiÿtÜ_¡rokeCŞÜ
+ = 8;
+
+540 
+public
+ 
+fš®
+ 
+	gCœşePageIndiÿtÜ_¡rokeWidth
+ = 3;
+
+563 
+public
+ 
+fš®
+ [] 
+	gLšePageIndiÿtÜ
+ = {
+
+575 
+public
+ 
+fš®
+ 
+	gLšePageIndiÿtÜ_ªdroid_background
+ = 0;
+
+591 
+public
+ 
+fš®
+ 
+	gLšePageIndiÿtÜ_ûÁ”ed
+ = 1;
+
+609 
+public
+ 
+fš®
+ 
+	gLšePageIndiÿtÜ_g­Width
+ = 6;
+
+627 
+public
+ 
+fš®
+ 
+	gLšePageIndiÿtÜ_lšeWidth
+ = 5;
+
+644 
+public
+ 
+fš®
+ 
+	gLšePageIndiÿtÜ_£ËùedCŞÜ
+ = 2;
+
+662 
+public
+ 
+fš®
+ 
+	gLšePageIndiÿtÜ_¡rokeWidth
+ = 3;
+
+679 
+public
+ 
+fš®
+ 
+	gLšePageIndiÿtÜ_un£ËùedCŞÜ
+ = 4;
+
+718 
+public
+ 
+fš®
+ [] 
+	gT™ËPageIndiÿtÜ
+ = {
+
+732 
+public
+ 
+fš®
+ 
+	gT™ËPageIndiÿtÜ_ªdroid_background
+ = 2;
+
+741 
+public
+ 
+fš®
+ 
+	gT™ËPageIndiÿtÜ_ªdroid_‹xtCŞÜ
+ = 1;
+
+750 
+public
+ 
+fš®
+ 
+	gT™ËPageIndiÿtÜ_ªdroid_‹xtSize
+ = 0;
+
+768 
+public
+ 
+fš®
+ 
+	gT™ËPageIndiÿtÜ_şPaddšg
+ = 4;
+
+785 
+public
+ 
+fš®
+ 
+	gT™ËPageIndiÿtÜ_foÙ”CŞÜ
+ = 5;
+
+803 
+public
+ 
+fš®
+ 
+	gT™ËPageIndiÿtÜ_foÙ”IndiÿtÜHeight
+ = 8;
+
+823 
+public
+ 
+fš®
+ 
+	gT™ËPageIndiÿtÜ_foÙ”IndiÿtÜStyË
+ = 7;
+
+841 
+public
+ 
+fš®
+ 
+	gT™ËPageIndiÿtÜ_foÙ”IndiÿtÜUnd”lšePaddšg
+ = 9;
+
+859 
+public
+ 
+fš®
+ 
+	gT™ËPageIndiÿtÜ_foÙ”LšeHeight
+ = 6;
+
+877 
+public
+ 
+fš®
+ 
+	gT™ËPageIndiÿtÜ_foÙ”Paddšg
+ = 10;
+
+896 
+public
+ 
+fš®
+ 
+	gT™ËPageIndiÿtÜ_lšePos™iÚ
+ = 11;
+
+912 
+public
+ 
+fš®
+ 
+	gT™ËPageIndiÿtÜ_£ËùedBŞd
+ = 12;
+
+929 
+public
+ 
+fš®
+ 
+	gT™ËPageIndiÿtÜ_£ËùedCŞÜ
+ = 3;
+
+947 
+public
+ 
+fš®
+ 
+	gT™ËPageIndiÿtÜ_t™ËPaddšg
+ = 13;
+
+965 
+public
+ 
+fš®
+ 
+	gT™ËPageIndiÿtÜ_tİPaddšg
+ = 14;
+
+984 
+public
+ 
+fš®
+ [] 
+	gUnd”lšePageIndiÿtÜ
+ = {
+
+996 
+public
+ 
+fš®
+ 
+	gUnd”lšePageIndiÿtÜ_ªdroid_background
+ = 0;
+
+1012 
+public
+ 
+fš®
+ 
+	gUnd”lšePageIndiÿtÜ_çdeD–ay
+ = 3;
+
+1028 
+public
+ 
+fš®
+ 
+	gUnd”lšePageIndiÿtÜ_çdeL’gth
+ = 4;
+
+1044 
+public
+ 
+fš®
+ 
+	gUnd”lšePageIndiÿtÜ_çdes
+ = 2;
+
+1061 
+public
+ 
+fš®
+ 
+	gUnd”lšePageIndiÿtÜ_£ËùedCŞÜ
+ = 1;
+
+1082 
+public
+ 
+fš®
+ [] 
+	gV›wPag”IndiÿtÜ
+ = {
+
+1097 
+public
+ 
+fš®
+ 
+	gV›wPag”IndiÿtÜ_vpiCœşePageIndiÿtÜStyË
+ = 0;
+
+1109 
+public
+ 
+fš®
+ 
+	gV›wPag”IndiÿtÜ_vpiIcÚPageIndiÿtÜStyË
+ = 1;
+
+1121 
+public
+ 
+fš®
+ 
+	gV›wPag”IndiÿtÜ_vpiLšePageIndiÿtÜStyË
+ = 2;
+
+1133 
+public
+ 
+fš®
+ 
+	gV›wPag”IndiÿtÜ_vpiTabPageIndiÿtÜStyË
+ = 4;
+
+1145 
+public
+ 
+fš®
+ 
+	gV›wPag”IndiÿtÜ_vpiT™ËPageIndiÿtÜStyË
+ = 3;
+
+1157 
+public
+ 
+fš®
+ 
+	gV›wPag”IndiÿtÜ_vpiUnd”lšePageIndiÿtÜStyË
+ = 5;
+
+	@library/src/com/viewpagerindicator/CirclePageIndicator.java
+
+17 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+;
+
+19 
+impÜt
+ 
+	gªdroid
+.
+	gcÚ‹Á
+.
+	gCÚ‹xt
+;
+
+20 
+impÜt
+ 
+	gªdroid
+.
+	gcÚ‹Á
+.
+	g»s
+.
+	gResourûs
+;
+
+21 
+impÜt
+ 
+	gªdroid
+.
+	gcÚ‹Á
+.
+	g»s
+.
+	gTy³dA¼ay
+;
+
+22 
+impÜt
+ 
+	gªdroid
+.
+	gg¿phics
+.
+	gCªvas
+;
+
+23 
+impÜt
+ 
+	gªdroid
+.
+	gg¿phics
+.
+	gPašt
+;
+
+24 
+impÜt
+ 
+	gªdroid
+.
+	gg¿phics
+.
+	gPašt
+.
+	gStyË
+;
+
+25 
+impÜt
+ 
+	gªdroid
+.
+	gg¿phics
+.
+	gd¿wabË
+.
+	gD¿wabË
+;
+
+26 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gP¬ûl
+;
+
+27 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gP¬ûÏbË
+;
+
+28 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gMÙiÚEv’tCom·t
+;
+
+29 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wCÚfigu¿tiÚCom·t
+;
+
+30 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+;
+
+31 
+impÜt
+ 
+	gªdroid
+.
+	gut
+.
+	gA‰ribu‹S‘
+;
+
+32 
+impÜt
+ 
+	gªdroid
+.
+	gv›w
+.
+	gMÙiÚEv’t
+;
+
+33 
+impÜt
+ 
+	gªdroid
+.
+	gv›w
+.
+	gV›w
+;
+
+34 
+impÜt
+ 
+	gªdroid
+.
+	gv›w
+.
+	gV›wCÚfigu¿tiÚ
+;
+
+36 
+impÜt
+ 
+	gªdroid
+.
+	gg¿phics
+.
+	gPašt
+.
+	gANTI_ALIAS_FLAG
+;
+
+37 
+impÜt
+ 
+	gªdroid
+.
+	gwidg‘
+.
+	gLš—rLayout
+.
+	gHORIZONTAL
+;
+
+38 
+impÜt
+ 
+	gªdroid
+.
+	gwidg‘
+.
+	gLš—rLayout
+.
+	gVERTICAL
+;
+
+44 
+public
+ cÏs 
+	cCœşePageIndiÿtÜ
+ 
+ex‹nds
+ 
+V›w
+ 
+im¶em’ts
+ 
+	mPageIndiÿtÜ
+ {
+
+45 
+´iv©e
+ 
+fš®
+ 
+	mINVALID_POINTER
+ = -1;
+
+47 
+´iv©e
+ 
+	mmRadius
+;
+
+48 
+´iv©e
+ 
+fš®
+ 
+Pašt
+ 
+	mmPaštPageFl
+ = 
+Ãw
+ Pašt(
+ANTI_ALIAS_FLAG
+);
+
+49 
+´iv©e
+ 
+fš®
+ 
+Pašt
+ 
+	mmPaštSŒoke
+ = 
+Ãw
+ Pašt(
+ANTI_ALIAS_FLAG
+);
+
+50 
+´iv©e
+ 
+fš®
+ 
+Pašt
+ 
+	mmPaštFl
+ = 
+Ãw
+ Pašt(
+ANTI_ALIAS_FLAG
+);
+
+51 
+´iv©e
+ 
+V›wPag”
+ 
+	mmV›wPag”
+;
+
+52 
+´iv©e
+ 
+	mV›wPag”
+.
+OnPageChªgeLi¡’”
+ 
+	mmLi¡’”
+;
+
+53 
+´iv©e
+ 
+	mmCu¼’tPage
+;
+
+54 
+´iv©e
+ 
+	mmSÇpPage
+;
+
+55 
+´iv©e
+ 
+	mmPageOff£t
+;
+
+56 
+´iv©e
+ 
+	mmSüŞlS‹
+;
+
+57 
+´iv©e
+ 
+	mmOr›Á©iÚ
+;
+
+58 
+´iv©e
+ 
+boŞ—n
+ 
+	mmC’‹»d
+;
+
+59 
+´iv©e
+ 
+boŞ—n
+ 
+	mmSÇp
+;
+
+61 
+´iv©e
+ 
+	mmTouchSlİ
+;
+
+62 
+´iv©e
+ 
+	mmLa¡MÙiÚX
+ = -1;
+
+63 
+´iv©e
+ 
+	mmAùivePoš‹rId
+ = 
+INVALID_POINTER
+;
+
+64 
+´iv©e
+ 
+boŞ—n
+ 
+	mmIsD¿ggšg
+;
+
+67 
+public
+ 
+	$CœşePageIndiÿtÜ
+(
+CÚ‹xt
+ 
+cÚ‹xt
+) {
+
+68 
+	`this
+(
+cÚ‹xt
+, 
+nuÎ
+);
+
+71 
+public
+ 
+	$CœşePageIndiÿtÜ
+(
+CÚ‹xt
+ 
+cÚ‹xt
+, 
+A‰ribu‹S‘
+ 
+©Œs
+) {
+
+72 
+	`this
+(
+cÚ‹xt
+, 
+©Œs
+, 
+R
+.
+©Œ
+.
+vpiCœşePageIndiÿtÜStyË
+);
+
+73 
+	}
+}
+
+75 
+public
+ 
+	$CœşePageIndiÿtÜ
+(
+CÚ‹xt
+ 
+cÚ‹xt
+, 
+A‰ribu‹S‘
+ 
+©Œs
+, 
+defStyË
+) {
+
+76 
+	`su³r
+(
+cÚ‹xt
+, 
+©Œs
+, 
+defStyË
+);
+
+77 ià(
+	`isInEd™Mode
+()) ;
+
+80 
+fš®
+ 
+Resourûs
+ 
+»s
+ = 
+	`g‘Resourûs
+();
+
+81 
+fš®
+ 
+deçuÉPageCŞÜ
+ = 
+»s
+.
+	`g‘CŞÜ
+(
+R
+.
+cŞÜ
+.
+deçuÉ_cœşe_šdiÿtÜ_·ge_cŞÜ
+);
+
+82 
+fš®
+ 
+deçuÉFlCŞÜ
+ = 
+»s
+.
+	`g‘CŞÜ
+(
+R
+.
+cŞÜ
+.
+deçuÉ_cœşe_šdiÿtÜ_fl_cŞÜ
+);
+
+83 
+fš®
+ 
+deçuÉOr›Á©iÚ
+ = 
+»s
+.
+	`g‘IÁeg”
+(
+R
+.
+š‹g”
+.
+deçuÉ_cœşe_šdiÿtÜ_Ü›Á©iÚ
+);
+
+84 
+fš®
+ 
+deçuÉSŒokeCŞÜ
+ = 
+»s
+.
+	`g‘CŞÜ
+(
+R
+.
+cŞÜ
+.
+deçuÉ_cœşe_šdiÿtÜ_¡roke_cŞÜ
+);
+
+85 
+fš®
+ 
+deçuÉSŒokeWidth
+ = 
+»s
+.
+	`g‘Dim’siÚ
+(
+R
+.
+dim’
+.
+deçuÉ_cœşe_šdiÿtÜ_¡roke_width
+);
+
+86 
+fš®
+ 
+deçuÉRadius
+ = 
+»s
+.
+	`g‘Dim’siÚ
+(
+R
+.
+dim’
+.
+deçuÉ_cœşe_šdiÿtÜ_¿dius
+);
+
+87 
+fš®
+ 
+boŞ—n
+ 
+deçuÉC’‹»d
+ = 
+»s
+.
+	`g‘BoŞ—n
+(
+R
+.
+boŞ
+.
+deçuÉ_cœşe_šdiÿtÜ_ûÁ”ed
+);
+
+88 
+fš®
+ 
+boŞ—n
+ 
+deçuÉSÇp
+ = 
+»s
+.
+	`g‘BoŞ—n
+(
+R
+.
+boŞ
+.
+deçuÉ_cœşe_šdiÿtÜ_¢­
+);
+
+91 
+Ty³dA¼ay
+ 
+a
+ = 
+cÚ‹xt
+.
+	`obšStyËdA‰ribu‹s
+(
+©Œs
+, 
+R
+.
+¡yËabË
+.
+CœşePageIndiÿtÜ
+, 
+defStyË
+, 0);
+
+93 
+mC’‹»d
+ = 
+a
+.
+	`g‘BoŞ—n
+(
+R
+.
+¡yËabË
+.
+CœşePageIndiÿtÜ_ûÁ”ed
+, 
+deçuÉC’‹»d
+);
+
+94 
+mOr›Á©iÚ
+ = 
+a
+.
+	`g‘IÁ
+(
+R
+.
+¡yËabË
+.
+CœşePageIndiÿtÜ_ªdroid_Ü›Á©iÚ
+, 
+deçuÉOr›Á©iÚ
+);
+
+95 
+mPaštPageFl
+.
+	`£tStyË
+(
+StyË
+.
+FILL
+);
+
+96 
+mPaštPageFl
+.
+	`£tCŞÜ
+(
+a
+.
+	`g‘CŞÜ
+(
+R
+.
+¡yËabË
+.
+CœşePageIndiÿtÜ_·geCŞÜ
+, 
+deçuÉPageCŞÜ
+));
+
+97 
+mPaštSŒoke
+.
+	`£tStyË
+(
+StyË
+.
+STROKE
+);
+
+98 
+mPaštSŒoke
+.
+	`£tCŞÜ
+(
+a
+.
+	`g‘CŞÜ
+(
+R
+.
+¡yËabË
+.
+CœşePageIndiÿtÜ_¡rokeCŞÜ
+, 
+deçuÉSŒokeCŞÜ
+));
+
+99 
+mPaštSŒoke
+.
+	`£tSŒokeWidth
+(
+a
+.
+	`g‘Dim’siÚ
+(
+R
+.
+¡yËabË
+.
+CœşePageIndiÿtÜ_¡rokeWidth
+, 
+deçuÉSŒokeWidth
+));
+
+100 
+mPaštFl
+.
+	`£tStyË
+(
+StyË
+.
+FILL
+);
+
+101 
+mPaštFl
+.
+	`£tCŞÜ
+(
+a
+.
+	`g‘CŞÜ
+(
+R
+.
+¡yËabË
+.
+CœşePageIndiÿtÜ_flCŞÜ
+, 
+deçuÉFlCŞÜ
+));
+
+102 
+mRadius
+ = 
+a
+.
+	`g‘Dim’siÚ
+(
+R
+.
+¡yËabË
+.
+CœşePageIndiÿtÜ_¿dius
+, 
+deçuÉRadius
+);
+
+103 
+mSÇp
+ = 
+a
+.
+	`g‘BoŞ—n
+(
+R
+.
+¡yËabË
+.
+CœşePageIndiÿtÜ_¢­
+, 
+deçuÉSÇp
+);
+
+105 
+D¿wabË
+ 
+background
+ = 
+a
+.
+	`g‘D¿wabË
+(
+R
+.
+¡yËabË
+.
+CœşePageIndiÿtÜ_ªdroid_background
+);
+
+106 ià(
+background
+ !ğ
+nuÎ
+) {
+
+107 
+	`£tBackgroundD¿wabË
+(
+background
+);
+
+110 
+a
+.
+	`»cyşe
+();
+
+112 
+fš®
+ 
+V›wCÚfigu¿tiÚ
+ 
+cÚfigu¿tiÚ
+ = V›wCÚfigu¿tiÚ.
+	`g‘
+(
+cÚ‹xt
+);
+
+113 
+mTouchSlİ
+ = 
+V›wCÚfigu¿tiÚCom·t
+.
+	`g‘SÿËdPagšgTouchSlİ
+(
+cÚfigu¿tiÚ
+);
+
+114 
+	}
+}
+
+117 
+public
+ 
+	$£tC’‹»d
+(
+boŞ—n
+ 
+ûÁ”ed
+) {
+
+118 
+mC’‹»d
+ = 
+ûÁ”ed
+;
+
+119 
+	`šv®id©e
+();
+
+120 
+	}
+}
+
+122 
+public
+ 
+boŞ—n
+ 
+	$isC’‹»d
+() {
+
+123  
+mC’‹»d
+;
+
+124 
+	}
+}
+
+126 
+public
+ 
+	$£tPageCŞÜ
+(
+·geCŞÜ
+) {
+
+127 
+mPaštPageFl
+.
+	`£tCŞÜ
+(
+·geCŞÜ
+);
+
+128 
+	`šv®id©e
+();
+
+129 
+	}
+}
+
+131 
+public
+ 
+	$g‘PageCŞÜ
+() {
+
+132  
+mPaštPageFl
+.
+	`g‘CŞÜ
+();
+
+133 
+	}
+}
+
+135 
+public
+ 
+	$£tFlCŞÜ
+(
+flCŞÜ
+) {
+
+136 
+mPaštFl
+.
+	`£tCŞÜ
+(
+flCŞÜ
+);
+
+137 
+	`šv®id©e
+();
+
+138 
+	}
+}
+
+140 
+public
+ 
+	$g‘FlCŞÜ
+() {
+
+141  
+mPaštFl
+.
+	`g‘CŞÜ
+();
+
+142 
+	}
+}
+
+144 
+public
+ 
+	$£tOr›Á©iÚ
+(
+Ü›Á©iÚ
+) {
+
+145 
+Ü›Á©iÚ
+) {
+
+146 
+HORIZONTAL
+:
+
+147 
+VERTICAL
+:
+
+148 
+mOr›Á©iÚ
+ = 
+Ü›Á©iÚ
+;
+
+149 
+	`»que¡Layout
+();
+
+153 
+throw
+ 
+Ãw
+ 
+	`IÎeg®Argum’tExû±iÚ
+("Orientation must beƒither HORIZONTAL or VERTICAL.");
+
+155 
+	}
+}
+
+157 
+public
+ 
+	$g‘Or›Á©iÚ
+() {
+
+158  
+mOr›Á©iÚ
+;
+
+159 
+	}
+}
+
+161 
+public
+ 
+	$£tSŒokeCŞÜ
+(
+¡rokeCŞÜ
+) {
+
+162 
+mPaštSŒoke
+.
+	`£tCŞÜ
+(
+¡rokeCŞÜ
+);
+
+163 
+	`šv®id©e
+();
+
+164 
+	}
+}
+
+166 
+public
+ 
+	$g‘SŒokeCŞÜ
+() {
+
+167  
+mPaštSŒoke
+.
+	`g‘CŞÜ
+();
+
+168 
+	}
+}
+
+170 
+public
+ 
+	$£tSŒokeWidth
+(
+¡rokeWidth
+) {
+
+171 
+mPaštSŒoke
+.
+	`£tSŒokeWidth
+(
+¡rokeWidth
+);
+
+172 
+	`šv®id©e
+();
+
+173 
+	}
+}
+
+175 
+public
+ 
+	$g‘SŒokeWidth
+() {
+
+176  
+mPaštSŒoke
+.
+	`g‘SŒokeWidth
+();
+
+177 
+	}
+}
+
+179 
+public
+ 
+	$£tRadius
+(
+¿dius
+) {
+
+180 
+mRadius
+ = 
+¿dius
+;
+
+181 
+	`šv®id©e
+();
+
+182 
+	}
+}
+
+184 
+public
+ 
+	$g‘Radius
+() {
+
+185  
+mRadius
+;
+
+186 
+	}
+}
+
+188 
+public
+ 
+	$£tSÇp
+(
+boŞ—n
+ 
+¢­
+) {
+
+189 
+mSÇp
+ = 
+¢­
+;
+
+190 
+	`šv®id©e
+();
+
+191 
+	}
+}
+
+193 
+public
+ 
+boŞ—n
+ 
+	$isSÇp
+() {
+
+194  
+mSÇp
+;
+
+195 
+	}
+}
+
+197 @
+Ov”ride
+
+
+198 
+´Ùeùed
+ 
+	$ÚD¿w
+(
+Cªvas
+ 
+ÿnvas
+) {
+
+199 
+su³r
+.
+	`ÚD¿w
+(
+ÿnvas
+);
+
+201 ià(
+mV›wPag”
+ =ğ
+nuÎ
+) {
+
+204 
+fš®
+ 
+couÁ
+ = 
+mV›wPag”
+.
+	`g‘Ad­‹r
+().
+	`g‘CouÁ
+();
+
+205 ià(
+couÁ
+ == 0) {
+
+209 ià(
+mCu¼’tPage
+ >ğ
+couÁ
+) {
+
+210 
+	`£tCu¼’tI‹m
+(
+couÁ
+ - 1);
+
+214 
+lÚgSize
+;
+
+215 
+lÚgPaddšgBefÜe
+;
+
+216 
+lÚgPaddšgAá”
+;
+
+217 
+shÜtPaddšgBefÜe
+;
+
+218 ià(
+mOr›Á©iÚ
+ =ğ
+HORIZONTAL
+) {
+
+219 
+lÚgSize
+ = 
+	`g‘Width
+();
+
+220 
+lÚgPaddšgBefÜe
+ = 
+	`g‘PaddšgLeá
+();
+
+221 
+lÚgPaddšgAá”
+ = 
+	`g‘PaddšgRight
+();
+
+222 
+shÜtPaddšgBefÜe
+ = 
+	`g‘PaddšgTİ
+();
+
+224 
+lÚgSize
+ = 
+	`g‘Height
+();
+
+225 
+lÚgPaddšgBefÜe
+ = 
+	`g‘PaddšgTİ
+();
+
+226 
+lÚgPaddšgAá”
+ = 
+	`g‘PaddšgBÙtom
+();
+
+227 
+shÜtPaddšgBefÜe
+ = 
+	`g‘PaddšgLeá
+();
+
+230 
+fš®
+ 
+th»eRadius
+ = 
+mRadius
+ * 3;
+
+231 
+fš®
+ 
+shÜtOff£t
+ = 
+shÜtPaddšgBefÜe
+ + 
+mRadius
+;
+
+232 
+lÚgOff£t
+ = 
+lÚgPaddšgBefÜe
+ + 
+mRadius
+;
+
+233 ià(
+mC’‹»d
+) {
+
+234 
+lÚgOff£t
+ +ğ((
+lÚgSize
+ - 
+lÚgPaddšgBefÜe
+ - 
+lÚgPaddšgAá”
+è/ 2.0fè- ((
+couÁ
+ * 
+th»eRadius
+) / 2.0f);
+
+237 
+dX
+;
+
+238 
+dY
+;
+
+240 
+·geFlRadius
+ = 
+mRadius
+;
+
+241 ià(
+mPaštSŒoke
+.
+	`g‘SŒokeWidth
+() > 0) {
+
+242 
+·geFlRadius
+ -ğ
+mPaštSŒoke
+.
+	`g‘SŒokeWidth
+() / 2.0f;
+
+246 
+iLoİ
+ = 0; iLoİ < 
+couÁ
+; iLoop++) {
+
+247 
+d¿wLÚg
+ = 
+lÚgOff£t
+ + (
+iLoİ
+ * 
+th»eRadius
+);
+
+248 ià(
+mOr›Á©iÚ
+ =ğ
+HORIZONTAL
+) {
+
+249 
+dX
+ = 
+d¿wLÚg
+;
+
+250 
+dY
+ = 
+shÜtOff£t
+;
+
+252 
+dX
+ = 
+shÜtOff£t
+;
+
+253 
+dY
+ = 
+d¿wLÚg
+;
+
+256 ià(
+mPaštPageFl
+.
+	`g‘AÍha
+() > 0) {
+
+257 
+ÿnvas
+.
+	`d¿wCœşe
+(
+dX
+, 
+dY
+, 
+·geFlRadius
+, 
+mPaštPageFl
+);
+
+261 ià(
+·geFlRadius
+ !ğ
+mRadius
+) {
+
+262 
+ÿnvas
+.
+	`d¿wCœşe
+(
+dX
+, 
+dY
+, 
+mRadius
+, 
+mPaštSŒoke
+);
+
+267 
+cx
+ = (
+mSÇp
+ ? 
+mSÇpPage
+ : 
+mCu¼’tPage
+è* 
+th»eRadius
+;
+
+268 ià(!
+mSÇp
+) {
+
+269 
+cx
+ +ğ
+mPageOff£t
+ * 
+th»eRadius
+;
+
+271 ià(
+mOr›Á©iÚ
+ =ğ
+HORIZONTAL
+) {
+
+272 
+dX
+ = 
+lÚgOff£t
+ + 
+cx
+;
+
+273 
+dY
+ = 
+shÜtOff£t
+;
+
+275 
+dX
+ = 
+shÜtOff£t
+;
+
+276 
+dY
+ = 
+lÚgOff£t
+ + 
+cx
+;
+
+278 
+ÿnvas
+.
+	`d¿wCœşe
+(
+dX
+, 
+dY
+, 
+mRadius
+, 
+mPaštFl
+);
+
+279 
+	}
+}
+
+281 
+public
+ 
+boŞ—n
+ 
+	$ÚTouchEv’t
+(
+ªdroid
+.
+v›w
+.
+MÙiÚEv’t
+ 
+ev
+) {
+
+282 ià(
+su³r
+.
+	`ÚTouchEv’t
+(
+ev
+)) {
+
+283  
+Œue
+;
+
+285 ià((
+mV›wPag”
+ =ğ
+nuÎ
+è|| (mV›wPag”.
+	`g‘Ad­‹r
+().
+	`g‘CouÁ
+() == 0)) {
+
+286  
+çl£
+;
+
+289 
+fš®
+ 
+aùiÚ
+ = 
+ev
+.
+	`g‘AùiÚ
+(è& 
+MÙiÚEv’tCom·t
+.
+ACTION_MASK
+;
+
+290 
+aùiÚ
+) {
+
+291 
+MÙiÚEv’t
+.
+ACTION_DOWN
+:
+
+292 
+mAùivePoš‹rId
+ = 
+MÙiÚEv’tCom·t
+.
+	`g‘Poš‹rId
+(
+ev
+, 0);
+
+293 
+mLa¡MÙiÚX
+ = 
+ev
+.
+	`g‘X
+();
+
+296 
+MÙiÚEv’t
+.
+ACTION_MOVE
+: {
+
+297 
+fš®
+ 
+aùivePoš‹rIndex
+ = 
+MÙiÚEv’tCom·t
+.
+	`fšdPoš‹rIndex
+(
+ev
+, 
+mAùivePoš‹rId
+);
+
+298 
+fš®
+ 
+x
+ = 
+MÙiÚEv’tCom·t
+.
+	`g‘X
+(
+ev
+, 
+aùivePoš‹rIndex
+);
+
+299 
+fš®
+ 
+d–X
+ = 
+x
+ - 
+mLa¡MÙiÚX
+;
+
+301 ià(!
+mIsD¿ggšg
+) {
+
+302 ià(
+M©h
+.
+	`abs
+(
+d–X
+è> 
+mTouchSlİ
+) {
+
+303 
+mIsD¿ggšg
+ = 
+Œue
+;
+
+307 ià(
+mIsD¿ggšg
+) {
+
+308 
+mLa¡MÙiÚX
+ = 
+x
+;
+
+309 ià(
+mV›wPag”
+.
+	`isFakeD¿ggšg
+(è|| mV›wPag”.
+	`begšFakeD¿g
+()) {
+
+310 
+mV›wPag”
+.
+	`çkeD¿gBy
+(
+d–X
+);
+
+317 
+MÙiÚEv’t
+.
+ACTION_CANCEL
+:
+
+318 
+MÙiÚEv’t
+.
+ACTION_UP
+:
+
+319 ià(!
+mIsD¿ggšg
+) {
+
+320 
+fš®
+ 
+couÁ
+ = 
+mV›wPag”
+.
+	`g‘Ad­‹r
+().
+	`g‘CouÁ
+();
+
+321 
+fš®
+ 
+width
+ = 
+	`g‘Width
+();
+
+322 
+fš®
+ 
+h®fWidth
+ = 
+width
+ / 2f;
+
+323 
+fš®
+ 
+sixthWidth
+ = 
+width
+ / 6f;
+
+325 ià((
+mCu¼’tPage
+ > 0è&& (
+ev
+.
+	`g‘X
+(è< 
+h®fWidth
+ - 
+sixthWidth
+)) {
+
+326 ià(
+aùiÚ
+ !ğ
+MÙiÚEv’t
+.
+ACTION_CANCEL
+) {
+
+327 
+mV›wPag”
+.
+	`£tCu¼’tI‹m
+(
+mCu¼’tPage
+ - 1);
+
+329  
+Œue
+;
+
+330 } ià((
+mCu¼’tPage
+ < 
+couÁ
+ - 1è&& (
+ev
+.
+	`g‘X
+(è> 
+h®fWidth
+ + 
+sixthWidth
+)) {
+
+331 ià(
+aùiÚ
+ !ğ
+MÙiÚEv’t
+.
+ACTION_CANCEL
+) {
+
+332 
+mV›wPag”
+.
+	`£tCu¼’tI‹m
+(
+mCu¼’tPage
+ + 1);
+
+334  
+Œue
+;
+
+338 
+mIsD¿ggšg
+ = 
+çl£
+;
+
+339 
+mAùivePoš‹rId
+ = 
+INVALID_POINTER
+;
+
+340 ià(
+mV›wPag”
+.
+	`isFakeD¿ggšg
+()èmV›wPag”.
+	`’dFakeD¿g
+();
+
+343 
+MÙiÚEv’tCom·t
+.
+ACTION_POINTER_DOWN
+: {
+
+344 
+fš®
+ 
+šdex
+ = 
+MÙiÚEv’tCom·t
+.
+	`g‘AùiÚIndex
+(
+ev
+);
+
+345 
+mLa¡MÙiÚX
+ = 
+MÙiÚEv’tCom·t
+.
+	`g‘X
+(
+ev
+, 
+šdex
+);
+
+346 
+mAùivePoš‹rId
+ = 
+MÙiÚEv’tCom·t
+.
+	`g‘Poš‹rId
+(
+ev
+, 
+šdex
+);
+
+350 
+MÙiÚEv’tCom·t
+.
+ACTION_POINTER_UP
+:
+
+351 
+fš®
+ 
+poš‹rIndex
+ = 
+MÙiÚEv’tCom·t
+.
+	`g‘AùiÚIndex
+(
+ev
+);
+
+352 
+fš®
+ 
+poš‹rId
+ = 
+MÙiÚEv’tCom·t
+.
+	`g‘Poš‹rId
+(
+ev
+, 
+poš‹rIndex
+);
+
+353 ià(
+poš‹rId
+ =ğ
+mAùivePoš‹rId
+) {
+
+354 
+fš®
+ 
+ÃwPoš‹rIndex
+ = 
+poš‹rIndex
+ == 0 ? 1 : 0;
+
+355 
+mAùivePoš‹rId
+ = 
+MÙiÚEv’tCom·t
+.
+	`g‘Poš‹rId
+(
+ev
+, 
+ÃwPoš‹rIndex
+);
+
+357 
+mLa¡MÙiÚX
+ = 
+MÙiÚEv’tCom·t
+.
+	`g‘X
+(
+ev
+, MÙiÚEv’tCom·t.
+	`fšdPoš‹rIndex
+Óv, 
+mAùivePoš‹rId
+));
+
+361  
+Œue
+;
+
+362 
+	}
+}
+
+364 @
+Ov”ride
+
+
+365 
+public
+ 
+	$£tV›wPag”
+(
+V›wPag”
+ 
+v›w
+) {
+
+366 ià(
+mV›wPag”
+ =ğ
+v›w
+) {
+
+369 ià(
+mV›wPag”
+ !ğ
+nuÎ
+) {
+
+370 
+mV›wPag”
+.
+	`£tOnPageChªgeLi¡’”
+(
+nuÎ
+);
+
+372 ià(
+v›w
+.
+	`g‘Ad­‹r
+(è=ğ
+nuÎ
+) {
+
+373 
+throw
+ 
+Ãw
+ 
+	`IÎeg®S‹Exû±iÚ
+("ViewPager does‚ot have‡dapter instance.");
+
+375 
+mV›wPag”
+ = 
+v›w
+;
+
+376 
+mV›wPag”
+.
+	`£tOnPageChªgeLi¡’”
+(
+this
+);
+
+377 
+	`šv®id©e
+();
+
+378 
+	}
+}
+
+380 @
+Ov”ride
+
+
+381 
+public
+ 
+	$£tV›wPag”
+(
+V›wPag”
+ 
+v›w
+, 
+š™ŸlPos™iÚ
+) {
+
+382 
+	`£tV›wPag”
+(
+v›w
+);
+
+383 
+	`£tCu¼’tI‹m
+(
+š™ŸlPos™iÚ
+);
+
+384 
+	}
+}
+
+386 @
+Ov”ride
+
+
+387 
+public
+ 
+	$£tCu¼’tI‹m
+(
+™em
+) {
+
+388 ià(
+mV›wPag”
+ =ğ
+nuÎ
+) {
+
+389 
+throw
+ 
+Ãw
+ 
+	`IÎeg®S‹Exû±iÚ
+("ViewPager has‚ot been bound.");
+
+391 
+mV›wPag”
+.
+	`£tCu¼’tI‹m
+(
+™em
+);
+
+392 
+mCu¼’tPage
+ = 
+™em
+;
+
+393 
+	`šv®id©e
+();
+
+394 
+	}
+}
+
+396 @
+Ov”ride
+
+
+397 
+public
+ 
+	$nÙifyD©aS‘Chªged
+() {
+
+398 
+	`šv®id©e
+();
+
+399 
+	}
+}
+
+401 @
+Ov”ride
+
+
+402 
+public
+ 
+	$ÚPageSüŞlS‹Chªged
+(
+¡©e
+) {
+
+403 
+mSüŞlS‹
+ = 
+¡©e
+;
+
+405 ià(
+mLi¡’”
+ !ğ
+nuÎ
+) {
+
+406 
+mLi¡’”
+.
+	`ÚPageSüŞlS‹Chªged
+(
+¡©e
+);
+
+408 
+	}
+}
+
+410 @
+Ov”ride
+
+
+411 
+public
+ 
+	$ÚPageSüŞËd
+(
+pos™iÚ
+, 
+pos™iÚOff£t
+, 
+pos™iÚOff£tPix–s
+) {
+
+412 
+mCu¼’tPage
+ = 
+pos™iÚ
+;
+
+413 
+mPageOff£t
+ = 
+pos™iÚOff£t
+;
+
+414 
+	`šv®id©e
+();
+
+416 ià(
+mLi¡’”
+ !ğ
+nuÎ
+) {
+
+417 
+mLi¡’”
+.
+	`ÚPageSüŞËd
+(
+pos™iÚ
+, 
+pos™iÚOff£t
+, 
+pos™iÚOff£tPix–s
+);
+
+419 
+	}
+}
+
+421 @
+Ov”ride
+
+
+422 
+public
+ 
+	$ÚPageS–eùed
+(
+pos™iÚ
+) {
+
+423 ià(
+mSÇp
+ || 
+mSüŞlS‹
+ =ğ
+V›wPag”
+.
+SCROLL_STATE_IDLE
+) {
+
+424 
+mCu¼’tPage
+ = 
+pos™iÚ
+;
+
+425 
+mSÇpPage
+ = 
+pos™iÚ
+;
+
+426 
+	`šv®id©e
+();
+
+429 ià(
+mLi¡’”
+ !ğ
+nuÎ
+) {
+
+430 
+mLi¡’”
+.
+	`ÚPageS–eùed
+(
+pos™iÚ
+);
+
+432 
+	}
+}
+
+434 @
+Ov”ride
+
+
+435 
+public
+ 
+	$£tOnPageChªgeLi¡’”
+(
+V›wPag”
+.
+OnPageChªgeLi¡’”
+ 
+li¡’”
+) {
+
+436 
+mLi¡’”
+ = 
+li¡’”
+;
+
+437 
+	}
+}
+
+444 @
+Ov”ride
+
+
+445 
+´Ùeùed
+ 
+	$ÚM—su»
+(
+widthM—su»S³c
+, 
+heightM—su»S³c
+) {
+
+446 ià(
+mOr›Á©iÚ
+ =ğ
+HORIZONTAL
+) {
+
+447 
+	`£tM—su»dDim’siÚ
+(
+	`m—su»LÚg
+(
+widthM—su»S³c
+), 
+	`m—su»ShÜt
+(
+heightM—su»S³c
+));
+
+449 
+	`£tM—su»dDim’siÚ
+(
+	`m—su»ShÜt
+(
+widthM—su»S³c
+), 
+	`m—su»LÚg
+(
+heightM—su»S³c
+));
+
+451 
+	}
+}
+
+460 
+´iv©e
+ 
+	$m—su»LÚg
+(
+m—su»S³c
+) {
+
+461 
+»suÉ
+;
+
+462 
+¥ecMode
+ = 
+M—su»S³c
+.
+	`g‘Mode
+(
+m—su»S³c
+);
+
+463 
+¥ecSize
+ = 
+M—su»S³c
+.
+	`g‘Size
+(
+m—su»S³c
+);
+
+465 ià((
+¥ecMode
+ =ğ
+M—su»S³c
+.
+EXACTLY
+è|| (
+mV›wPag”
+ =ğ
+nuÎ
+)) {
+
+467 
+»suÉ
+ = 
+¥ecSize
+;
+
+470 
+fš®
+ 
+couÁ
+ = 
+mV›wPag”
+.
+	`g‘Ad­‹r
+().
+	`g‘CouÁ
+();
+
+471 
+»suÉ
+ = ()(
+	`g‘PaddšgLeá
+(è+ 
+	`g‘PaddšgRight
+()
+
+472 + (
+couÁ
+ * 2 * 
+mRadius
+) + (count - 1) * mRadius + 1);
+
+474 ià(
+¥ecMode
+ =ğ
+M—su»S³c
+.
+AT_MOST
+) {
+
+475 
+»suÉ
+ = 
+M©h
+.
+	`mš
+ÔesuÉ, 
+¥ecSize
+);
+
+478  
+»suÉ
+;
+
+479 
+	}
+}
+
+488 
+´iv©e
+ 
+	$m—su»ShÜt
+(
+m—su»S³c
+) {
+
+489 
+»suÉ
+;
+
+490 
+¥ecMode
+ = 
+M—su»S³c
+.
+	`g‘Mode
+(
+m—su»S³c
+);
+
+491 
+¥ecSize
+ = 
+M—su»S³c
+.
+	`g‘Size
+(
+m—su»S³c
+);
+
+493 ià(
+¥ecMode
+ =ğ
+M—su»S³c
+.
+EXACTLY
+) {
+
+495 
+»suÉ
+ = 
+¥ecSize
+;
+
+498 
+»suÉ
+ = ()(2 * 
+mRadius
+ + 
+	`g‘PaddšgTİ
+(è+ 
+	`g‘PaddšgBÙtom
+() + 1);
+
+500 ià(
+¥ecMode
+ =ğ
+M—su»S³c
+.
+AT_MOST
+) {
+
+501 
+»suÉ
+ = 
+M©h
+.
+	`mš
+ÔesuÉ, 
+¥ecSize
+);
+
+504  
+»suÉ
+;
+
+505 
+	}
+}
+
+507 @
+Ov”ride
+
+
+508 
+public
+ 
+	$ÚRe¡ÜeIn¡ªûS‹
+(
+P¬ûÏbË
+ 
+¡©e
+) {
+
+509 
+SavedS‹
+ 
+§vedS‹
+ = (SavedS‹)
+¡©e
+;
+
+510 
+su³r
+.
+	`ÚRe¡ÜeIn¡ªûS‹
+(
+§vedS‹
+.
+	`g‘Su³rS‹
+());
+
+511 
+mCu¼’tPage
+ = 
+§vedS‹
+.
+cu¼’tPage
+;
+
+512 
+mSÇpPage
+ = 
+§vedS‹
+.
+cu¼’tPage
+;
+
+513 
+	`»que¡Layout
+();
+
+514 
+	}
+}
+
+516 @
+Ov”ride
+
+
+517 
+public
+ 
+P¬ûÏbË
+ 
+	$ÚSaveIn¡ªûS‹
+() {
+
+518 
+P¬ûÏbË
+ 
+su³rS‹
+ = 
+su³r
+.
+	`ÚSaveIn¡ªûS‹
+();
+
+519 
+SavedS‹
+ 
+§vedS‹
+ = 
+Ãw
+ 
+	`SavedS‹
+(
+su³rS‹
+);
+
+520 
+§vedS‹
+.
+cu¼’tPage
+ = 
+mCu¼’tPage
+;
+
+521  
+§vedS‹
+;
+
+522 
+	}
+}
+
+524 şas 
+	cSavedS‹
+ 
+ex‹nds
+ 
+	gBa£SavedS‹
+ {
+
+525 
+	gcu¼’tPage
+;
+
+527 
+public
+ 
+SavedS‹
+(
+P¬ûÏbË
+ 
+su³rS‹
+) {
+
+528 
+su³r
+(
+su³rS‹
+);
+
+531 
+´iv©e
+ 
+SavedS‹
+(
+P¬ûl
+ 
+š
+) {
+
+532 
+su³r
+(
+š
+);
+
+533 
+	gcu¼’tPage
+ = 
+š
+.
+»adIÁ
+();
+
+536 @
+Ov”ride
+
+
+537 
+public
+ 
+wr™eToP¬ûl
+(
+P¬ûl
+ 
+de¡
+, 
+æags
+) {
+
+538 
+	gsu³r
+.
+wr™eToP¬ûl
+(
+de¡
+, 
+æags
+);
+
+539 
+	gde¡
+.
+wr™eIÁ
+(
+cu¼’tPage
+);
+
+542 @
+Suµ»ssW¬nšgs
+("UnusedDeclaration")
+
+543 
+public
+ 
+fš®
+ 
+	gP¬ûÏbË
+.
+	gC»©Ü
+<
+	gSavedS‹
+> 
+	gCREATOR
+ = 
+Ãw
+ 
+P¬ûÏbË
+.
+C»©Ü
+<
+SavedS‹
+>() {
+
+544 @
+Ov”ride
+
+
+545 
+public
+ 
+SavedS‹
+ 
+ü—‹FromP¬ûl
+(
+P¬ûl
+ 
+š
+) {
+
+546  
+Ãw
+ 
+SavedS‹
+(
+š
+);
+
+549 @
+Ov”ride
+
+
+550 
+public
+ 
+	gSavedS‹
+[] 
+ÃwA¼ay
+(
+size
+) {
+
+551  
+Ãw
+ 
+	gSavedS‹
+[
+size
+];
+
+	@library/src/com/viewpagerindicator/IconPageIndicator.java
+
+17 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+;
+
+19 
+impÜt
+ 
+	gªdroid
+.
+	gcÚ‹Á
+.
+	gCÚ‹xt
+;
+
+20 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gPag”Ad­‹r
+;
+
+21 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+;
+
+22 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+.
+	gOnPageChªgeLi¡’”
+;
+
+23 
+impÜt
+ 
+	gªdroid
+.
+	gut
+.
+	gA‰ribu‹S‘
+;
+
+24 
+impÜt
+ 
+	gªdroid
+.
+	gv›w
+.
+	gG¿v™y
+;
+
+25 
+impÜt
+ 
+	gªdroid
+.
+	gv›w
+.
+	gV›w
+;
+
+26 
+impÜt
+ 
+	gªdroid
+.
+	gwidg‘
+.
+	gHÜizÚlSüŞlV›w
+;
+
+27 
+impÜt
+ 
+	gªdroid
+.
+	gwidg‘
+.
+	gImageV›w
+;
+
+29 
+impÜt
+ 
+	gªdroid
+.
+	gv›w
+.
+	gV›wGroup
+.
+	gLayoutP¬ams
+.
+	gFILL_PARENT
+;
+
+30 
+impÜt
+ 
+	gªdroid
+.
+	gv›w
+.
+	gV›wGroup
+.
+	gLayoutP¬ams
+.
+	gWRAP_CONTENT
+;
+
+36 
+public
+ cÏs 
+	cIcÚPageIndiÿtÜ
+ 
+ex‹nds
+ 
+HÜizÚlSüŞlV›w
+ 
+im¶em’ts
+ 
+	mPageIndiÿtÜ
+ {
+
+37 
+´iv©e
+ 
+fš®
+ 
+IcsLš—rLayout
+ 
+	mmIcÚsLayout
+;
+
+39 
+´iv©e
+ 
+V›wPag”
+ 
+	mmV›wPag”
+;
+
+40 
+´iv©e
+ 
+OnPageChªgeLi¡’”
+ 
+	mmLi¡’”
+;
+
+41 
+´iv©e
+ 
+RuÂabË
+ 
+	mmIcÚS–eùÜ
+;
+
+42 
+´iv©e
+ 
+	mmS–eùedIndex
+;
+
+44 
+public
+ 
+	$IcÚPageIndiÿtÜ
+(
+CÚ‹xt
+ 
+cÚ‹xt
+) {
+
+45 
+	`this
+(
+cÚ‹xt
+, 
+nuÎ
+);
+
+48 
+public
+ 
+	$IcÚPageIndiÿtÜ
+(
+CÚ‹xt
+ 
+cÚ‹xt
+, 
+A‰ribu‹S‘
+ 
+©Œs
+) {
+
+49 
+	`su³r
+(
+cÚ‹xt
+, 
+©Œs
+);
+
+50 
+	`£tHÜizÚlSüŞlB¬EÇbËd
+(
+çl£
+);
+
+52 
+mIcÚsLayout
+ = 
+Ãw
+ 
+	`IcsLš—rLayout
+(
+cÚ‹xt
+, 
+R
+.
+©Œ
+.
+vpiIcÚPageIndiÿtÜStyË
+);
+
+53 
+	`addV›w
+(
+mIcÚsLayout
+, 
+Ãw
+ 
+	`LayoutP¬ams
+(
+WRAP_CONTENT
+, 
+FILL_PARENT
+, 
+G¿v™y
+.
+CENTER
+));
+
+54 
+	}
+}
+
+56 
+´iv©e
+ 
+	$ªim©eToIcÚ
+(
+fš®
+ 
+pos™iÚ
+) {
+
+57 
+fš®
+ 
+V›w
+ 
+icÚV›w
+ = 
+mIcÚsLayout
+.
+	`g‘ChdAt
+(
+pos™iÚ
+);
+
+58 ià(
+mIcÚS–eùÜ
+ !ğ
+nuÎ
+) {
+
+59 
+	`»moveC®lbacks
+(
+mIcÚS–eùÜ
+);
+
+61 
+mIcÚS–eùÜ
+ = 
+Ãw
+ 
+	`RuÂabË
+() {
+
+62 
+public
+ 
+	`run
+() {
+
+63 
+fš®
+ 
+süŞlPos
+ = 
+icÚV›w
+.
+	`g‘Leá
+(è- (
+	`g‘Width
+() - iconView.getWidth()) / 2;
+
+64 
+	`smoÙhSüŞlTo
+(
+süŞlPos
+, 0);
+
+65 
+mIcÚS–eùÜ
+ = 
+nuÎ
+;
+
+68 
+	`po¡
+(
+mIcÚS–eùÜ
+);
+
+69 
+	}
+}
+
+71 @
+Ov”ride
+
+
+72 
+public
+ 
+	$ÚA‰achedToWšdow
+() {
+
+73 
+su³r
+.
+	`ÚA‰achedToWšdow
+();
+
+74 ià(
+mIcÚS–eùÜ
+ !ğ
+nuÎ
+) {
+
+76 
+	`po¡
+(
+mIcÚS–eùÜ
+);
+
+78 
+	}
+}
+
+80 @
+Ov”ride
+
+
+81 
+public
+ 
+	$ÚD‘achedFromWšdow
+() {
+
+82 
+su³r
+.
+	`ÚD‘achedFromWšdow
+();
+
+83 ià(
+mIcÚS–eùÜ
+ !ğ
+nuÎ
+) {
+
+84 
+	`»moveC®lbacks
+(
+mIcÚS–eùÜ
+);
+
+86 
+	}
+}
+
+88 @
+Ov”ride
+
+
+89 
+public
+ 
+	$ÚPageSüŞlS‹Chªged
+(
+¬g0
+) {
+
+90 ià(
+mLi¡’”
+ !ğ
+nuÎ
+) {
+
+91 
+mLi¡’”
+.
+	`ÚPageSüŞlS‹Chªged
+(
+¬g0
+);
+
+93 
+	}
+}
+
+95 @
+Ov”ride
+
+
+96 
+public
+ 
+	$ÚPageSüŞËd
+(
+¬g0
+, 
+¬g1
+, 
+¬g2
+) {
+
+97 ià(
+mLi¡’”
+ !ğ
+nuÎ
+) {
+
+98 
+mLi¡’”
+.
+	`ÚPageSüŞËd
+(
+¬g0
+, 
+¬g1
+, 
+¬g2
+);
+
+100 
+	}
+}
+
+102 @
+Ov”ride
+
+
+103 
+public
+ 
+	$ÚPageS–eùed
+(
+¬g0
+) {
+
+104 
+	`£tCu¼’tI‹m
+(
+¬g0
+);
+
+105 ià(
+mLi¡’”
+ !ğ
+nuÎ
+) {
+
+106 
+mLi¡’”
+.
+	`ÚPageS–eùed
+(
+¬g0
+);
+
+108 
+	}
+}
+
+110 @
+Ov”ride
+
+
+111 
+public
+ 
+	$£tV›wPag”
+(
+V›wPag”
+ 
+v›w
+) {
+
+112 ià(
+mV›wPag”
+ =ğ
+v›w
+) {
+
+115 ià(
+mV›wPag”
+ !ğ
+nuÎ
+) {
+
+116 
+mV›wPag”
+.
+	`£tOnPageChªgeLi¡’”
+(
+nuÎ
+);
+
+118 
+Pag”Ad­‹r
+ 
+ad­‹r
+ = 
+v›w
+.
+	`g‘Ad­‹r
+();
+
+119 ià(
+ad­‹r
+ =ğ
+nuÎ
+) {
+
+120 
+throw
+ 
+Ãw
+ 
+	`IÎeg®S‹Exû±iÚ
+("ViewPager does‚ot have‡dapter instance.");
+
+122 
+mV›wPag”
+ = 
+v›w
+;
+
+123 
+v›w
+.
+	`£tOnPageChªgeLi¡’”
+(
+this
+);
+
+124 
+	`nÙifyD©aS‘Chªged
+();
+
+125 
+	}
+}
+
+127 
+public
+ 
+	$nÙifyD©aS‘Chªged
+() {
+
+128 
+mIcÚsLayout
+.
+	`»moveAÎV›ws
+();
+
+129 
+IcÚPag”Ad­‹r
+ 
+icÚAd­‹r
+ = (IcÚPag”Ad­‹rè
+mV›wPag”
+.
+	`g‘Ad­‹r
+();
+
+130 
+couÁ
+ = 
+icÚAd­‹r
+.
+	`g‘CouÁ
+();
+
+131 
+i
+ = 0; i < 
+couÁ
+; i++) {
+
+132 
+ImageV›w
+ 
+v›w
+ = 
+Ãw
+ 
+	`ImageV›w
+(
+	`g‘CÚ‹xt
+(), 
+nuÎ
+, 
+R
+.
+©Œ
+.
+vpiIcÚPageIndiÿtÜStyË
+);
+
+133 
+v›w
+.
+	`£tImageResourû
+(
+icÚAd­‹r
+.
+	`g‘IcÚResId
+(
+i
+));
+
+134 
+mIcÚsLayout
+.
+	`addV›w
+(
+v›w
+);
+
+136 ià(
+mS–eùedIndex
+ > 
+couÁ
+) {
+
+137 
+mS–eùedIndex
+ = 
+couÁ
+ - 1;
+
+139 
+	`£tCu¼’tI‹m
+(
+mS–eùedIndex
+);
+
+140 
+	`»que¡Layout
+();
+
+141 
+	}
+}
+
+143 @
+Ov”ride
+
+
+144 
+public
+ 
+	$£tV›wPag”
+(
+V›wPag”
+ 
+v›w
+, 
+š™ŸlPos™iÚ
+) {
+
+145 
+	`£tV›wPag”
+(
+v›w
+);
+
+146 
+	`£tCu¼’tI‹m
+(
+š™ŸlPos™iÚ
+);
+
+147 
+	}
+}
+
+149 @
+Ov”ride
+
+
+150 
+public
+ 
+	$£tCu¼’tI‹m
+(
+™em
+) {
+
+151 ià(
+mV›wPag”
+ =ğ
+nuÎ
+) {
+
+152 
+throw
+ 
+Ãw
+ 
+	`IÎeg®S‹Exû±iÚ
+("ViewPager has‚ot been bound.");
+
+154 
+mS–eùedIndex
+ = 
+™em
+;
+
+155 
+mV›wPag”
+.
+	`£tCu¼’tI‹m
+(
+™em
+);
+
+157 
+bCouÁ
+ = 
+mIcÚsLayout
+.
+	`g‘ChdCouÁ
+();
+
+158 
+i
+ = 0; i < 
+bCouÁ
+; i++) {
+
+159 
+V›w
+ 
+chd
+ = 
+mIcÚsLayout
+.
+	`g‘ChdAt
+(
+i
+);
+
+160 
+boŞ—n
+ 
+isS–eùed
+ = (
+i
+ =ğ
+™em
+);
+
+161 
+chd
+.
+	`£tS–eùed
+(
+isS–eùed
+);
+
+162 ià(
+isS–eùed
+) {
+
+163 
+	`ªim©eToIcÚ
+(
+™em
+);
+
+166 
+	}
+}
+
+168 @
+Ov”ride
+
+
+169 
+public
+ 
+	$£tOnPageChªgeLi¡’”
+(
+OnPageChªgeLi¡’”
+ 
+li¡’”
+) {
+
+170 
+mLi¡’”
+ = 
+li¡’”
+;
+
+171 
+	}
+}
+
+	@library/src/com/viewpagerindicator/IconPagerAdapter.java
+
+1 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+;
+
+3 
+public
+ 
+š‹rçû
+ 
+	gIcÚPag”Ad­‹r
+ {
+
+7 
+g‘IcÚResId
+(
+šdex
+);
+
+10 
+g‘CouÁ
+();
+
+	@library/src/com/viewpagerindicator/IcsLinearLayout.java
+
+1 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+;
+
+3 
+impÜt
+ 
+	gªdroid
+.
+	gcÚ‹Á
+.
+	gCÚ‹xt
+;
+
+4 
+impÜt
+ 
+	gªdroid
+.
+	gcÚ‹Á
+.
+	g»s
+.
+	gTy³dA¼ay
+;
+
+5 
+impÜt
+ 
+	gªdroid
+.
+	gg¿phics
+.
+	gCªvas
+;
+
+6 
+impÜt
+ 
+	gªdroid
+.
+	gg¿phics
+.
+	gd¿wabË
+.
+	gD¿wabË
+;
+
+7 
+impÜt
+ 
+	gªdroid
+.
+	gv›w
+.
+	gV›w
+;
+
+8 
+impÜt
+ 
+	gªdroid
+.
+	gwidg‘
+.
+	gLš—rLayout
+;
+
+17 şas 
+	cIcsLš—rLayout
+ 
+ex‹nds
+ 
+	mLš—rLayout
+ {
+
+18 
+´iv©e
+ 
+fš®
+ [] 
+	mLL
+ = 
+Ãw
+ [] {
+
+19  
+ªdroid
+.
+R
+.
+©Œ
+.
+divid”
+,
+
+20  
+ªdroid
+.
+R
+.
+©Œ
+.
+showDivid”s
+,
+
+21  
+ªdroid
+.
+R
+.
+©Œ
+.
+divid”Paddšg
+,
+
+23 
+´iv©e
+ 
+fš®
+ 
+	gLL_DIVIDER
+ = 0;
+
+24 
+´iv©e
+ 
+fš®
+ 
+	gLL_SHOW_DIVIDER
+ = 1;
+
+25 
+´iv©e
+ 
+fš®
+ 
+	gLL_DIVIDER_PADDING
+ = 2;
+
+27 
+´iv©e
+ 
+D¿wabË
+ 
+	gmDivid”
+;
+
+28 
+´iv©e
+ 
+	gmDivid”Width
+;
+
+29 
+´iv©e
+ 
+	gmDivid”Height
+;
+
+30 
+´iv©e
+ 
+	gmShowDivid”s
+;
+
+31 
+´iv©e
+ 
+	gmDivid”Paddšg
+;
+
+34 
+public
+ 
+	$IcsLš—rLayout
+(
+CÚ‹xt
+ 
+cÚ‹xt
+, 
+themeA‰r
+) {
+
+35 
+	`su³r
+(
+cÚ‹xt
+);
+
+37 
+Ty³dA¼ay
+ 
+a
+ = 
+cÚ‹xt
+.
+	`obšStyËdA‰ribu‹s
+(
+nuÎ
+, 
+LL
+, 
+themeA‰r
+, 0);
+
+38 
+	`£tDivid”D¿wabË
+(
+a
+.
+	`g‘D¿wabË
+(
+IcsLš—rLayout
+.
+LL_DIVIDER
+));
+
+39 
+mDivid”Paddšg
+ = 
+a
+.
+	`g‘Dim’siÚPix–Size
+(
+LL_DIVIDER_PADDING
+, 0);
+
+40 
+mShowDivid”s
+ = 
+a
+.
+	`g‘IÁeg”
+(
+LL_SHOW_DIVIDER
+, 
+SHOW_DIVIDER_NONE
+);
+
+41 
+a
+.
+	`»cyşe
+();
+
+42 
+	}
+}
+
+44 
+public
+ 
+	$£tDivid”D¿wabË
+(
+D¿wabË
+ 
+divid”
+) {
+
+45 ià(
+divid”
+ =ğ
+mDivid”
+) {
+
+48 
+mDivid”
+ = 
+divid”
+;
+
+49 ià(
+divid”
+ !ğ
+nuÎ
+) {
+
+50 
+mDivid”Width
+ = 
+divid”
+.
+	`g‘IÁršsicWidth
+();
+
+51 
+mDivid”Height
+ = 
+divid”
+.
+	`g‘IÁršsicHeight
+();
+
+53 
+mDivid”Width
+ = 0;
+
+54 
+mDivid”Height
+ = 0;
+
+56 
+	`£tWlNÙD¿w
+(
+divid”
+ =ğ
+nuÎ
+);
+
+57 
+	`»que¡Layout
+();
+
+58 
+	}
+}
+
+60 @
+Ov”ride
+
+
+61 
+´Ùeùed
+ 
+	$m—su»ChdW™hM¬gšs
+(
+V›w
+ 
+chd
+, 
+·»ÁWidthM—su»S³c
+, 
+widthU£d
+, 
+·»ÁHeightM—su»S³c
+, 
+heightU£d
+) {
+
+62 
+fš®
+ 
+šdex
+ = 
+	`šdexOfChd
+(
+chd
+);
+
+63 
+fš®
+ 
+Ü›Á©iÚ
+ = 
+	`g‘Or›Á©iÚ
+();
+
+64 
+fš®
+ 
+LayoutP¬ams
+ 
+·¿ms
+ = (LayoutP¬amsè
+chd
+.
+	`g‘LayoutP¬ams
+();
+
+65 ià(
+	`hasDivid”BefÜeChdAt
+(
+šdex
+)) {
+
+66 ià(
+Ü›Á©iÚ
+ =ğ
+VERTICAL
+) {
+
+68 
+·¿ms
+.
+tİM¬gš
+ = 
+mDivid”Height
+;
+
+71 
+·¿ms
+.
+ËáM¬gš
+ = 
+mDivid”Width
+;
+
+75 
+fš®
+ 
+couÁ
+ = 
+	`g‘ChdCouÁ
+();
+
+76 ià(
+šdex
+ =ğ
+couÁ
+ - 1) {
+
+77 ià(
+	`hasDivid”BefÜeChdAt
+(
+couÁ
+)) {
+
+78 ià(
+Ü›Á©iÚ
+ =ğ
+VERTICAL
+) {
+
+79 
+·¿ms
+.
+bÙtomM¬gš
+ = 
+mDivid”Height
+;
+
+81 
+·¿ms
+.
+rightM¬gš
+ = 
+mDivid”Width
+;
+
+85 
+su³r
+.
+	`m—su»ChdW™hM¬gšs
+(
+chd
+, 
+·»ÁWidthM—su»S³c
+, 
+widthU£d
+, 
+·»ÁHeightM—su»S³c
+, 
+heightU£d
+);
+
+86 
+	}
+}
+
+88 @
+Ov”ride
+
+
+89 
+´Ùeùed
+ 
+	$ÚD¿w
+(
+Cªvas
+ 
+ÿnvas
+) {
+
+90 ià(
+mDivid”
+ !ğ
+nuÎ
+) {
+
+91 ià(
+	`g‘Or›Á©iÚ
+(è=ğ
+VERTICAL
+) {
+
+92 
+	`d¿wDivid”sV”tiÿl
+(
+ÿnvas
+);
+
+94 
+	`d¿wDivid”sHÜizÚl
+(
+ÿnvas
+);
+
+97 
+su³r
+.
+	`ÚD¿w
+(
+ÿnvas
+);
+
+98 
+	}
+}
+
+100 
+´iv©e
+ 
+	$d¿wDivid”sV”tiÿl
+(
+Cªvas
+ 
+ÿnvas
+) {
+
+101 
+fš®
+ 
+couÁ
+ = 
+	`g‘ChdCouÁ
+();
+
+102 
+i
+ = 0; i < 
+couÁ
+; i++) {
+
+103 
+fš®
+ 
+V›w
+ 
+chd
+ = 
+	`g‘ChdAt
+(
+i
+);
+
+105 ià(
+chd
+ !ğ
+nuÎ
+ && chd.
+	`g‘Visib™y
+(è!ğ
+GONE
+) {
+
+106 ià(
+	`hasDivid”BefÜeChdAt
+(
+i
+)) {
+
+107 
+fš®
+ 
+ªdroid
+.
+widg‘
+.
+Lš—rLayout
+.
+LayoutP¬ams
+ 
+Í
+ = (ªdroid.widg‘.Lš—rLayout.LayoutP¬amsè
+chd
+.
+	`g‘LayoutP¬ams
+();
+
+108 
+fš®
+ 
+tİ
+ = 
+chd
+.
+	`g‘Tİ
+(è- 
+Í
+.
+tİM¬gš
+ ;
+
+109 
+	`d¿wHÜizÚlDivid”
+(
+ÿnvas
+, 
+tİ
+);
+
+114 ià(
+	`hasDivid”BefÜeChdAt
+(
+couÁ
+)) {
+
+115 
+fš®
+ 
+V›w
+ 
+chd
+ = 
+	`g‘ChdAt
+(
+couÁ
+ - 1);
+
+116 
+bÙtom
+ = 0;
+
+117 ià(
+chd
+ =ğ
+nuÎ
+) {
+
+118 
+bÙtom
+ = 
+	`g‘Height
+(è- 
+	`g‘PaddšgBÙtom
+(è- 
+mDivid”Height
+;
+
+121 
+bÙtom
+ = 
+chd
+.
+	`g‘BÙtom
+() ;
+
+123 
+	`d¿wHÜizÚlDivid”
+(
+ÿnvas
+, 
+bÙtom
+);
+
+125 
+	}
+}
+
+127 
+´iv©e
+ 
+	$d¿wDivid”sHÜizÚl
+(
+Cªvas
+ 
+ÿnvas
+) {
+
+128 
+fš®
+ 
+couÁ
+ = 
+	`g‘ChdCouÁ
+();
+
+129 
+i
+ = 0; i < 
+couÁ
+; i++) {
+
+130 
+fš®
+ 
+V›w
+ 
+chd
+ = 
+	`g‘ChdAt
+(
+i
+);
+
+132 ià(
+chd
+ !ğ
+nuÎ
+ && chd.
+	`g‘Visib™y
+(è!ğ
+GONE
+) {
+
+133 ià(
+	`hasDivid”BefÜeChdAt
+(
+i
+)) {
+
+134 
+fš®
+ 
+ªdroid
+.
+widg‘
+.
+Lš—rLayout
+.
+LayoutP¬ams
+ 
+Í
+ = (ªdroid.widg‘.Lš—rLayout.LayoutP¬amsè
+chd
+.
+	`g‘LayoutP¬ams
+();
+
+135 
+fš®
+ 
+Ëá
+ = 
+chd
+.
+	`g‘Leá
+(è- 
+Í
+.
+ËáM¬gš
+ ;
+
+136 
+	`d¿wV”tiÿlDivid”
+(
+ÿnvas
+, 
+Ëá
+);
+
+141 ià(
+	`hasDivid”BefÜeChdAt
+(
+couÁ
+)) {
+
+142 
+fš®
+ 
+V›w
+ 
+chd
+ = 
+	`g‘ChdAt
+(
+couÁ
+ - 1);
+
+143 
+right
+ = 0;
+
+144 ià(
+chd
+ =ğ
+nuÎ
+) {
+
+145 
+right
+ = 
+	`g‘Width
+(è- 
+	`g‘PaddšgRight
+(è- 
+mDivid”Width
+;
+
+148 
+right
+ = 
+chd
+.
+	`g‘Right
+() ;
+
+150 
+	`d¿wV”tiÿlDivid”
+(
+ÿnvas
+, 
+right
+);
+
+152 
+	}
+}
+
+154 
+´iv©e
+ 
+	$d¿wHÜizÚlDivid”
+(
+Cªvas
+ 
+ÿnvas
+, 
+tİ
+) {
+
+155 
+mDivid”
+.
+	`£tBounds
+(
+	`g‘PaddšgLeá
+(è+ 
+mDivid”Paddšg
+, 
+tİ
+,
+
+156 
+	`g‘Width
+(è- 
+	`g‘PaddšgRight
+(è- 
+mDivid”Paddšg
+, 
+tİ
+ + 
+mDivid”Height
+);
+
+157 
+mDivid”
+.
+	`d¿w
+(
+ÿnvas
+);
+
+158 
+	}
+}
+
+160 
+´iv©e
+ 
+	$d¿wV”tiÿlDivid”
+(
+Cªvas
+ 
+ÿnvas
+, 
+Ëá
+) {
+
+161 
+mDivid”
+.
+	`£tBounds
+(
+Ëá
+, 
+	`g‘PaddšgTİ
+(è+ 
+mDivid”Paddšg
+,
+
+162 
+Ëá
+ + 
+mDivid”Width
+, 
+	`g‘Height
+(è- 
+	`g‘PaddšgBÙtom
+(è- 
+mDivid”Paddšg
+);
+
+163 
+mDivid”
+.
+	`d¿w
+(
+ÿnvas
+);
+
+164 
+	}
+}
+
+166 
+´iv©e
+ 
+boŞ—n
+ 
+	$hasDivid”BefÜeChdAt
+(
+chdIndex
+) {
+
+167 ià(
+chdIndex
+ =ğ0 || chdIndex =ğ
+	`g‘ChdCouÁ
+()) {
+
+168  
+çl£
+;
+
+170 ià((
+mShowDivid”s
+ & 
+SHOW_DIVIDER_MIDDLE
+) != 0) {
+
+171 
+boŞ—n
+ 
+hasVisibËV›wBefÜe
+ = 
+çl£
+;
+
+172 
+i
+ = 
+chdIndex
+ - 1; i >= 0; i--) {
+
+173 ià(
+	`g‘ChdAt
+(
+i
+).
+	`g‘Visib™y
+(è!ğ
+GONE
+) {
+
+174 
+hasVisibËV›wBefÜe
+ = 
+Œue
+;
+
+178  
+hasVisibËV›wBefÜe
+;
+
+180  
+çl£
+;
+
+181 
+	}
+}
+
+	@library/src/com/viewpagerindicator/LinePageIndicator.java
+
+16 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+;
+
+18 
+impÜt
+ 
+	gªdroid
+.
+	gcÚ‹Á
+.
+	gCÚ‹xt
+;
+
+19 
+impÜt
+ 
+	gªdroid
+.
+	gcÚ‹Á
+.
+	g»s
+.
+	gResourûs
+;
+
+20 
+impÜt
+ 
+	gªdroid
+.
+	gcÚ‹Á
+.
+	g»s
+.
+	gTy³dA¼ay
+;
+
+21 
+impÜt
+ 
+	gªdroid
+.
+	gg¿phics
+.
+	gCªvas
+;
+
+22 
+impÜt
+ 
+	gªdroid
+.
+	gg¿phics
+.
+	gPašt
+;
+
+23 
+impÜt
+ 
+	gªdroid
+.
+	gg¿phics
+.
+	gd¿wabË
+.
+	gD¿wabË
+;
+
+24 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gP¬ûl
+;
+
+25 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gP¬ûÏbË
+;
+
+26 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gMÙiÚEv’tCom·t
+;
+
+27 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wCÚfigu¿tiÚCom·t
+;
+
+28 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+;
+
+29 
+impÜt
+ 
+	gªdroid
+.
+	gut
+.
+	gA‰ribu‹S‘
+;
+
+30 
+impÜt
+ 
+	gªdroid
+.
+	gut
+.
+	gFlßtM©h
+;
+
+31 
+impÜt
+ 
+	gªdroid
+.
+	gv›w
+.
+	gMÙiÚEv’t
+;
+
+32 
+impÜt
+ 
+	gªdroid
+.
+	gv›w
+.
+	gV›w
+;
+
+33 
+impÜt
+ 
+	gªdroid
+.
+	gv›w
+.
+	gV›wCÚfigu¿tiÚ
+;
+
+39 
+public
+ cÏs 
+	cLšePageIndiÿtÜ
+ 
+ex‹nds
+ 
+V›w
+ 
+im¶em’ts
+ 
+	mPageIndiÿtÜ
+ {
+
+40 
+´iv©e
+ 
+fš®
+ 
+	mINVALID_POINTER
+ = -1;
+
+42 
+´iv©e
+ 
+fš®
+ 
+Pašt
+ 
+	mmPaštUn£Ëùed
+ = 
+Ãw
+ Pašt(Pašt.
+ANTI_ALIAS_FLAG
+);
+
+43 
+´iv©e
+ 
+fš®
+ 
+Pašt
+ 
+	mmPaštS–eùed
+ = 
+Ãw
+ Pašt(Pašt.
+ANTI_ALIAS_FLAG
+);
+
+44 
+´iv©e
+ 
+V›wPag”
+ 
+	mmV›wPag”
+;
+
+45 
+´iv©e
+ 
+	mV›wPag”
+.
+OnPageChªgeLi¡’”
+ 
+	mmLi¡’”
+;
+
+46 
+´iv©e
+ 
+	mmCu¼’tPage
+;
+
+47 
+´iv©e
+ 
+boŞ—n
+ 
+	mmC’‹»d
+;
+
+48 
+´iv©e
+ 
+	mmLšeWidth
+;
+
+49 
+´iv©e
+ 
+	mmG­Width
+;
+
+51 
+´iv©e
+ 
+	mmTouchSlİ
+;
+
+52 
+´iv©e
+ 
+	mmLa¡MÙiÚX
+ = -1;
+
+53 
+´iv©e
+ 
+	mmAùivePoš‹rId
+ = 
+INVALID_POINTER
+;
+
+54 
+´iv©e
+ 
+boŞ—n
+ 
+	mmIsD¿ggšg
+;
+
+57 
+public
+ 
+	$LšePageIndiÿtÜ
+(
+CÚ‹xt
+ 
+cÚ‹xt
+) {
+
+58 
+	`this
+(
+cÚ‹xt
+, 
+nuÎ
+);
+
+61 
+public
+ 
+	$LšePageIndiÿtÜ
+(
+CÚ‹xt
+ 
+cÚ‹xt
+, 
+A‰ribu‹S‘
+ 
+©Œs
+) {
+
+62 
+	`this
+(
+cÚ‹xt
+, 
+©Œs
+, 
+R
+.
+©Œ
+.
+vpiLšePageIndiÿtÜStyË
+);
+
+63 
+	}
+}
+
+65 
+public
+ 
+	$LšePageIndiÿtÜ
+(
+CÚ‹xt
+ 
+cÚ‹xt
+, 
+A‰ribu‹S‘
+ 
+©Œs
+, 
+defStyË
+) {
+
+66 
+	`su³r
+(
+cÚ‹xt
+, 
+©Œs
+, 
+defStyË
+);
+
+67 ià(
+	`isInEd™Mode
+()) ;
+
+69 
+fš®
+ 
+Resourûs
+ 
+»s
+ = 
+	`g‘Resourûs
+();
+
+72 
+fš®
+ 
+deçuÉS–eùedCŞÜ
+ = 
+»s
+.
+	`g‘CŞÜ
+(
+R
+.
+cŞÜ
+.
+deçuÉ_lše_šdiÿtÜ_£Ëùed_cŞÜ
+);
+
+73 
+fš®
+ 
+deçuÉUn£ËùedCŞÜ
+ = 
+»s
+.
+	`g‘CŞÜ
+(
+R
+.
+cŞÜ
+.
+deçuÉ_lše_šdiÿtÜ_un£Ëùed_cŞÜ
+);
+
+74 
+fš®
+ 
+deçuÉLšeWidth
+ = 
+»s
+.
+	`g‘Dim’siÚ
+(
+R
+.
+dim’
+.
+deçuÉ_lše_šdiÿtÜ_lše_width
+);
+
+75 
+fš®
+ 
+deçuÉG­Width
+ = 
+»s
+.
+	`g‘Dim’siÚ
+(
+R
+.
+dim’
+.
+deçuÉ_lše_šdiÿtÜ_g­_width
+);
+
+76 
+fš®
+ 
+deçuÉSŒokeWidth
+ = 
+»s
+.
+	`g‘Dim’siÚ
+(
+R
+.
+dim’
+.
+deçuÉ_lše_šdiÿtÜ_¡roke_width
+);
+
+77 
+fš®
+ 
+boŞ—n
+ 
+deçuÉC’‹»d
+ = 
+»s
+.
+	`g‘BoŞ—n
+(
+R
+.
+boŞ
+.
+deçuÉ_lše_šdiÿtÜ_ûÁ”ed
+);
+
+80 
+Ty³dA¼ay
+ 
+a
+ = 
+cÚ‹xt
+.
+	`obšStyËdA‰ribu‹s
+(
+©Œs
+, 
+R
+.
+¡yËabË
+.
+LšePageIndiÿtÜ
+, 
+defStyË
+, 0);
+
+82 
+mC’‹»d
+ = 
+a
+.
+	`g‘BoŞ—n
+(
+R
+.
+¡yËabË
+.
+LšePageIndiÿtÜ_ûÁ”ed
+, 
+deçuÉC’‹»d
+);
+
+83 
+mLšeWidth
+ = 
+a
+.
+	`g‘Dim’siÚ
+(
+R
+.
+¡yËabË
+.
+LšePageIndiÿtÜ_lšeWidth
+, 
+deçuÉLšeWidth
+);
+
+84 
+mG­Width
+ = 
+a
+.
+	`g‘Dim’siÚ
+(
+R
+.
+¡yËabË
+.
+LšePageIndiÿtÜ_g­Width
+, 
+deçuÉG­Width
+);
+
+85 
+	`£tSŒokeWidth
+(
+a
+.
+	`g‘Dim’siÚ
+(
+R
+.
+¡yËabË
+.
+LšePageIndiÿtÜ_¡rokeWidth
+, 
+deçuÉSŒokeWidth
+));
+
+86 
+mPaštUn£Ëùed
+.
+	`£tCŞÜ
+(
+a
+.
+	`g‘CŞÜ
+(
+R
+.
+¡yËabË
+.
+LšePageIndiÿtÜ_un£ËùedCŞÜ
+, 
+deçuÉUn£ËùedCŞÜ
+));
+
+87 
+mPaštS–eùed
+.
+	`£tCŞÜ
+(
+a
+.
+	`g‘CŞÜ
+(
+R
+.
+¡yËabË
+.
+LšePageIndiÿtÜ_£ËùedCŞÜ
+, 
+deçuÉS–eùedCŞÜ
+));
+
+89 
+D¿wabË
+ 
+background
+ = 
+a
+.
+	`g‘D¿wabË
+(
+R
+.
+¡yËabË
+.
+LšePageIndiÿtÜ_ªdroid_background
+);
+
+90 ià(
+background
+ !ğ
+nuÎ
+) {
+
+91 
+	`£tBackgroundD¿wabË
+(
+background
+);
+
+94 
+a
+.
+	`»cyşe
+();
+
+96 
+fš®
+ 
+V›wCÚfigu¿tiÚ
+ 
+cÚfigu¿tiÚ
+ = V›wCÚfigu¿tiÚ.
+	`g‘
+(
+cÚ‹xt
+);
+
+97 
+mTouchSlİ
+ = 
+V›wCÚfigu¿tiÚCom·t
+.
+	`g‘SÿËdPagšgTouchSlİ
+(
+cÚfigu¿tiÚ
+);
+
+98 
+	}
+}
+
+101 
+public
+ 
+	$£tC’‹»d
+(
+boŞ—n
+ 
+ûÁ”ed
+) {
+
+102 
+mC’‹»d
+ = 
+ûÁ”ed
+;
+
+103 
+	`šv®id©e
+();
+
+104 
+	}
+}
+
+106 
+public
+ 
+boŞ—n
+ 
+	$isC’‹»d
+() {
+
+107  
+mC’‹»d
+;
+
+108 
+	}
+}
+
+110 
+public
+ 
+	$£tUn£ËùedCŞÜ
+(
+un£ËùedCŞÜ
+) {
+
+111 
+mPaštUn£Ëùed
+.
+	`£tCŞÜ
+(
+un£ËùedCŞÜ
+);
+
+112 
+	`šv®id©e
+();
+
+113 
+	}
+}
+
+115 
+public
+ 
+	$g‘Un£ËùedCŞÜ
+() {
+
+116  
+mPaštUn£Ëùed
+.
+	`g‘CŞÜ
+();
+
+117 
+	}
+}
+
+119 
+public
+ 
+	$£tS–eùedCŞÜ
+(
+£ËùedCŞÜ
+) {
+
+120 
+mPaštS–eùed
+.
+	`£tCŞÜ
+(
+£ËùedCŞÜ
+);
+
+121 
+	`šv®id©e
+();
+
+122 
+	}
+}
+
+124 
+public
+ 
+	$g‘S–eùedCŞÜ
+() {
+
+125  
+mPaštS–eùed
+.
+	`g‘CŞÜ
+();
+
+126 
+	}
+}
+
+128 
+public
+ 
+	$£tLšeWidth
+(
+lšeWidth
+) {
+
+129 
+mLšeWidth
+ = 
+lšeWidth
+;
+
+130 
+	`šv®id©e
+();
+
+131 
+	}
+}
+
+133 
+public
+ 
+	$g‘LšeWidth
+() {
+
+134  
+mLšeWidth
+;
+
+135 
+	}
+}
+
+137 
+public
+ 
+	$£tSŒokeWidth
+(
+lšeHeight
+) {
+
+138 
+mPaštS–eùed
+.
+	`£tSŒokeWidth
+(
+lšeHeight
+);
+
+139 
+mPaštUn£Ëùed
+.
+	`£tSŒokeWidth
+(
+lšeHeight
+);
+
+140 
+	`šv®id©e
+();
+
+141 
+	}
+}
+
+143 
+public
+ 
+	$g‘SŒokeWidth
+() {
+
+144  
+mPaštS–eùed
+.
+	`g‘SŒokeWidth
+();
+
+145 
+	}
+}
+
+147 
+public
+ 
+	$£tG­Width
+(
+g­Width
+) {
+
+148 
+mG­Width
+ = 
+g­Width
+;
+
+149 
+	`šv®id©e
+();
+
+150 
+	}
+}
+
+152 
+public
+ 
+	$g‘G­Width
+() {
+
+153  
+mG­Width
+;
+
+154 
+	}
+}
+
+156 @
+Ov”ride
+
+
+157 
+´Ùeùed
+ 
+	$ÚD¿w
+(
+Cªvas
+ 
+ÿnvas
+) {
+
+158 
+su³r
+.
+	`ÚD¿w
+(
+ÿnvas
+);
+
+160 ià(
+mV›wPag”
+ =ğ
+nuÎ
+) {
+
+163 
+fš®
+ 
+couÁ
+ = 
+mV›wPag”
+.
+	`g‘Ad­‹r
+().
+	`g‘CouÁ
+();
+
+164 ià(
+couÁ
+ == 0) {
+
+168 ià(
+mCu¼’tPage
+ >ğ
+couÁ
+) {
+
+169 
+	`£tCu¼’tI‹m
+(
+couÁ
+ - 1);
+
+173 
+fš®
+ 
+lšeWidthAndG­
+ = 
+mLšeWidth
+ + 
+mG­Width
+;
+
+174 
+fš®
+ 
+šdiÿtÜWidth
+ = (
+couÁ
+ * 
+lšeWidthAndG­
+è- 
+mG­Width
+;
+
+175 
+fš®
+ 
+·ddšgTİ
+ = 
+	`g‘PaddšgTİ
+();
+
+176 
+fš®
+ 
+·ddšgLeá
+ = 
+	`g‘PaddšgLeá
+();
+
+177 
+fš®
+ 
+·ddšgRight
+ = 
+	`g‘PaddšgRight
+();
+
+179 
+v”tiÿlOff£t
+ = 
+·ddšgTİ
+ + ((
+	`g‘Height
+(è-…addšgTİ - 
+	`g‘PaddšgBÙtom
+()) / 2.0f);
+
+180 
+hÜizÚlOff£t
+ = 
+·ddšgLeá
+;
+
+181 ià(
+mC’‹»d
+) {
+
+182 
+hÜizÚlOff£t
+ +ğ((
+	`g‘Width
+(è- 
+·ddšgLeá
+ - 
+·ddšgRight
+è/ 2.0fè- (
+šdiÿtÜWidth
+ / 2.0f);
+
+186 
+i
+ = 0; i < 
+couÁ
+; i++) {
+
+187 
+dx1
+ = 
+hÜizÚlOff£t
+ + (
+i
+ * 
+lšeWidthAndG­
+);
+
+188 
+dx2
+ = 
+dx1
+ + 
+mLšeWidth
+;
+
+189 
+ÿnvas
+.
+	`d¿wLše
+(
+dx1
+, 
+v”tiÿlOff£t
+, 
+dx2
+, v”tiÿlOff£t, (
+i
+ =ğ
+mCu¼’tPage
+è? 
+mPaštS–eùed
+ : 
+mPaštUn£Ëùed
+);
+
+191 
+	}
+}
+
+193 
+public
+ 
+boŞ—n
+ 
+	$ÚTouchEv’t
+(
+ªdroid
+.
+v›w
+.
+MÙiÚEv’t
+ 
+ev
+) {
+
+194 ià(
+su³r
+.
+	`ÚTouchEv’t
+(
+ev
+)) {
+
+195  
+Œue
+;
+
+197 ià((
+mV›wPag”
+ =ğ
+nuÎ
+è|| (mV›wPag”.
+	`g‘Ad­‹r
+().
+	`g‘CouÁ
+() == 0)) {
+
+198  
+çl£
+;
+
+201 
+fš®
+ 
+aùiÚ
+ = 
+ev
+.
+	`g‘AùiÚ
+(è& 
+MÙiÚEv’tCom·t
+.
+ACTION_MASK
+;
+
+202 
+aùiÚ
+) {
+
+203 
+MÙiÚEv’t
+.
+ACTION_DOWN
+:
+
+204 
+mAùivePoš‹rId
+ = 
+MÙiÚEv’tCom·t
+.
+	`g‘Poš‹rId
+(
+ev
+, 0);
+
+205 
+mLa¡MÙiÚX
+ = 
+ev
+.
+	`g‘X
+();
+
+208 
+MÙiÚEv’t
+.
+ACTION_MOVE
+: {
+
+209 
+fš®
+ 
+aùivePoš‹rIndex
+ = 
+MÙiÚEv’tCom·t
+.
+	`fšdPoš‹rIndex
+(
+ev
+, 
+mAùivePoš‹rId
+);
+
+210 
+fš®
+ 
+x
+ = 
+MÙiÚEv’tCom·t
+.
+	`g‘X
+(
+ev
+, 
+aùivePoš‹rIndex
+);
+
+211 
+fš®
+ 
+d–X
+ = 
+x
+ - 
+mLa¡MÙiÚX
+;
+
+213 ià(!
+mIsD¿ggšg
+) {
+
+214 ià(
+M©h
+.
+	`abs
+(
+d–X
+è> 
+mTouchSlİ
+) {
+
+215 
+mIsD¿ggšg
+ = 
+Œue
+;
+
+219 ià(
+mIsD¿ggšg
+) {
+
+220 
+mLa¡MÙiÚX
+ = 
+x
+;
+
+221 ià(
+mV›wPag”
+.
+	`isFakeD¿ggšg
+(è|| mV›wPag”.
+	`begšFakeD¿g
+()) {
+
+222 
+mV›wPag”
+.
+	`çkeD¿gBy
+(
+d–X
+);
+
+229 
+MÙiÚEv’t
+.
+ACTION_CANCEL
+:
+
+230 
+MÙiÚEv’t
+.
+ACTION_UP
+:
+
+231 ià(!
+mIsD¿ggšg
+) {
+
+232 
+fš®
+ 
+couÁ
+ = 
+mV›wPag”
+.
+	`g‘Ad­‹r
+().
+	`g‘CouÁ
+();
+
+233 
+fš®
+ 
+width
+ = 
+	`g‘Width
+();
+
+234 
+fš®
+ 
+h®fWidth
+ = 
+width
+ / 2f;
+
+235 
+fš®
+ 
+sixthWidth
+ = 
+width
+ / 6f;
+
+237 ià((
+mCu¼’tPage
+ > 0è&& (
+ev
+.
+	`g‘X
+(è< 
+h®fWidth
+ - 
+sixthWidth
+)) {
+
+238 ià(
+aùiÚ
+ !ğ
+MÙiÚEv’t
+.
+ACTION_CANCEL
+) {
+
+239 
+mV›wPag”
+.
+	`£tCu¼’tI‹m
+(
+mCu¼’tPage
+ - 1);
+
+241  
+Œue
+;
+
+242 } ià((
+mCu¼’tPage
+ < 
+couÁ
+ - 1è&& (
+ev
+.
+	`g‘X
+(è> 
+h®fWidth
+ + 
+sixthWidth
+)) {
+
+243 ià(
+aùiÚ
+ !ğ
+MÙiÚEv’t
+.
+ACTION_CANCEL
+) {
+
+244 
+mV›wPag”
+.
+	`£tCu¼’tI‹m
+(
+mCu¼’tPage
+ + 1);
+
+246  
+Œue
+;
+
+250 
+mIsD¿ggšg
+ = 
+çl£
+;
+
+251 
+mAùivePoš‹rId
+ = 
+INVALID_POINTER
+;
+
+252 ià(
+mV›wPag”
+.
+	`isFakeD¿ggšg
+()èmV›wPag”.
+	`’dFakeD¿g
+();
+
+255 
+MÙiÚEv’tCom·t
+.
+ACTION_POINTER_DOWN
+: {
+
+256 
+fš®
+ 
+šdex
+ = 
+MÙiÚEv’tCom·t
+.
+	`g‘AùiÚIndex
+(
+ev
+);
+
+257 
+mLa¡MÙiÚX
+ = 
+MÙiÚEv’tCom·t
+.
+	`g‘X
+(
+ev
+, 
+šdex
+);
+
+258 
+mAùivePoš‹rId
+ = 
+MÙiÚEv’tCom·t
+.
+	`g‘Poš‹rId
+(
+ev
+, 
+šdex
+);
+
+262 
+MÙiÚEv’tCom·t
+.
+ACTION_POINTER_UP
+:
+
+263 
+fš®
+ 
+poš‹rIndex
+ = 
+MÙiÚEv’tCom·t
+.
+	`g‘AùiÚIndex
+(
+ev
+);
+
+264 
+fš®
+ 
+poš‹rId
+ = 
+MÙiÚEv’tCom·t
+.
+	`g‘Poš‹rId
+(
+ev
+, 
+poš‹rIndex
+);
+
+265 ià(
+poš‹rId
+ =ğ
+mAùivePoš‹rId
+) {
+
+266 
+fš®
+ 
+ÃwPoš‹rIndex
+ = 
+poš‹rIndex
+ == 0 ? 1 : 0;
+
+267 
+mAùivePoš‹rId
+ = 
+MÙiÚEv’tCom·t
+.
+	`g‘Poš‹rId
+(
+ev
+, 
+ÃwPoš‹rIndex
+);
+
+269 
+mLa¡MÙiÚX
+ = 
+MÙiÚEv’tCom·t
+.
+	`g‘X
+(
+ev
+, MÙiÚEv’tCom·t.
+	`fšdPoš‹rIndex
+Óv, 
+mAùivePoš‹rId
+));
+
+273  
+Œue
+;
+
+274 
+	}
+}
+
+276 @
+Ov”ride
+
+
+277 
+public
+ 
+	$£tV›wPag”
+(
+V›wPag”
+ 
+v›wPag”
+) {
+
+278 ià(
+mV›wPag”
+ =ğ
+v›wPag”
+) {
+
+281 ià(
+mV›wPag”
+ !ğ
+nuÎ
+) {
+
+283 
+mV›wPag”
+.
+	`£tOnPageChªgeLi¡’”
+(
+nuÎ
+);
+
+285 ià(
+v›wPag”
+.
+	`g‘Ad­‹r
+(è=ğ
+nuÎ
+) {
+
+286 
+throw
+ 
+Ãw
+ 
+	`IÎeg®S‹Exû±iÚ
+("ViewPager does‚ot have‡dapter instance.");
+
+288 
+mV›wPag”
+ = 
+v›wPag”
+;
+
+289 
+mV›wPag”
+.
+	`£tOnPageChªgeLi¡’”
+(
+this
+);
+
+290 
+	`šv®id©e
+();
+
+291 
+	}
+}
+
+293 @
+Ov”ride
+
+
+294 
+public
+ 
+	$£tV›wPag”
+(
+V›wPag”
+ 
+v›w
+, 
+š™ŸlPos™iÚ
+) {
+
+295 
+	`£tV›wPag”
+(
+v›w
+);
+
+296 
+	`£tCu¼’tI‹m
+(
+š™ŸlPos™iÚ
+);
+
+297 
+	}
+}
+
+299 @
+Ov”ride
+
+
+300 
+public
+ 
+	$£tCu¼’tI‹m
+(
+™em
+) {
+
+301 ià(
+mV›wPag”
+ =ğ
+nuÎ
+) {
+
+302 
+throw
+ 
+Ãw
+ 
+	`IÎeg®S‹Exû±iÚ
+("ViewPager has‚ot been bound.");
+
+304 
+mV›wPag”
+.
+	`£tCu¼’tI‹m
+(
+™em
+);
+
+305 
+mCu¼’tPage
+ = 
+™em
+;
+
+306 
+	`šv®id©e
+();
+
+307 
+	}
+}
+
+309 @
+Ov”ride
+
+
+310 
+public
+ 
+	$nÙifyD©aS‘Chªged
+() {
+
+311 
+	`šv®id©e
+();
+
+312 
+	}
+}
+
+314 @
+Ov”ride
+
+
+315 
+public
+ 
+	$ÚPageSüŞlS‹Chªged
+(
+¡©e
+) {
+
+316 ià(
+mLi¡’”
+ !ğ
+nuÎ
+) {
+
+317 
+mLi¡’”
+.
+	`ÚPageSüŞlS‹Chªged
+(
+¡©e
+);
+
+319 
+	}
+}
+
+321 @
+Ov”ride
+
+
+322 
+public
+ 
+	$ÚPageSüŞËd
+(
+pos™iÚ
+, 
+pos™iÚOff£t
+, 
+pos™iÚOff£tPix–s
+) {
+
+323 ià(
+mLi¡’”
+ !ğ
+nuÎ
+) {
+
+324 
+mLi¡’”
+.
+	`ÚPageSüŞËd
+(
+pos™iÚ
+, 
+pos™iÚOff£t
+, 
+pos™iÚOff£tPix–s
+);
+
+326 
+	}
+}
+
+328 @
+Ov”ride
+
+
+329 
+public
+ 
+	$ÚPageS–eùed
+(
+pos™iÚ
+) {
+
+330 
+mCu¼’tPage
+ = 
+pos™iÚ
+;
+
+331 
+	`šv®id©e
+();
+
+333 ià(
+mLi¡’”
+ !ğ
+nuÎ
+) {
+
+334 
+mLi¡’”
+.
+	`ÚPageS–eùed
+(
+pos™iÚ
+);
+
+336 
+	}
+}
+
+338 @
+Ov”ride
+
+
+339 
+public
+ 
+	$£tOnPageChªgeLi¡’”
+(
+V›wPag”
+.
+OnPageChªgeLi¡’”
+ 
+li¡’”
+) {
+
+340 
+mLi¡’”
+ = 
+li¡’”
+;
+
+341 
+	}
+}
+
+343 @
+Ov”ride
+
+
+344 
+´Ùeùed
+ 
+	$ÚM—su»
+(
+widthM—su»S³c
+, 
+heightM—su»S³c
+) {
+
+345 
+	`£tM—su»dDim’siÚ
+(
+	`m—su»Width
+(
+widthM—su»S³c
+), 
+	`m—su»Height
+(
+heightM—su»S³c
+));
+
+346 
+	}
+}
+
+355 
+´iv©e
+ 
+	$m—su»Width
+(
+m—su»S³c
+) {
+
+356 
+»suÉ
+;
+
+357 
+¥ecMode
+ = 
+M—su»S³c
+.
+	`g‘Mode
+(
+m—su»S³c
+);
+
+358 
+¥ecSize
+ = 
+M—su»S³c
+.
+	`g‘Size
+(
+m—su»S³c
+);
+
+360 ià((
+¥ecMode
+ =ğ
+M—su»S³c
+.
+EXACTLY
+è|| (
+mV›wPag”
+ =ğ
+nuÎ
+)) {
+
+362 
+»suÉ
+ = 
+¥ecSize
+;
+
+365 
+fš®
+ 
+couÁ
+ = 
+mV›wPag”
+.
+	`g‘Ad­‹r
+().
+	`g‘CouÁ
+();
+
+366 
+»suÉ
+ = 
+	`g‘PaddšgLeá
+(è+ 
+	`g‘PaddšgRight
+(è+ (
+couÁ
+ * 
+mLšeWidth
+è+ ((couÁ - 1è* 
+mG­Width
+);
+
+368 ià(
+¥ecMode
+ =ğ
+M—su»S³c
+.
+AT_MOST
+) {
+
+369 
+»suÉ
+ = 
+M©h
+.
+	`mš
+ÔesuÉ, 
+¥ecSize
+);
+
+372  ()
+FlßtM©h
+.
+	`û
+(
+»suÉ
+);
+
+373 
+	}
+}
+
+382 
+´iv©e
+ 
+	$m—su»Height
+(
+m—su»S³c
+) {
+
+383 
+»suÉ
+;
+
+384 
+¥ecMode
+ = 
+M—su»S³c
+.
+	`g‘Mode
+(
+m—su»S³c
+);
+
+385 
+¥ecSize
+ = 
+M—su»S³c
+.
+	`g‘Size
+(
+m—su»S³c
+);
+
+387 ià(
+¥ecMode
+ =ğ
+M—su»S³c
+.
+EXACTLY
+) {
+
+389 
+»suÉ
+ = 
+¥ecSize
+;
+
+392 
+»suÉ
+ = 
+mPaštS–eùed
+.
+	`g‘SŒokeWidth
+(è+ 
+	`g‘PaddšgTİ
+(è+ 
+	`g‘PaddšgBÙtom
+();
+
+394 ià(
+¥ecMode
+ =ğ
+M—su»S³c
+.
+AT_MOST
+) {
+
+395 
+»suÉ
+ = 
+M©h
+.
+	`mš
+ÔesuÉ, 
+¥ecSize
+);
+
+398  ()
+FlßtM©h
+.
+	`û
+(
+»suÉ
+);
+
+399 
+	}
+}
+
+401 @
+Ov”ride
+
+
+402 
+public
+ 
+	$ÚRe¡ÜeIn¡ªûS‹
+(
+P¬ûÏbË
+ 
+¡©e
+) {
+
+403 
+SavedS‹
+ 
+§vedS‹
+ = (SavedS‹)
+¡©e
+;
+
+404 
+su³r
+.
+	`ÚRe¡ÜeIn¡ªûS‹
+(
+§vedS‹
+.
+	`g‘Su³rS‹
+());
+
+405 
+mCu¼’tPage
+ = 
+§vedS‹
+.
+cu¼’tPage
+;
+
+406 
+	`»que¡Layout
+();
+
+407 
+	}
+}
+
+409 @
+Ov”ride
+
+
+410 
+public
+ 
+P¬ûÏbË
+ 
+	$ÚSaveIn¡ªûS‹
+() {
+
+411 
+P¬ûÏbË
+ 
+su³rS‹
+ = 
+su³r
+.
+	`ÚSaveIn¡ªûS‹
+();
+
+412 
+SavedS‹
+ 
+§vedS‹
+ = 
+Ãw
+ 
+	`SavedS‹
+(
+su³rS‹
+);
+
+413 
+§vedS‹
+.
+cu¼’tPage
+ = 
+mCu¼’tPage
+;
+
+414  
+§vedS‹
+;
+
+415 
+	}
+}
+
+417 şas 
+	cSavedS‹
+ 
+ex‹nds
+ 
+	gBa£SavedS‹
+ {
+
+418 
+	gcu¼’tPage
+;
+
+420 
+public
+ 
+SavedS‹
+(
+P¬ûÏbË
+ 
+su³rS‹
+) {
+
+421 
+su³r
+(
+su³rS‹
+);
+
+424 
+´iv©e
+ 
+SavedS‹
+(
+P¬ûl
+ 
+š
+) {
+
+425 
+su³r
+(
+š
+);
+
+426 
+	gcu¼’tPage
+ = 
+š
+.
+»adIÁ
+();
+
+429 @
+Ov”ride
+
+
+430 
+public
+ 
+wr™eToP¬ûl
+(
+P¬ûl
+ 
+de¡
+, 
+æags
+) {
+
+431 
+	gsu³r
+.
+wr™eToP¬ûl
+(
+de¡
+, 
+æags
+);
+
+432 
+	gde¡
+.
+wr™eIÁ
+(
+cu¼’tPage
+);
+
+435 @
+Suµ»ssW¬nšgs
+("UnusedDeclaration")
+
+436 
+public
+ 
+fš®
+ 
+	gP¬ûÏbË
+.
+	gC»©Ü
+<
+	gSavedS‹
+> 
+	gCREATOR
+ = 
+Ãw
+ 
+P¬ûÏbË
+.
+C»©Ü
+<
+SavedS‹
+>() {
+
+437 @
+Ov”ride
+
+
+438 
+public
+ 
+SavedS‹
+ 
+ü—‹FromP¬ûl
+(
+P¬ûl
+ 
+š
+) {
+
+439  
+Ãw
+ 
+SavedS‹
+(
+š
+);
+
+442 @
+Ov”ride
+
+
+443 
+public
+ 
+	gSavedS‹
+[] 
+ÃwA¼ay
+(
+size
+) {
+
+444  
+Ãw
+ 
+	gSavedS‹
+[
+size
+];
+
+	@library/src/com/viewpagerindicator/PageIndicator.java
+
+18 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+;
+
+20 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+;
+
+26 
+public
+ 
+š‹rçû
+ 
+PageIndiÿtÜ
+ 
+ex‹nds
+ 
+	gV›wPag”
+.
+	gOnPageChªgeLi¡’”
+ {
+
+32 
+£tV›wPag”
+(
+V›wPag”
+ 
+v›w
+);
+
+40 
+£tV›wPag”
+(
+V›wPag”
+ 
+v›w
+, 
+š™ŸlPos™iÚ
+);
+
+50 
+£tCu¼’tI‹m
+(
+™em
+);
+
+57 
+£tOnPageChªgeLi¡’”
+(
+V›wPag”
+.
+OnPageChªgeLi¡’”
+ 
+li¡’”
+);
+
+62 
+nÙifyD©aS‘Chªged
+();
+
+	@library/src/com/viewpagerindicator/TabPageIndicator.java
+
+17 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+;
+
+19 
+impÜt
+ 
+	gªdroid
+.
+	gcÚ‹Á
+.
+	gCÚ‹xt
+;
+
+20 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gPag”Ad­‹r
+;
+
+21 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+;
+
+22 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+.
+	gOnPageChªgeLi¡’”
+;
+
+23 
+impÜt
+ 
+	gªdroid
+.
+	gut
+.
+	gA‰ribu‹S‘
+;
+
+24 
+impÜt
+ 
+	gªdroid
+.
+	gv›w
+.
+	gV›w
+;
+
+25 
+impÜt
+ 
+	gªdroid
+.
+	gv›w
+.
+	gV›wGroup
+;
+
+26 
+impÜt
+ 
+	gªdroid
+.
+	gwidg‘
+.
+	gHÜizÚlSüŞlV›w
+;
+
+27 
+impÜt
+ 
+	gªdroid
+.
+	gwidg‘
+.
+	gLš—rLayout
+;
+
+28 
+impÜt
+ 
+	gªdroid
+.
+	gwidg‘
+.
+	gTextV›w
+;
+
+30 
+impÜt
+ 
+	gªdroid
+.
+	gv›w
+.
+	gV›wGroup
+.
+	gLayoutP¬ams
+.
+	gMATCH_PARENT
+;
+
+31 
+impÜt
+ 
+	gªdroid
+.
+	gv›w
+.
+	gV›wGroup
+.
+	gLayoutP¬ams
+.
+	gWRAP_CONTENT
+;
+
+37 
+public
+ cÏs 
+	cTabPageIndiÿtÜ
+ 
+ex‹nds
+ 
+HÜizÚlSüŞlV›w
+ 
+im¶em’ts
+ 
+	mPageIndiÿtÜ
+ {
+
+39 
+´iv©e
+ 
+fš®
+ 
+Ch¬Sequ’û
+ 
+	mEMPTY_TITLE
+ = "";
+
+44 
+public
+ 
+š‹rçû
+ 
+	mOnTabRe£ËùedLi¡’”
+ {
+
+50 
+ÚTabRe£Ëùed
+(
+pos™iÚ
+);
+
+53 
+´iv©e
+ 
+RuÂabË
+ 
+	gmTabS–eùÜ
+;
+
+55 
+´iv©e
+ 
+fš®
+ 
+OnClickLi¡’”
+ 
+	gmTabClickLi¡’”
+ = 
+Ãw
+ 
+	$OnClickLi¡’”
+() {
+
+56 
+public
+ 
+	`ÚClick
+(
+V›w
+ 
+v›w
+) {
+
+57 
+TabV›w
+ 
+bV›w
+ = (TabV›w)
+v›w
+;
+
+58 
+fš®
+ 
+ŞdS–eùed
+ = 
+mV›wPag”
+.
+	`g‘Cu¼’tI‹m
+();
+
+59 
+fš®
+ 
+ÃwS–eùed
+ = 
+bV›w
+.
+	`g‘Index
+();
+
+60 
+mV›wPag”
+.
+	`£tCu¼’tI‹m
+(
+ÃwS–eùed
+);
+
+61 ià(
+ŞdS–eùed
+ =ğ
+ÃwS–eùed
+ && 
+mTabRe£ËùedLi¡’”
+ !ğ
+nuÎ
+) {
+
+62 
+mTabRe£ËùedLi¡’”
+.
+	`ÚTabRe£Ëùed
+(
+ÃwS–eùed
+);
+
+65 
+	}
+};
+
+67 
+´iv©e
+ 
+fš®
+ 
+IcsLš—rLayout
+ 
+	gmTabLayout
+;
+
+69 
+´iv©e
+ 
+V›wPag”
+ 
+	gmV›wPag”
+;
+
+70 
+´iv©e
+ 
+	gV›wPag”
+.
+OnPageChªgeLi¡’”
+ 
+	gmLi¡’”
+;
+
+72 
+´iv©e
+ 
+	gmMaxTabWidth
+;
+
+73 
+´iv©e
+ 
+	gmS–eùedTabIndex
+;
+
+75 
+´iv©e
+ 
+OnTabRe£ËùedLi¡’”
+ 
+	gmTabRe£ËùedLi¡’”
+;
+
+77 
+public
+ 
+	$TabPageIndiÿtÜ
+(
+CÚ‹xt
+ 
+cÚ‹xt
+) {
+
+78 
+	`this
+(
+cÚ‹xt
+, 
+nuÎ
+);
+
+79 
+	}
+}
+
+81 
+public
+ 
+	$TabPageIndiÿtÜ
+(
+CÚ‹xt
+ 
+cÚ‹xt
+, 
+A‰ribu‹S‘
+ 
+©Œs
+) {
+
+82 
+	`su³r
+(
+cÚ‹xt
+, 
+©Œs
+);
+
+83 
+	`£tHÜizÚlSüŞlB¬EÇbËd
+(
+çl£
+);
+
+85 
+mTabLayout
+ = 
+Ãw
+ 
+	`IcsLš—rLayout
+(
+cÚ‹xt
+, 
+R
+.
+©Œ
+.
+vpiTabPageIndiÿtÜStyË
+);
+
+86 
+	`addV›w
+(
+mTabLayout
+, 
+Ãw
+ 
+V›wGroup
+.
+	`LayoutP¬ams
+(
+WRAP_CONTENT
+, 
+MATCH_PARENT
+));
+
+87 
+	}
+}
+
+89 
+public
+ 
+	$£tOnTabRe£ËùedLi¡’”
+(
+OnTabRe£ËùedLi¡’”
+ 
+li¡’”
+) {
+
+90 
+mTabRe£ËùedLi¡’”
+ = 
+li¡’”
+;
+
+91 
+	}
+}
+
+93 @
+Ov”ride
+
+
+94 
+public
+ 
+	$ÚM—su»
+(
+widthM—su»S³c
+, 
+heightM—su»S³c
+) {
+
+95 
+fš®
+ 
+widthMode
+ = 
+M—su»S³c
+.
+	`g‘Mode
+(
+widthM—su»S³c
+);
+
+96 
+fš®
+ 
+boŞ—n
+ 
+lockedEx·nded
+ = 
+widthMode
+ =ğ
+M—su»S³c
+.
+EXACTLY
+;
+
+97 
+	`£tFlV›wpÜt
+(
+lockedEx·nded
+);
+
+99 
+fš®
+ 
+chdCouÁ
+ = 
+mTabLayout
+.
+	`g‘ChdCouÁ
+();
+
+100 ià(
+chdCouÁ
+ > 1 && (
+widthMode
+ =ğ
+M—su»S³c
+.
+EXACTLY
+ || widthMod=ğM—su»S³c.
+AT_MOST
+)) {
+
+101 ià(
+chdCouÁ
+ > 2) {
+
+102 
+mMaxTabWidth
+ = ()(
+M—su»S³c
+.
+	`g‘Size
+(
+widthM—su»S³c
+) * 0.4f);
+
+104 
+mMaxTabWidth
+ = 
+M—su»S³c
+.
+	`g‘Size
+(
+widthM—su»S³c
+) / 2;
+
+107 
+mMaxTabWidth
+ = -1;
+
+110 
+fš®
+ 
+ŞdWidth
+ = 
+	`g‘M—su»dWidth
+();
+
+111 
+su³r
+.
+	`ÚM—su»
+(
+widthM—su»S³c
+, 
+heightM—su»S³c
+);
+
+112 
+fš®
+ 
+ÃwWidth
+ = 
+	`g‘M—su»dWidth
+();
+
+114 ià(
+lockedEx·nded
+ && 
+ŞdWidth
+ !ğ
+ÃwWidth
+) {
+
+116 
+	`£tCu¼’tI‹m
+(
+mS–eùedTabIndex
+);
+
+118 
+	}
+}
+
+120 
+´iv©e
+ 
+	$ªim©eToTab
+(
+fš®
+ 
+pos™iÚ
+) {
+
+121 
+fš®
+ 
+V›w
+ 
+bV›w
+ = 
+mTabLayout
+.
+	`g‘ChdAt
+(
+pos™iÚ
+);
+
+122 ià(
+mTabS–eùÜ
+ !ğ
+nuÎ
+) {
+
+123 
+	`»moveC®lbacks
+(
+mTabS–eùÜ
+);
+
+125 
+mTabS–eùÜ
+ = 
+Ãw
+ 
+	`RuÂabË
+() {
+
+126 
+public
+ 
+	`run
+() {
+
+127 
+fš®
+ 
+süŞlPos
+ = 
+bV›w
+.
+	`g‘Leá
+(è- (
+	`g‘Width
+() -abView.getWidth()) / 2;
+
+128 
+	`smoÙhSüŞlTo
+(
+süŞlPos
+, 0);
+
+129 
+mTabS–eùÜ
+ = 
+nuÎ
+;
+
+132 
+	`po¡
+(
+mTabS–eùÜ
+);
+
+133 
+	}
+}
+
+135 @
+Ov”ride
+
+
+136 
+public
+ 
+	$ÚA‰achedToWšdow
+() {
+
+137 
+su³r
+.
+	`ÚA‰achedToWšdow
+();
+
+138 ià(
+mTabS–eùÜ
+ !ğ
+nuÎ
+) {
+
+140 
+	`po¡
+(
+mTabS–eùÜ
+);
+
+142 
+	}
+}
+
+144 @
+Ov”ride
+
+
+145 
+public
+ 
+	$ÚD‘achedFromWšdow
+() {
+
+146 
+su³r
+.
+	`ÚD‘achedFromWšdow
+();
+
+147 ià(
+mTabS–eùÜ
+ !ğ
+nuÎ
+) {
+
+148 
+	`»moveC®lbacks
+(
+mTabS–eùÜ
+);
+
+150 
+	}
+}
+
+152 
+´iv©e
+ 
+	$addTab
+(
+šdex
+, 
+Ch¬Sequ’û
+ 
+‹xt
+, 
+icÚResId
+) {
+
+153 
+fš®
+ 
+TabV›w
+ 
+bV›w
+ = 
+Ãw
+ 
+	`TabV›w
+(
+	`g‘CÚ‹xt
+());
+
+154 
+bV›w
+.
+mIndex
+ = 
+šdex
+;
+
+155 
+bV›w
+.
+	`£tFocu§bË
+(
+Œue
+);
+
+156 
+bV›w
+.
+	`£tOnClickLi¡’”
+(
+mTabClickLi¡’”
+);
+
+157 
+bV›w
+.
+	`£tText
+(
+‹xt
+);
+
+159 ià(
+icÚResId
+ != 0) {
+
+160 
+bV›w
+.
+	`£tCompoundD¿wabËsW™hIÁršsicBounds
+(
+icÚResId
+, 0, 0, 0);
+
+163 
+mTabLayout
+.
+	`addV›w
+(
+bV›w
+, 
+Ãw
+ 
+Lš—rLayout
+.
+	`LayoutP¬ams
+(0, 
+MATCH_PARENT
+, 1));
+
+164 
+	}
+}
+
+166 @
+Ov”ride
+
+
+167 
+public
+ 
+	$ÚPageSüŞlS‹Chªged
+(
+¬g0
+) {
+
+168 ià(
+mLi¡’”
+ !ğ
+nuÎ
+) {
+
+169 
+mLi¡’”
+.
+	`ÚPageSüŞlS‹Chªged
+(
+¬g0
+);
+
+171 
+	}
+}
+
+173 @
+Ov”ride
+
+
+174 
+public
+ 
+	$ÚPageSüŞËd
+(
+¬g0
+, 
+¬g1
+, 
+¬g2
+) {
+
+175 ià(
+mLi¡’”
+ !ğ
+nuÎ
+) {
+
+176 
+mLi¡’”
+.
+	`ÚPageSüŞËd
+(
+¬g0
+, 
+¬g1
+, 
+¬g2
+);
+
+178 
+	}
+}
+
+180 @
+Ov”ride
+
+
+181 
+public
+ 
+	$ÚPageS–eùed
+(
+¬g0
+) {
+
+182 
+	`£tCu¼’tI‹m
+(
+¬g0
+);
+
+183 ià(
+mLi¡’”
+ !ğ
+nuÎ
+) {
+
+184 
+mLi¡’”
+.
+	`ÚPageS–eùed
+(
+¬g0
+);
+
+186 
+	}
+}
+
+188 @
+Ov”ride
+
+
+189 
+public
+ 
+	$£tV›wPag”
+(
+V›wPag”
+ 
+v›w
+) {
+
+190 ià(
+mV›wPag”
+ =ğ
+v›w
+) {
+
+193 ià(
+mV›wPag”
+ !ğ
+nuÎ
+) {
+
+194 
+mV›wPag”
+.
+	`£tOnPageChªgeLi¡’”
+(
+nuÎ
+);
+
+196 
+fš®
+ 
+Pag”Ad­‹r
+ 
+ad­‹r
+ = 
+v›w
+.
+	`g‘Ad­‹r
+();
+
+197 ià(
+ad­‹r
+ =ğ
+nuÎ
+) {
+
+198 
+throw
+ 
+Ãw
+ 
+	`IÎeg®S‹Exû±iÚ
+("ViewPager does‚ot have‡dapter instance.");
+
+200 
+mV›wPag”
+ = 
+v›w
+;
+
+201 
+v›w
+.
+	`£tOnPageChªgeLi¡’”
+(
+this
+);
+
+202 
+	`nÙifyD©aS‘Chªged
+();
+
+203 
+	}
+}
+
+205 
+public
+ 
+	$nÙifyD©aS‘Chªged
+() {
+
+206 
+mTabLayout
+.
+	`»moveAÎV›ws
+();
+
+207 
+Pag”Ad­‹r
+ 
+ad­‹r
+ = 
+mV›wPag”
+.
+	`g‘Ad­‹r
+();
+
+208 
+IcÚPag”Ad­‹r
+ 
+icÚAd­‹r
+ = 
+nuÎ
+;
+
+209 ià(
+ad­‹r
+ 
+š¡ªûof
+ 
+IcÚPag”Ad­‹r
+) {
+
+210 
+icÚAd­‹r
+ = (
+IcÚPag”Ad­‹r
+)
+ad­‹r
+;
+
+212 
+fš®
+ 
+couÁ
+ = 
+ad­‹r
+.
+	`g‘CouÁ
+();
+
+213 
+i
+ = 0; i < 
+couÁ
+; i++) {
+
+214 
+Ch¬Sequ’û
+ 
+t™Ë
+ = 
+ad­‹r
+.
+	`g‘PageT™Ë
+(
+i
+);
+
+215 ià(
+t™Ë
+ =ğ
+nuÎ
+) {
+
+216 
+t™Ë
+ = 
+EMPTY_TITLE
+;
+
+218 
+icÚResId
+ = 0;
+
+219 ià(
+icÚAd­‹r
+ !ğ
+nuÎ
+) {
+
+220 
+icÚResId
+ = 
+icÚAd­‹r
+.
+	`g‘IcÚResId
+(
+i
+);
+
+222 
+	`addTab
+(
+i
+, 
+t™Ë
+, 
+icÚResId
+);
+
+224 ià(
+mS–eùedTabIndex
+ > 
+couÁ
+) {
+
+225 
+mS–eùedTabIndex
+ = 
+couÁ
+ - 1;
+
+227 
+	`£tCu¼’tI‹m
+(
+mS–eùedTabIndex
+);
+
+228 
+	`»que¡Layout
+();
+
+229 
+	}
+}
+
+231 @
+Ov”ride
+
+
+232 
+public
+ 
+	$£tV›wPag”
+(
+V›wPag”
+ 
+v›w
+, 
+š™ŸlPos™iÚ
+) {
+
+233 
+	`£tV›wPag”
+(
+v›w
+);
+
+234 
+	`£tCu¼’tI‹m
+(
+š™ŸlPos™iÚ
+);
+
+235 
+	}
+}
+
+237 @
+Ov”ride
+
+
+238 
+public
+ 
+	$£tCu¼’tI‹m
+(
+™em
+) {
+
+239 ià(
+mV›wPag”
+ =ğ
+nuÎ
+) {
+
+240 
+throw
+ 
+Ãw
+ 
+	`IÎeg®S‹Exû±iÚ
+("ViewPager has‚ot been bound.");
+
+242 
+mS–eùedTabIndex
+ = 
+™em
+;
+
+243 
+mV›wPag”
+.
+	`£tCu¼’tI‹m
+(
+™em
+);
+
+245 
+fš®
+ 
+bCouÁ
+ = 
+mTabLayout
+.
+	`g‘ChdCouÁ
+();
+
+246 
+i
+ = 0; i < 
+bCouÁ
+; i++) {
+
+247 
+fš®
+ 
+V›w
+ 
+chd
+ = 
+mTabLayout
+.
+	`g‘ChdAt
+(
+i
+);
+
+248 
+fš®
+ 
+boŞ—n
+ 
+isS–eùed
+ = (
+i
+ =ğ
+™em
+);
+
+249 
+chd
+.
+	`£tS–eùed
+(
+isS–eùed
+);
+
+250 ià(
+isS–eùed
+) {
+
+251 
+	`ªim©eToTab
+(
+™em
+);
+
+254 
+	}
+}
+
+256 @
+Ov”ride
+
+
+257 
+public
+ 
+	$£tOnPageChªgeLi¡’”
+(
+OnPageChªgeLi¡’”
+ 
+li¡’”
+) {
+
+258 
+mLi¡’”
+ = 
+li¡’”
+;
+
+259 
+	}
+}
+
+261 
+´iv©e
+ cÏs 
+	cTabV›w
+ 
+ex‹nds
+ 
+	gTextV›w
+ {
+
+262 
+´iv©e
+ 
+	gmIndex
+;
+
+264 
+public
+ 
+TabV›w
+(
+CÚ‹xt
+ 
+cÚ‹xt
+) {
+
+265 
+su³r
+(
+cÚ‹xt
+, 
+nuÎ
+, 
+R
+.
+©Œ
+.
+vpiTabPageIndiÿtÜStyË
+);
+
+268 @
+Ov”ride
+
+
+269 
+public
+ 
+ÚM—su»
+(
+widthM—su»S³c
+, 
+heightM—su»S³c
+) {
+
+270 
+	gsu³r
+.
+ÚM—su»
+(
+widthM—su»S³c
+, 
+heightM—su»S³c
+);
+
+273 ià(
+	gmMaxTabWidth
+ > 0 && 
+g‘M—su»dWidth
+() > mMaxTabWidth) {
+
+274 
+	gsu³r
+.
+ÚM—su»
+(
+M—su»S³c
+.
+makeM—su»S³c
+(
+mMaxTabWidth
+, M—su»S³c.
+EXACTLY
+),
+
+275 
+heightM—su»S³c
+);
+
+279 
+public
+ 
+g‘Index
+() {
+
+280  
+	gmIndex
+;
+
+	@library/src/com/viewpagerindicator/TitlePageIndicator.java
+
+18 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+;
+
+20 
+impÜt
+ 
+	gªdroid
+.
+	gcÚ‹Á
+.
+	gCÚ‹xt
+;
+
+21 
+impÜt
+ 
+	gªdroid
+.
+	gcÚ‹Á
+.
+	g»s
+.
+	gResourûs
+;
+
+22 
+impÜt
+ 
+	gªdroid
+.
+	gcÚ‹Á
+.
+	g»s
+.
+	gTy³dA¼ay
+;
+
+23 
+impÜt
+ 
+	gªdroid
+.
+	gg¿phics
+.
+	gCªvas
+;
+
+24 
+impÜt
+ 
+	gªdroid
+.
+	gg¿phics
+.
+	gPašt
+;
+
+25 
+impÜt
+ 
+	gªdroid
+.
+	gg¿phics
+.
+	gP©h
+;
+
+26 
+impÜt
+ 
+	gªdroid
+.
+	gg¿phics
+.
+	gReù
+;
+
+27 
+impÜt
+ 
+	gªdroid
+.
+	gg¿phics
+.
+	gTy³çû
+;
+
+28 
+impÜt
+ 
+	gªdroid
+.
+	gg¿phics
+.
+	gd¿wabË
+.
+	gD¿wabË
+;
+
+29 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gP¬ûl
+;
+
+30 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gP¬ûÏbË
+;
+
+31 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gMÙiÚEv’tCom·t
+;
+
+32 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wCÚfigu¿tiÚCom·t
+;
+
+33 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+;
+
+34 
+impÜt
+ 
+	gªdroid
+.
+	gut
+.
+	gA‰ribu‹S‘
+;
+
+35 
+impÜt
+ 
+	gªdroid
+.
+	gv›w
+.
+	gMÙiÚEv’t
+;
+
+36 
+impÜt
+ 
+	gªdroid
+.
+	gv›w
+.
+	gV›w
+;
+
+37 
+impÜt
+ 
+	gªdroid
+.
+	gv›w
+.
+	gV›wCÚfigu¿tiÚ
+;
+
+39 
+impÜt
+ 
+	gjava
+.
+	gut
+.
+	gA¼ayLi¡
+;
+
+47 
+public
+ cÏs 
+	cT™ËPageIndiÿtÜ
+ 
+ex‹nds
+ 
+V›w
+ 
+im¶em’ts
+ 
+	mPageIndiÿtÜ
+ {
+
+53 
+´iv©e
+ 
+fš®
+ 
+	mSELECTION_FADE_PERCENTAGE
+ = 0.25f;
+
+60 
+´iv©e
+ 
+fš®
+ 
+	mBOLD_FADE_PERCENTAGE
+ = 0.05f;
+
+65 
+´iv©e
+ 
+fš®
+ 
+SŒšg
+ 
+	mEMPTY_TITLE
+ = "";
+
+70 
+public
+ 
+š‹rçû
+ 
+	mOnC’‹rI‹mClickLi¡’”
+ {
+
+76 
+ÚC’‹rI‹mClick
+(
+pos™iÚ
+);
+
+79 
+public
+ 
+	eIndiÿtÜStyË
+ {
+
+80 
+NÚe
+(0), 
+TrŸngË
+(1), 
+Und”lše
+(2);
+
+82 
+public
+ 
+fš®
+ 
+	gv®ue
+;
+
+84 
+´iv©e
+ 
+IndiÿtÜStyË
+(
+v®ue
+) {
+
+85 
+	gthis
+.
+	gv®ue
+ = 
+v®ue
+;
+
+88 
+public
+ 
+IndiÿtÜStyË
+ 
+äomV®ue
+(
+v®ue
+) {
+
+89 
+IndiÿtÜStyË
+ 
+	g¡yË
+ : IndiÿtÜStyË.
+v®ues
+()) {
+
+90 ià(
+¡yË
+.
+v®ue
+ == value) {
+
+91  
+¡yË
+;
+
+94  
+	gnuÎ
+;
+
+98 
+public
+ 
+	eLšePos™iÚ
+ {
+
+99 
+BÙtom
+(0), 
+Tİ
+(1);
+
+101 
+public
+ 
+fš®
+ 
+	gv®ue
+;
+
+103 
+´iv©e
+ 
+LšePos™iÚ
+(
+v®ue
+) {
+
+104 
+	gthis
+.
+	gv®ue
+ = 
+v®ue
+;
+
+107 
+public
+ 
+LšePos™iÚ
+ 
+äomV®ue
+(
+v®ue
+) {
+
+108 
+LšePos™iÚ
+ 
+	gpos™iÚ
+ : LšePos™iÚ.
+v®ues
+()) {
+
+109 ià(
+pos™iÚ
+.
+v®ue
+ == value) {
+
+110  
+pos™iÚ
+;
+
+113  
+	gnuÎ
+;
+
+117 
+´iv©e
+ 
+V›wPag”
+ 
+	gmV›wPag”
+;
+
+118 
+´iv©e
+ 
+	gV›wPag”
+.
+OnPageChªgeLi¡’”
+ 
+	gmLi¡’”
+;
+
+119 
+´iv©e
+ 
+	gmCu¼’tPage
+ = -1;
+
+120 
+´iv©e
+ 
+	gmPageOff£t
+;
+
+121 
+´iv©e
+ 
+	gmSüŞlS‹
+;
+
+122 
+´iv©e
+ 
+fš®
+ 
+Pašt
+ 
+	gmPaštText
+ = 
+Ãw
+ Paint();
+
+123 
+´iv©e
+ 
+boŞ—n
+ 
+	gmBŞdText
+;
+
+124 
+´iv©e
+ 
+	gmCŞÜText
+;
+
+125 
+´iv©e
+ 
+	gmCŞÜS–eùed
+;
+
+126 
+´iv©e
+ 
+P©h
+ 
+	gmP©h
+ = 
+Ãw
+ Path();
+
+127 
+´iv©e
+ 
+fš®
+ 
+Reù
+ 
+	gmBounds
+ = 
+Ãw
+ Rect();
+
+128 
+´iv©e
+ 
+fš®
+ 
+Pašt
+ 
+	gmPaštFoÙ”Lše
+ = 
+Ãw
+ Paint();
+
+129 
+´iv©e
+ 
+IndiÿtÜStyË
+ 
+	gmFoÙ”IndiÿtÜStyË
+;
+
+130 
+´iv©e
+ 
+LšePos™iÚ
+ 
+	gmLšePos™iÚ
+;
+
+131 
+´iv©e
+ 
+fš®
+ 
+Pašt
+ 
+	gmPaštFoÙ”IndiÿtÜ
+ = 
+Ãw
+ Paint();
+
+132 
+´iv©e
+ 
+	gmFoÙ”IndiÿtÜHeight
+;
+
+133 
+´iv©e
+ 
+	gmFoÙ”IndiÿtÜUnd”lšePaddšg
+;
+
+134 
+´iv©e
+ 
+	gmFoÙ”Paddšg
+;
+
+135 
+´iv©e
+ 
+	gmT™ËPaddšg
+;
+
+136 
+´iv©e
+ 
+	gmTİPaddšg
+;
+
+138 
+´iv©e
+ 
+	gmClPaddšg
+;
+
+139 
+´iv©e
+ 
+	gmFoÙ”LšeHeight
+;
+
+141 
+´iv©e
+ 
+fš®
+ 
+	gINVALID_POINTER
+ = -1;
+
+143 
+´iv©e
+ 
+	gmTouchSlİ
+;
+
+144 
+´iv©e
+ 
+	gmLa¡MÙiÚX
+ = -1;
+
+145 
+´iv©e
+ 
+	gmAùivePoš‹rId
+ = 
+INVALID_POINTER
+;
+
+146 
+´iv©e
+ 
+boŞ—n
+ 
+	gmIsD¿ggšg
+;
+
+148 
+´iv©e
+ 
+OnC’‹rI‹mClickLi¡’”
+ 
+	gmC’‹rI‹mClickLi¡’”
+;
+
+151 
+public
+ 
+	$T™ËPageIndiÿtÜ
+(
+CÚ‹xt
+ 
+cÚ‹xt
+) {
+
+152 
+	`this
+(
+cÚ‹xt
+, 
+nuÎ
+);
+
+153 
+	}
+}
+
+155 
+public
+ 
+	$T™ËPageIndiÿtÜ
+(
+CÚ‹xt
+ 
+cÚ‹xt
+, 
+A‰ribu‹S‘
+ 
+©Œs
+) {
+
+156 
+	`this
+(
+cÚ‹xt
+, 
+©Œs
+, 
+R
+.
+©Œ
+.
+vpiT™ËPageIndiÿtÜStyË
+);
+
+157 
+	}
+}
+
+159 
+public
+ 
+	$T™ËPageIndiÿtÜ
+(
+CÚ‹xt
+ 
+cÚ‹xt
+, 
+A‰ribu‹S‘
+ 
+©Œs
+, 
+defStyË
+) {
+
+160 
+	`su³r
+(
+cÚ‹xt
+, 
+©Œs
+, 
+defStyË
+);
+
+161 ià(
+	`isInEd™Mode
+()) ;
+
+164 
+fš®
+ 
+Resourûs
+ 
+»s
+ = 
+	`g‘Resourûs
+();
+
+165 
+fš®
+ 
+deçuÉFoÙ”CŞÜ
+ = 
+»s
+.
+	`g‘CŞÜ
+(
+R
+.
+cŞÜ
+.
+deçuÉ_t™Ë_šdiÿtÜ_foÙ”_cŞÜ
+);
+
+166 
+fš®
+ 
+deçuÉFoÙ”LšeHeight
+ = 
+»s
+.
+	`g‘Dim’siÚ
+(
+R
+.
+dim’
+.
+deçuÉ_t™Ë_šdiÿtÜ_foÙ”_lše_height
+);
+
+167 
+fš®
+ 
+deçuÉFoÙ”IndiÿtÜStyË
+ = 
+»s
+.
+	`g‘IÁeg”
+(
+R
+.
+š‹g”
+.
+deçuÉ_t™Ë_šdiÿtÜ_foÙ”_šdiÿtÜ_¡yË
+);
+
+168 
+fš®
+ 
+deçuÉFoÙ”IndiÿtÜHeight
+ = 
+»s
+.
+	`g‘Dim’siÚ
+(
+R
+.
+dim’
+.
+deçuÉ_t™Ë_šdiÿtÜ_foÙ”_šdiÿtÜ_height
+);
+
+169 
+fš®
+ 
+deçuÉFoÙ”IndiÿtÜUnd”lšePaddšg
+ = 
+»s
+.
+	`g‘Dim’siÚ
+(
+R
+.
+dim’
+.
+deçuÉ_t™Ë_šdiÿtÜ_foÙ”_šdiÿtÜ_und”lše_·ddšg
+);
+
+170 
+fš®
+ 
+deçuÉFoÙ”Paddšg
+ = 
+»s
+.
+	`g‘Dim’siÚ
+(
+R
+.
+dim’
+.
+deçuÉ_t™Ë_šdiÿtÜ_foÙ”_·ddšg
+);
+
+171 
+fš®
+ 
+deçuÉLšePos™iÚ
+ = 
+»s
+.
+	`g‘IÁeg”
+(
+R
+.
+š‹g”
+.
+deçuÉ_t™Ë_šdiÿtÜ_lše_pos™iÚ
+);
+
+172 
+fš®
+ 
+deçuÉS–eùedCŞÜ
+ = 
+»s
+.
+	`g‘CŞÜ
+(
+R
+.
+cŞÜ
+.
+deçuÉ_t™Ë_šdiÿtÜ_£Ëùed_cŞÜ
+);
+
+173 
+fš®
+ 
+boŞ—n
+ 
+deçuÉS–eùedBŞd
+ = 
+»s
+.
+	`g‘BoŞ—n
+(
+R
+.
+boŞ
+.
+deçuÉ_t™Ë_šdiÿtÜ_£Ëùed_bŞd
+);
+
+174 
+fš®
+ 
+deçuÉTextCŞÜ
+ = 
+»s
+.
+	`g‘CŞÜ
+(
+R
+.
+cŞÜ
+.
+deçuÉ_t™Ë_šdiÿtÜ_‹xt_cŞÜ
+);
+
+175 
+fš®
+ 
+deçuÉTextSize
+ = 
+»s
+.
+	`g‘Dim’siÚ
+(
+R
+.
+dim’
+.
+deçuÉ_t™Ë_šdiÿtÜ_‹xt_size
+);
+
+176 
+fš®
+ 
+deçuÉT™ËPaddšg
+ = 
+»s
+.
+	`g‘Dim’siÚ
+(
+R
+.
+dim’
+.
+deçuÉ_t™Ë_šdiÿtÜ_t™Ë_·ddšg
+);
+
+177 
+fš®
+ 
+deçuÉClPaddšg
+ = 
+»s
+.
+	`g‘Dim’siÚ
+(
+R
+.
+dim’
+.
+deçuÉ_t™Ë_šdiÿtÜ_ş_·ddšg
+);
+
+178 
+fš®
+ 
+deçuÉTİPaddšg
+ = 
+»s
+.
+	`g‘Dim’siÚ
+(
+R
+.
+dim’
+.
+deçuÉ_t™Ë_šdiÿtÜ_tİ_·ddšg
+);
+
+181 
+Ty³dA¼ay
+ 
+a
+ = 
+cÚ‹xt
+.
+	`obšStyËdA‰ribu‹s
+(
+©Œs
+, 
+R
+.
+¡yËabË
+.
+T™ËPageIndiÿtÜ
+, 
+defStyË
+, 0);
+
+184 
+mFoÙ”LšeHeight
+ = 
+a
+.
+	`g‘Dim’siÚ
+(
+R
+.
+¡yËabË
+.
+T™ËPageIndiÿtÜ_foÙ”LšeHeight
+, 
+deçuÉFoÙ”LšeHeight
+);
+
+185 
+mFoÙ”IndiÿtÜStyË
+ = 
+IndiÿtÜStyË
+.
+	`äomV®ue
+(
+a
+.
+	`g‘IÁeg”
+(
+R
+.
+¡yËabË
+.
+T™ËPageIndiÿtÜ_foÙ”IndiÿtÜStyË
+, 
+deçuÉFoÙ”IndiÿtÜStyË
+));
+
+186 
+mFoÙ”IndiÿtÜHeight
+ = 
+a
+.
+	`g‘Dim’siÚ
+(
+R
+.
+¡yËabË
+.
+T™ËPageIndiÿtÜ_foÙ”IndiÿtÜHeight
+, 
+deçuÉFoÙ”IndiÿtÜHeight
+);
+
+187 
+mFoÙ”IndiÿtÜUnd”lšePaddšg
+ = 
+a
+.
+	`g‘Dim’siÚ
+(
+R
+.
+¡yËabË
+.
+T™ËPageIndiÿtÜ_foÙ”IndiÿtÜUnd”lšePaddšg
+, 
+deçuÉFoÙ”IndiÿtÜUnd”lšePaddšg
+);
+
+188 
+mFoÙ”Paddšg
+ = 
+a
+.
+	`g‘Dim’siÚ
+(
+R
+.
+¡yËabË
+.
+T™ËPageIndiÿtÜ_foÙ”Paddšg
+, 
+deçuÉFoÙ”Paddšg
+);
+
+189 
+mLšePos™iÚ
+ = 
+LšePos™iÚ
+.
+	`äomV®ue
+(
+a
+.
+	`g‘IÁeg”
+(
+R
+.
+¡yËabË
+.
+T™ËPageIndiÿtÜ_lšePos™iÚ
+, 
+deçuÉLšePos™iÚ
+));
+
+190 
+mTİPaddšg
+ = 
+a
+.
+	`g‘Dim’siÚ
+(
+R
+.
+¡yËabË
+.
+T™ËPageIndiÿtÜ_tİPaddšg
+, 
+deçuÉTİPaddšg
+);
+
+191 
+mT™ËPaddšg
+ = 
+a
+.
+	`g‘Dim’siÚ
+(
+R
+.
+¡yËabË
+.
+T™ËPageIndiÿtÜ_t™ËPaddšg
+, 
+deçuÉT™ËPaddšg
+);
+
+192 
+mClPaddšg
+ = 
+a
+.
+	`g‘Dim’siÚ
+(
+R
+.
+¡yËabË
+.
+T™ËPageIndiÿtÜ_şPaddšg
+, 
+deçuÉClPaddšg
+);
+
+193 
+mCŞÜS–eùed
+ = 
+a
+.
+	`g‘CŞÜ
+(
+R
+.
+¡yËabË
+.
+T™ËPageIndiÿtÜ_£ËùedCŞÜ
+, 
+deçuÉS–eùedCŞÜ
+);
+
+194 
+mCŞÜText
+ = 
+a
+.
+	`g‘CŞÜ
+(
+R
+.
+¡yËabË
+.
+T™ËPageIndiÿtÜ_ªdroid_‹xtCŞÜ
+, 
+deçuÉTextCŞÜ
+);
+
+195 
+mBŞdText
+ = 
+a
+.
+	`g‘BoŞ—n
+(
+R
+.
+¡yËabË
+.
+T™ËPageIndiÿtÜ_£ËùedBŞd
+, 
+deçuÉS–eùedBŞd
+);
+
+197 
+fš®
+ 
+‹xtSize
+ = 
+a
+.
+	`g‘Dim’siÚ
+(
+R
+.
+¡yËabË
+.
+T™ËPageIndiÿtÜ_ªdroid_‹xtSize
+, 
+deçuÉTextSize
+);
+
+198 
+fš®
+ 
+foÙ”CŞÜ
+ = 
+a
+.
+	`g‘CŞÜ
+(
+R
+.
+¡yËabË
+.
+T™ËPageIndiÿtÜ_foÙ”CŞÜ
+, 
+deçuÉFoÙ”CŞÜ
+);
+
+199 
+mPaštText
+.
+	`£tTextSize
+(
+‹xtSize
+);
+
+200 
+mPaštText
+.
+	`£tAÁiAlŸs
+(
+Œue
+);
+
+201 
+mPaštFoÙ”Lše
+.
+	`£tStyË
+(
+Pašt
+.
+StyË
+.
+FILL_AND_STROKE
+);
+
+202 
+mPaštFoÙ”Lše
+.
+	`£tSŒokeWidth
+(
+mFoÙ”LšeHeight
+);
+
+203 
+mPaštFoÙ”Lše
+.
+	`£tCŞÜ
+(
+foÙ”CŞÜ
+);
+
+204 
+mPaštFoÙ”IndiÿtÜ
+.
+	`£tStyË
+(
+Pašt
+.
+StyË
+.
+FILL_AND_STROKE
+);
+
+205 
+mPaštFoÙ”IndiÿtÜ
+.
+	`£tCŞÜ
+(
+foÙ”CŞÜ
+);
+
+207 
+D¿wabË
+ 
+background
+ = 
+a
+.
+	`g‘D¿wabË
+(
+R
+.
+¡yËabË
+.
+T™ËPageIndiÿtÜ_ªdroid_background
+);
+
+208 ià(
+background
+ !ğ
+nuÎ
+) {
+
+209 
+	`£tBackgroundD¿wabË
+(
+background
+);
+
+212 
+a
+.
+	`»cyşe
+();
+
+214 
+fš®
+ 
+V›wCÚfigu¿tiÚ
+ 
+cÚfigu¿tiÚ
+ = V›wCÚfigu¿tiÚ.
+	`g‘
+(
+cÚ‹xt
+);
+
+215 
+mTouchSlİ
+ = 
+V›wCÚfigu¿tiÚCom·t
+.
+	`g‘SÿËdPagšgTouchSlİ
+(
+cÚfigu¿tiÚ
+);
+
+216 
+	}
+}
+
+219 
+public
+ 
+	$g‘FoÙ”CŞÜ
+() {
+
+220  
+mPaštFoÙ”Lše
+.
+	`g‘CŞÜ
+();
+
+221 
+	}
+}
+
+223 
+public
+ 
+	$£tFoÙ”CŞÜ
+(
+foÙ”CŞÜ
+) {
+
+224 
+mPaštFoÙ”Lše
+.
+	`£tCŞÜ
+(
+foÙ”CŞÜ
+);
+
+225 
+mPaštFoÙ”IndiÿtÜ
+.
+	`£tCŞÜ
+(
+foÙ”CŞÜ
+);
+
+226 
+	`šv®id©e
+();
+
+227 
+	}
+}
+
+229 
+public
+ 
+	$g‘FoÙ”LšeHeight
+() {
+
+230  
+mFoÙ”LšeHeight
+;
+
+231 
+	}
+}
+
+233 
+public
+ 
+	$£tFoÙ”LšeHeight
+(
+foÙ”LšeHeight
+) {
+
+234 
+mFoÙ”LšeHeight
+ = 
+foÙ”LšeHeight
+;
+
+235 
+mPaštFoÙ”Lše
+.
+	`£tSŒokeWidth
+(
+mFoÙ”LšeHeight
+);
+
+236 
+	`šv®id©e
+();
+
+237 
+	}
+}
+
+239 
+public
+ 
+	$g‘FoÙ”IndiÿtÜHeight
+() {
+
+240  
+mFoÙ”IndiÿtÜHeight
+;
+
+241 
+	}
+}
+
+243 
+public
+ 
+	$£tFoÙ”IndiÿtÜHeight
+(
+foÙ”TrŸngËHeight
+) {
+
+244 
+mFoÙ”IndiÿtÜHeight
+ = 
+foÙ”TrŸngËHeight
+;
+
+245 
+	`šv®id©e
+();
+
+246 
+	}
+}
+
+248 
+public
+ 
+	$g‘FoÙ”IndiÿtÜPaddšg
+() {
+
+249  
+mFoÙ”Paddšg
+;
+
+250 
+	}
+}
+
+252 
+public
+ 
+	$£tFoÙ”IndiÿtÜPaddšg
+(
+foÙ”IndiÿtÜPaddšg
+) {
+
+253 
+mFoÙ”Paddšg
+ = 
+foÙ”IndiÿtÜPaddšg
+;
+
+254 
+	`šv®id©e
+();
+
+255 
+	}
+}
+
+257 
+public
+ 
+IndiÿtÜStyË
+ 
+	$g‘FoÙ”IndiÿtÜStyË
+() {
+
+258  
+mFoÙ”IndiÿtÜStyË
+;
+
+259 
+	}
+}
+
+261 
+public
+ 
+	$£tFoÙ”IndiÿtÜStyË
+(
+IndiÿtÜStyË
+ 
+šdiÿtÜStyË
+) {
+
+262 
+mFoÙ”IndiÿtÜStyË
+ = 
+šdiÿtÜStyË
+;
+
+263 
+	`šv®id©e
+();
+
+264 
+	}
+}
+
+266 
+public
+ 
+LšePos™iÚ
+ 
+	$g‘LšePos™iÚ
+() {
+
+267  
+mLšePos™iÚ
+;
+
+268 
+	}
+}
+
+270 
+public
+ 
+	$£tLšePos™iÚ
+(
+LšePos™iÚ
+ 
+lšePos™iÚ
+) {
+
+271 
+mLšePos™iÚ
+ = 
+lšePos™iÚ
+;
+
+272 
+	`šv®id©e
+();
+
+273 
+	}
+}
+
+275 
+public
+ 
+	$g‘S–eùedCŞÜ
+() {
+
+276  
+mCŞÜS–eùed
+;
+
+277 
+	}
+}
+
+279 
+public
+ 
+	$£tS–eùedCŞÜ
+(
+£ËùedCŞÜ
+) {
+
+280 
+mCŞÜS–eùed
+ = 
+£ËùedCŞÜ
+;
+
+281 
+	`šv®id©e
+();
+
+282 
+	}
+}
+
+284 
+public
+ 
+boŞ—n
+ 
+	$isS–eùedBŞd
+() {
+
+285  
+mBŞdText
+;
+
+286 
+	}
+}
+
+288 
+public
+ 
+	$£tS–eùedBŞd
+(
+boŞ—n
+ 
+£ËùedBŞd
+) {
+
+289 
+mBŞdText
+ = 
+£ËùedBŞd
+;
+
+290 
+	`šv®id©e
+();
+
+291 
+	}
+}
+
+293 
+public
+ 
+	$g‘TextCŞÜ
+() {
+
+294  
+mCŞÜText
+;
+
+295 
+	}
+}
+
+297 
+public
+ 
+	$£tTextCŞÜ
+(
+‹xtCŞÜ
+) {
+
+298 
+mPaštText
+.
+	`£tCŞÜ
+(
+‹xtCŞÜ
+);
+
+299 
+mCŞÜText
+ = 
+‹xtCŞÜ
+;
+
+300 
+	`šv®id©e
+();
+
+301 
+	}
+}
+
+303 
+public
+ 
+	$g‘TextSize
+() {
+
+304  
+mPaštText
+.
+	`g‘TextSize
+();
+
+305 
+	}
+}
+
+307 
+public
+ 
+	$£tTextSize
+(
+‹xtSize
+) {
+
+308 
+mPaštText
+.
+	`£tTextSize
+(
+‹xtSize
+);
+
+309 
+	`šv®id©e
+();
+
+310 
+	}
+}
+
+312 
+public
+ 
+	$g‘T™ËPaddšg
+() {
+
+313  
+this
+.
+mT™ËPaddšg
+;
+
+314 
+	}
+}
+
+316 
+public
+ 
+	$£tT™ËPaddšg
+(
+t™ËPaddšg
+) {
+
+317 
+mT™ËPaddšg
+ = 
+t™ËPaddšg
+;
+
+318 
+	`šv®id©e
+();
+
+319 
+	}
+}
+
+321 
+public
+ 
+	$g‘TİPaddšg
+() {
+
+322  
+this
+.
+mTİPaddšg
+;
+
+323 
+	}
+}
+
+325 
+public
+ 
+	$£tTİPaddšg
+(
+tİPaddšg
+) {
+
+326 
+mTİPaddšg
+ = 
+tİPaddšg
+;
+
+327 
+	`šv®id©e
+();
+
+328 
+	}
+}
+
+330 
+public
+ 
+	$g‘ClPaddšg
+() {
+
+331  
+this
+.
+mClPaddšg
+;
+
+332 
+	}
+}
+
+334 
+public
+ 
+	$£tClPaddšg
+(
+şPaddšg
+) {
+
+335 
+mClPaddšg
+ = 
+şPaddšg
+;
+
+336 
+	`šv®id©e
+();
+
+337 
+	}
+}
+
+339 
+public
+ 
+	$£tTy³çû
+(
+Ty³çû
+ 
+ty³çû
+) {
+
+340 
+mPaštText
+.
+	`£tTy³çû
+(
+ty³çû
+);
+
+341 
+	`šv®id©e
+();
+
+342 
+	}
+}
+
+344 
+public
+ 
+Ty³çû
+ 
+	$g‘Ty³çû
+() {
+
+345  
+mPaštText
+.
+	`g‘Ty³çû
+();
+
+346 
+	}
+}
+
+353 @
+Ov”ride
+
+
+354 
+´Ùeùed
+ 
+	$ÚD¿w
+(
+Cªvas
+ 
+ÿnvas
+) {
+
+355 
+su³r
+.
+	`ÚD¿w
+(
+ÿnvas
+);
+
+357 ià(
+mV›wPag”
+ =ğ
+nuÎ
+) {
+
+360 
+fš®
+ 
+couÁ
+ = 
+mV›wPag”
+.
+	`g‘Ad­‹r
+().
+	`g‘CouÁ
+();
+
+361 ià(
+couÁ
+ == 0) {
+
+366 ià(
+mCu¼’tPage
+ =ğ-1 && 
+mV›wPag”
+ !ğ
+nuÎ
+) {
+
+367 
+mCu¼’tPage
+ = 
+mV›wPag”
+.
+	`g‘Cu¼’tI‹m
+();
+
+371 
+A¼ayLi¡
+<
+Reù
+> 
+bounds
+ = 
+	`ÿlcuÏ‹AÎBounds
+(
+mPaštText
+);
+
+372 
+fš®
+ 
+boundsSize
+ = 
+bounds
+.
+	`size
+();
+
+375 ià(
+mCu¼’tPage
+ >ğ
+boundsSize
+) {
+
+376 
+	`£tCu¼’tI‹m
+(
+boundsSize
+ - 1);
+
+380 
+fš®
+ 
+couÁMšusOÃ
+ = 
+couÁ
+ - 1;
+
+381 
+fš®
+ 
+h®fWidth
+ = 
+	`g‘Width
+() / 2f;
+
+382 
+fš®
+ 
+Ëá
+ = 
+	`g‘Leá
+();
+
+383 
+fš®
+ 
+ËáCl
+ = 
+Ëá
+ + 
+mClPaddšg
+;
+
+384 
+fš®
+ 
+width
+ = 
+	`g‘Width
+();
+
+385 
+height
+ = 
+	`g‘Height
+();
+
+386 
+fš®
+ 
+right
+ = 
+Ëá
+ + 
+width
+;
+
+387 
+fš®
+ 
+rightCl
+ = 
+right
+ - 
+mClPaddšg
+;
+
+389 
+·ge
+ = 
+mCu¼’tPage
+;
+
+390 
+off£tP”ûÁ
+;
+
+391 ià(
+mPageOff£t
+ <= 0.5) {
+
+392 
+off£tP”ûÁ
+ = 
+mPageOff£t
+;
+
+394 
+·ge
+ += 1;
+
+395 
+off£tP”ûÁ
+ = 1 - 
+mPageOff£t
+;
+
+397 
+fš®
+ 
+boŞ—n
+ 
+cu¼’tS–eùed
+ = (
+off£tP”ûÁ
+ <ğ
+SELECTION_FADE_PERCENTAGE
+);
+
+398 
+fš®
+ 
+boŞ—n
+ 
+cu¼’tBŞd
+ = (
+off£tP”ûÁ
+ <ğ
+BOLD_FADE_PERCENTAGE
+);
+
+399 
+fš®
+ 
+£ËùedP”ûÁ
+ = (
+SELECTION_FADE_PERCENTAGE
+ - 
+off£tP”ûÁ
+) / SELECTION_FADE_PERCENTAGE;
+
+402 
+Reù
+ 
+curPageBound
+ = 
+bounds
+.
+	`g‘
+(
+mCu¼’tPage
+);
+
+403 
+curPageWidth
+ = 
+curPageBound
+.
+right
+ - curPageBound.
+Ëá
+;
+
+404 ià(
+curPageBound
+.
+Ëá
+ < 
+ËáCl
+) {
+
+406 
+	`şV›wOnTheLeá
+(
+curPageBound
+, 
+curPageWidth
+, 
+Ëá
+);
+
+408 ià(
+curPageBound
+.
+right
+ > 
+rightCl
+) {
+
+410 
+	`şV›wOnTheRight
+(
+curPageBound
+, 
+curPageWidth
+, 
+right
+);
+
+414 ià(
+mCu¼’tPage
+ > 0) {
+
+415 
+i
+ = 
+mCu¼’tPage
+ - 1; i >= 0; i--) {
+
+416 
+Reù
+ 
+bound
+ = 
+bounds
+.
+	`g‘
+(
+i
+);
+
+418 ià(
+bound
+.
+Ëá
+ < 
+ËáCl
+) {
+
+419 
+w
+ = 
+bound
+.
+right
+ - bound.
+Ëá
+;
+
+421 
+	`şV›wOnTheLeá
+(
+bound
+, 
+w
+, 
+Ëá
+);
+
+423 
+Reù
+ 
+rightBound
+ = 
+bounds
+.
+	`g‘
+(
+i
+ + 1);
+
+425 ià(
+bound
+.
+right
+ + 
+mT™ËPaddšg
+ > 
+rightBound
+.
+Ëá
+) {
+
+426 
+bound
+.
+Ëá
+ = (è(
+rightBound
+.Ëá - 
+w
+ - 
+mT™ËPaddšg
+);
+
+427 
+bound
+.
+right
+ = bound.
+Ëá
+ + 
+w
+;
+
+433 ià(
+mCu¼’tPage
+ < 
+couÁMšusOÃ
+) {
+
+434 
+i
+ = 
+mCu¼’tPage
+ + 1 ; i < 
+couÁ
+; i++) {
+
+435 
+Reù
+ 
+bound
+ = 
+bounds
+.
+	`g‘
+(
+i
+);
+
+437 ià(
+bound
+.
+right
+ > 
+rightCl
+) {
+
+438 
+w
+ = 
+bound
+.
+right
+ - bound.
+Ëá
+;
+
+440 
+	`şV›wOnTheRight
+(
+bound
+, 
+w
+, 
+right
+);
+
+442 
+Reù
+ 
+ËáBound
+ = 
+bounds
+.
+	`g‘
+(
+i
+ - 1);
+
+444 ià(
+bound
+.
+Ëá
+ - 
+mT™ËPaddšg
+ < 
+ËáBound
+.
+right
+) {
+
+445 
+bound
+.
+Ëá
+ = (è(
+ËáBound
+.
+right
+ + 
+mT™ËPaddšg
+);
+
+446 
+bound
+.
+right
+ = bound.
+Ëá
+ + 
+w
+;
+
+453 
+cŞÜTextAÍha
+ = 
+mCŞÜText
+ >>> 24;
+
+454 
+i
+ = 0; i < 
+couÁ
+; i++) {
+
+456 
+Reù
+ 
+bound
+ = 
+bounds
+.
+	`g‘
+(
+i
+);
+
+458 ià((
+bound
+.
+Ëá
+ >†eá && bound.Ëá < 
+right
+) || (bound.right >†eft && bound.right <„ight)) {
+
+459 
+fš®
+ 
+boŞ—n
+ 
+cu¼’tPage
+ = (
+i
+ =ğ
+·ge
+);
+
+460 
+fš®
+ 
+Ch¬Sequ’û
+ 
+·geT™Ë
+ = 
+	`g‘T™Ë
+(
+i
+);
+
+463 
+mPaštText
+.
+	`£tFakeBŞdText
+(
+cu¼’tPage
+ && 
+cu¼’tBŞd
+ && 
+mBŞdText
+);
+
+466 
+mPaštText
+.
+	`£tCŞÜ
+(
+mCŞÜText
+);
+
+467 if(
+cu¼’tPage
+ && 
+cu¼’tS–eùed
+) {
+
+469 
+mPaštText
+.
+	`£tAÍha
+(
+cŞÜTextAÍha
+ - ()(cŞÜTextAÍh¨* 
+£ËùedP”ûÁ
+));
+
+473 ià(
+i
+ < 
+boundsSize
+ - 1) {
+
+474 
+Reù
+ 
+rightBound
+ = 
+bounds
+.
+	`g‘
+(
+i
+ + 1);
+
+476 ià(
+bound
+.
+right
+ + 
+mT™ËPaddšg
+ > 
+rightBound
+.
+Ëá
+) {
+
+477 
+w
+ = 
+bound
+.
+right
+ - bound.
+Ëá
+;
+
+478 
+bound
+.
+Ëá
+ = (è(
+rightBound
+.Ëá - 
+w
+ - 
+mT™ËPaddšg
+);
+
+479 
+bound
+.
+right
+ = bound.
+Ëá
+ + 
+w
+;
+
+482 
+ÿnvas
+.
+	`d¿wText
+(
+·geT™Ë
+, 0,…ageT™Ë.
+	`Ëngth
+(), 
+bound
+.
+Ëá
+, bound.
+bÙtom
+ + 
+mTİPaddšg
+, 
+mPaštText
+);
+
+485 ià(
+cu¼’tPage
+ && 
+cu¼’tS–eùed
+) {
+
+486 
+mPaštText
+.
+	`£tCŞÜ
+(
+mCŞÜS–eùed
+);
+
+487 
+mPaštText
+.
+	`£tAÍha
+(()((
+mCŞÜS–eùed
+ >>> 24è* 
+£ËùedP”ûÁ
+));
+
+488 
+ÿnvas
+.
+	`d¿wText
+(
+·geT™Ë
+, 0,…ageT™Ë.
+	`Ëngth
+(), 
+bound
+.
+Ëá
+, bound.
+bÙtom
+ + 
+mTİPaddšg
+, 
+mPaštText
+);
+
+494 
+foÙ”LšeHeight
+ = 
+mFoÙ”LšeHeight
+;
+
+495 
+foÙ”IndiÿtÜLšeHeight
+ = 
+mFoÙ”IndiÿtÜHeight
+;
+
+496 ià(
+mLšePos™iÚ
+ =ğ
+LšePos™iÚ
+.
+Tİ
+) {
+
+497 
+height
+ = 0;
+
+498 
+foÙ”LšeHeight
+ = -footerLineHeight;
+
+499 
+foÙ”IndiÿtÜLšeHeight
+ = -footerIndicatorLineHeight;
+
+503 
+mP©h
+.
+	`»£t
+();
+
+504 
+mP©h
+.
+	`moveTo
+(0, 
+height
+ - 
+foÙ”LšeHeight
+ / 2f);
+
+505 
+mP©h
+.
+	`lšeTo
+(
+width
+, 
+height
+ - 
+foÙ”LšeHeight
+ / 2f);
+
+506 
+mP©h
+.
+	`şo£
+();
+
+507 
+ÿnvas
+.
+	`d¿wP©h
+(
+mP©h
+, 
+mPaštFoÙ”Lše
+);
+
+509 
+heightMšusLše
+ = 
+height
+ - 
+foÙ”LšeHeight
+;
+
+510 
+mFoÙ”IndiÿtÜStyË
+) {
+
+511 
+TrŸngË
+:
+
+512 
+mP©h
+.
+	`»£t
+();
+
+513 
+mP©h
+.
+	`moveTo
+(
+h®fWidth
+, 
+heightMšusLše
+ - 
+foÙ”IndiÿtÜLšeHeight
+);
+
+514 
+mP©h
+.
+	`lšeTo
+(
+h®fWidth
+ + 
+foÙ”IndiÿtÜLšeHeight
+, 
+heightMšusLše
+);
+
+515 
+mP©h
+.
+	`lšeTo
+(
+h®fWidth
+ - 
+foÙ”IndiÿtÜLšeHeight
+, 
+heightMšusLše
+);
+
+516 
+mP©h
+.
+	`şo£
+();
+
+517 
+ÿnvas
+.
+	`d¿wP©h
+(
+mP©h
+, 
+mPaštFoÙ”IndiÿtÜ
+);
+
+520 
+Und”lše
+:
+
+521 ià(!
+cu¼’tS–eùed
+ || 
+·ge
+ >ğ
+boundsSize
+) {
+
+525 
+Reù
+ 
+und”lšeBounds
+ = 
+bounds
+.
+	`g‘
+(
+·ge
+);
+
+526 
+fš®
+ 
+rightPlusPaddšg
+ = 
+und”lšeBounds
+.
+right
+ + 
+mFoÙ”IndiÿtÜUnd”lšePaddšg
+;
+
+527 
+fš®
+ 
+ËáMšusPaddšg
+ = 
+und”lšeBounds
+.
+Ëá
+ - 
+mFoÙ”IndiÿtÜUnd”lšePaddšg
+;
+
+528 
+fš®
+ 
+heightMšusLšeMšusIndiÿtÜ
+ = 
+heightMšusLše
+ - 
+foÙ”IndiÿtÜLšeHeight
+;
+
+530 
+mP©h
+.
+	`»£t
+();
+
+531 
+mP©h
+.
+	`moveTo
+(
+ËáMšusPaddšg
+, 
+heightMšusLše
+);
+
+532 
+mP©h
+.
+	`lšeTo
+(
+rightPlusPaddšg
+, 
+heightMšusLše
+);
+
+533 
+mP©h
+.
+	`lšeTo
+(
+rightPlusPaddšg
+, 
+heightMšusLšeMšusIndiÿtÜ
+);
+
+534 
+mP©h
+.
+	`lšeTo
+(
+ËáMšusPaddšg
+, 
+heightMšusLšeMšusIndiÿtÜ
+);
+
+535 
+mP©h
+.
+	`şo£
+();
+
+537 
+mPaštFoÙ”IndiÿtÜ
+.
+	`£tAÍha
+(()(0xFF * 
+£ËùedP”ûÁ
+));
+
+538 
+ÿnvas
+.
+	`d¿wP©h
+(
+mP©h
+, 
+mPaštFoÙ”IndiÿtÜ
+);
+
+539 
+mPaštFoÙ”IndiÿtÜ
+.
+	`£tAÍha
+(0xFF);
+
+542 
+	}
+}
+
+544 
+public
+ 
+boŞ—n
+ 
+	$ÚTouchEv’t
+(
+ªdroid
+.
+v›w
+.
+MÙiÚEv’t
+ 
+ev
+) {
+
+545 ià(
+su³r
+.
+	`ÚTouchEv’t
+(
+ev
+)) {
+
+546  
+Œue
+;
+
+548 ià((
+mV›wPag”
+ =ğ
+nuÎ
+è|| (mV›wPag”.
+	`g‘Ad­‹r
+().
+	`g‘CouÁ
+() == 0)) {
+
+549  
+çl£
+;
+
+552 
+fš®
+ 
+aùiÚ
+ = 
+ev
+.
+	`g‘AùiÚ
+(è& 
+MÙiÚEv’tCom·t
+.
+ACTION_MASK
+;
+
+553 
+aùiÚ
+) {
+
+554 
+MÙiÚEv’t
+.
+ACTION_DOWN
+:
+
+555 
+mAùivePoš‹rId
+ = 
+MÙiÚEv’tCom·t
+.
+	`g‘Poš‹rId
+(
+ev
+, 0);
+
+556 
+mLa¡MÙiÚX
+ = 
+ev
+.
+	`g‘X
+();
+
+559 
+MÙiÚEv’t
+.
+ACTION_MOVE
+: {
+
+560 
+fš®
+ 
+aùivePoš‹rIndex
+ = 
+MÙiÚEv’tCom·t
+.
+	`fšdPoš‹rIndex
+(
+ev
+, 
+mAùivePoš‹rId
+);
+
+561 
+fš®
+ 
+x
+ = 
+MÙiÚEv’tCom·t
+.
+	`g‘X
+(
+ev
+, 
+aùivePoš‹rIndex
+);
+
+562 
+fš®
+ 
+d–X
+ = 
+x
+ - 
+mLa¡MÙiÚX
+;
+
+564 ià(!
+mIsD¿ggšg
+) {
+
+565 ià(
+M©h
+.
+	`abs
+(
+d–X
+è> 
+mTouchSlİ
+) {
+
+566 
+mIsD¿ggšg
+ = 
+Œue
+;
+
+570 ià(
+mIsD¿ggšg
+) {
+
+571 
+mLa¡MÙiÚX
+ = 
+x
+;
+
+572 ià(
+mV›wPag”
+.
+	`isFakeD¿ggšg
+(è|| mV›wPag”.
+	`begšFakeD¿g
+()) {
+
+573 
+mV›wPag”
+.
+	`çkeD¿gBy
+(
+d–X
+);
+
+580 
+MÙiÚEv’t
+.
+ACTION_CANCEL
+:
+
+581 
+MÙiÚEv’t
+.
+ACTION_UP
+:
+
+582 ià(!
+mIsD¿ggšg
+) {
+
+583 
+fš®
+ 
+couÁ
+ = 
+mV›wPag”
+.
+	`g‘Ad­‹r
+().
+	`g‘CouÁ
+();
+
+584 
+fš®
+ 
+width
+ = 
+	`g‘Width
+();
+
+585 
+fš®
+ 
+h®fWidth
+ = 
+width
+ / 2f;
+
+586 
+fš®
+ 
+sixthWidth
+ = 
+width
+ / 6f;
+
+587 
+fš®
+ 
+ËáThœd
+ = 
+h®fWidth
+ - 
+sixthWidth
+;
+
+588 
+fš®
+ 
+rightThœd
+ = 
+h®fWidth
+ + 
+sixthWidth
+;
+
+589 
+fš®
+ 
+ev’tX
+ = 
+ev
+.
+	`g‘X
+();
+
+591 ià(
+ev’tX
+ < 
+ËáThœd
+) {
+
+592 ià(
+mCu¼’tPage
+ > 0) {
+
+593 ià(
+aùiÚ
+ !ğ
+MÙiÚEv’t
+.
+ACTION_CANCEL
+) {
+
+594 
+mV›wPag”
+.
+	`£tCu¼’tI‹m
+(
+mCu¼’tPage
+ - 1);
+
+596  
+Œue
+;
+
+598 } ià(
+ev’tX
+ > 
+rightThœd
+) {
+
+599 ià(
+mCu¼’tPage
+ < 
+couÁ
+ - 1) {
+
+600 ià(
+aùiÚ
+ !ğ
+MÙiÚEv’t
+.
+ACTION_CANCEL
+) {
+
+601 
+mV›wPag”
+.
+	`£tCu¼’tI‹m
+(
+mCu¼’tPage
+ + 1);
+
+603  
+Œue
+;
+
+607 ià(
+mC’‹rI‹mClickLi¡’”
+ !ğ
+nuÎ
+ && 
+aùiÚ
+ !ğ
+MÙiÚEv’t
+.
+ACTION_CANCEL
+) {
+
+608 
+mC’‹rI‹mClickLi¡’”
+.
+	`ÚC’‹rI‹mClick
+(
+mCu¼’tPage
+);
+
+613 
+mIsD¿ggšg
+ = 
+çl£
+;
+
+614 
+mAùivePoš‹rId
+ = 
+INVALID_POINTER
+;
+
+615 ià(
+mV›wPag”
+.
+	`isFakeD¿ggšg
+()èmV›wPag”.
+	`’dFakeD¿g
+();
+
+618 
+MÙiÚEv’tCom·t
+.
+ACTION_POINTER_DOWN
+: {
+
+619 
+fš®
+ 
+šdex
+ = 
+MÙiÚEv’tCom·t
+.
+	`g‘AùiÚIndex
+(
+ev
+);
+
+620 
+mLa¡MÙiÚX
+ = 
+MÙiÚEv’tCom·t
+.
+	`g‘X
+(
+ev
+, 
+šdex
+);
+
+621 
+mAùivePoš‹rId
+ = 
+MÙiÚEv’tCom·t
+.
+	`g‘Poš‹rId
+(
+ev
+, 
+šdex
+);
+
+625 
+MÙiÚEv’tCom·t
+.
+ACTION_POINTER_UP
+:
+
+626 
+fš®
+ 
+poš‹rIndex
+ = 
+MÙiÚEv’tCom·t
+.
+	`g‘AùiÚIndex
+(
+ev
+);
+
+627 
+fš®
+ 
+poš‹rId
+ = 
+MÙiÚEv’tCom·t
+.
+	`g‘Poš‹rId
+(
+ev
+, 
+poš‹rIndex
+);
+
+628 ià(
+poš‹rId
+ =ğ
+mAùivePoš‹rId
+) {
+
+629 
+fš®
+ 
+ÃwPoš‹rIndex
+ = 
+poš‹rIndex
+ == 0 ? 1 : 0;
+
+630 
+mAùivePoš‹rId
+ = 
+MÙiÚEv’tCom·t
+.
+	`g‘Poš‹rId
+(
+ev
+, 
+ÃwPoš‹rIndex
+);
+
+632 
+mLa¡MÙiÚX
+ = 
+MÙiÚEv’tCom·t
+.
+	`g‘X
+(
+ev
+, MÙiÚEv’tCom·t.
+	`fšdPoš‹rIndex
+Óv, 
+mAùivePoš‹rId
+));
+
+636  
+Œue
+;
+
+637 
+	}
+}
+
+647 
+´iv©e
+ 
+	$şV›wOnTheRight
+(
+Reù
+ 
+curV›wBound
+, 
+curV›wWidth
+, 
+right
+) {
+
+648 
+curV›wBound
+.
+right
+ = (èÔighˆ- 
+mClPaddšg
+);
+
+649 
+curV›wBound
+.
+Ëá
+ = (è(curV›wBound.
+right
+ - 
+curV›wWidth
+);
+
+650 
+	}
+}
+
+660 
+´iv©e
+ 
+	$şV›wOnTheLeá
+(
+Reù
+ 
+curV›wBound
+, 
+curV›wWidth
+, 
+Ëá
+) {
+
+661 
+curV›wBound
+.
+Ëá
+ = (èÖeá + 
+mClPaddšg
+);
+
+662 
+curV›wBound
+.
+right
+ = (è(
+mClPaddšg
+ + 
+curV›wWidth
+);
+
+663 
+	}
+}
+
+671 
+´iv©e
+ 
+	gA¼ayLi¡
+<
+	gReù
+> 
+	$ÿlcuÏ‹AÎBounds
+(
+Pašt
+ 
+·št
+) {
+
+672 
+A¼ayLi¡
+<
+Reù
+> 
+li¡
+ = 
+Ãw
+ ArrayList<Rect>();
+
+674 
+fš®
+ 
+couÁ
+ = 
+mV›wPag”
+.
+	`g‘Ad­‹r
+().
+	`g‘CouÁ
+();
+
+675 
+fš®
+ 
+width
+ = 
+	`g‘Width
+();
+
+676 
+fš®
+ 
+h®fWidth
+ = 
+width
+ / 2;
+
+677 
+i
+ = 0; i < 
+couÁ
+; i++) {
+
+678 
+Reù
+ 
+bounds
+ = 
+	`ÿlcBounds
+(
+i
+, 
+·št
+);
+
+679 
+w
+ = 
+bounds
+.
+right
+ - bounds.
+Ëá
+;
+
+680 
+h
+ = 
+bounds
+.
+bÙtom
+ - bounds.
+tİ
+;
+
+681 
+bounds
+.
+Ëá
+ = ()(
+h®fWidth
+ - (
+w
+ / 2fè+ ((
+i
+ - 
+mCu¼’tPage
+ - 
+mPageOff£t
+è* 
+width
+));
+
+682 
+bounds
+.
+right
+ = bounds.
+Ëá
+ + 
+w
+;
+
+683 
+bounds
+.
+tİ
+ = 0;
+
+684 
+bounds
+.
+bÙtom
+ = 
+h
+;
+
+685 
+li¡
+.
+	`add
+(
+bounds
+);
+
+688  
+li¡
+;
+
+689 
+	}
+}
+
+698 
+´iv©e
+ 
+Reù
+ 
+	$ÿlcBounds
+(
+šdex
+, 
+Pašt
+ 
+·št
+) {
+
+700 
+Reù
+ 
+bounds
+ = 
+Ãw
+ 
+	`Reù
+();
+
+701 
+Ch¬Sequ’û
+ 
+t™Ë
+ = 
+	`g‘T™Ë
+(
+šdex
+);
+
+702 
+bounds
+.
+right
+ = (è
+·št
+.
+	`m—su»Text
+(
+t™Ë
+, 0,™Ë.
+	`Ëngth
+());
+
+703 
+bounds
+.
+bÙtom
+ = (è(
+·št
+.
+	`desûÁ
+(è-…ašt.
+	`asûÁ
+());
+
+704  
+bounds
+;
+
+705 
+	}
+}
+
+707 @
+Ov”ride
+
+
+708 
+public
+ 
+	$£tV›wPag”
+(
+V›wPag”
+ 
+v›w
+) {
+
+709 ià(
+mV›wPag”
+ =ğ
+v›w
+) {
+
+712 ià(
+mV›wPag”
+ !ğ
+nuÎ
+) {
+
+713 
+mV›wPag”
+.
+	`£tOnPageChªgeLi¡’”
+(
+nuÎ
+);
+
+715 ià(
+v›w
+.
+	`g‘Ad­‹r
+(è=ğ
+nuÎ
+) {
+
+716 
+throw
+ 
+Ãw
+ 
+	`IÎeg®S‹Exû±iÚ
+("ViewPager does‚ot have‡dapter instance.");
+
+718 
+mV›wPag”
+ = 
+v›w
+;
+
+719 
+mV›wPag”
+.
+	`£tOnPageChªgeLi¡’”
+(
+this
+);
+
+720 
+	`šv®id©e
+();
+
+721 
+	}
+}
+
+723 @
+Ov”ride
+
+
+724 
+public
+ 
+	$£tV›wPag”
+(
+V›wPag”
+ 
+v›w
+, 
+š™ŸlPos™iÚ
+) {
+
+725 
+	`£tV›wPag”
+(
+v›w
+);
+
+726 
+	`£tCu¼’tI‹m
+(
+š™ŸlPos™iÚ
+);
+
+727 
+	}
+}
+
+729 @
+Ov”ride
+
+
+730 
+public
+ 
+	$nÙifyD©aS‘Chªged
+() {
+
+731 
+	`šv®id©e
+();
+
+732 
+	}
+}
+
+739 
+public
+ 
+	$£tOnC’‹rI‹mClickLi¡’”
+(
+OnC’‹rI‹mClickLi¡’”
+ 
+li¡’”
+) {
+
+740 
+mC’‹rI‹mClickLi¡’”
+ = 
+li¡’”
+;
+
+741 
+	}
+}
+
+743 @
+Ov”ride
+
+
+744 
+public
+ 
+	$£tCu¼’tI‹m
+(
+™em
+) {
+
+745 ià(
+mV›wPag”
+ =ğ
+nuÎ
+) {
+
+746 
+throw
+ 
+Ãw
+ 
+	`IÎeg®S‹Exû±iÚ
+("ViewPager has‚ot been bound.");
+
+748 
+mV›wPag”
+.
+	`£tCu¼’tI‹m
+(
+™em
+);
+
+749 
+mCu¼’tPage
+ = 
+™em
+;
+
+750 
+	`šv®id©e
+();
+
+751 
+	}
+}
+
+753 @
+Ov”ride
+
+
+754 
+public
+ 
+	$ÚPageSüŞlS‹Chªged
+(
+¡©e
+) {
+
+755 
+mSüŞlS‹
+ = 
+¡©e
+;
+
+757 ià(
+mLi¡’”
+ !ğ
+nuÎ
+) {
+
+758 
+mLi¡’”
+.
+	`ÚPageSüŞlS‹Chªged
+(
+¡©e
+);
+
+760 
+	}
+}
+
+762 @
+Ov”ride
+
+
+763 
+public
+ 
+	$ÚPageSüŞËd
+(
+pos™iÚ
+, 
+pos™iÚOff£t
+, 
+pos™iÚOff£tPix–s
+) {
+
+764 
+mCu¼’tPage
+ = 
+pos™iÚ
+;
+
+765 
+mPageOff£t
+ = 
+pos™iÚOff£t
+;
+
+766 
+	`šv®id©e
+();
+
+768 ià(
+mLi¡’”
+ !ğ
+nuÎ
+) {
+
+769 
+mLi¡’”
+.
+	`ÚPageSüŞËd
+(
+pos™iÚ
+, 
+pos™iÚOff£t
+, 
+pos™iÚOff£tPix–s
+);
+
+771 
+	}
+}
+
+773 @
+Ov”ride
+
+
+774 
+public
+ 
+	$ÚPageS–eùed
+(
+pos™iÚ
+) {
+
+775 ià(
+mSüŞlS‹
+ =ğ
+V›wPag”
+.
+SCROLL_STATE_IDLE
+) {
+
+776 
+mCu¼’tPage
+ = 
+pos™iÚ
+;
+
+777 
+	`šv®id©e
+();
+
+780 ià(
+mLi¡’”
+ !ğ
+nuÎ
+) {
+
+781 
+mLi¡’”
+.
+	`ÚPageS–eùed
+(
+pos™iÚ
+);
+
+783 
+	}
+}
+
+785 @
+Ov”ride
+
+
+786 
+public
+ 
+	$£tOnPageChªgeLi¡’”
+(
+V›wPag”
+.
+OnPageChªgeLi¡’”
+ 
+li¡’”
+) {
+
+787 
+mLi¡’”
+ = 
+li¡’”
+;
+
+788 
+	}
+}
+
+790 @
+Ov”ride
+
+
+791 
+´Ùeùed
+ 
+	$ÚM—su»
+(
+widthM—su»S³c
+, 
+heightM—su»S³c
+) {
+
+793 
+fš®
+ 
+m—su»dWidth
+ = 
+M—su»S³c
+.
+	`g‘Size
+(
+widthM—su»S³c
+);
+
+796 
+height
+;
+
+797 
+fš®
+ 
+heightS³cMode
+ = 
+M—su»S³c
+.
+	`g‘Mode
+(
+heightM—su»S³c
+);
+
+798 ià(
+heightS³cMode
+ =ğ
+M—su»S³c
+.
+EXACTLY
+) {
+
+800 
+height
+ = 
+M—su»S³c
+.
+	`g‘Size
+(
+heightM—su»S³c
+);
+
+803 
+mBounds
+.
+	`£tEm±y
+();
+
+804 
+mBounds
+.
+bÙtom
+ = (è(
+mPaštText
+.
+	`desûÁ
+(è- mPaštText.
+	`asûÁ
+());
+
+805 
+height
+ = 
+mBounds
+.
+bÙtom
+ - mBounds.
+tİ
+ + 
+mFoÙ”LšeHeight
+ + 
+mFoÙ”Paddšg
+ + 
+mTİPaddšg
+;
+
+806 ià(
+mFoÙ”IndiÿtÜStyË
+ !ğ
+IndiÿtÜStyË
+.
+NÚe
+) {
+
+807 
+height
+ +ğ
+mFoÙ”IndiÿtÜHeight
+;
+
+810 
+fš®
+ 
+m—su»dHeight
+ = ()
+height
+;
+
+812 
+	`£tM—su»dDim’siÚ
+(
+m—su»dWidth
+, 
+m—su»dHeight
+);
+
+813 
+	}
+}
+
+815 @
+Ov”ride
+
+
+816 
+public
+ 
+	$ÚRe¡ÜeIn¡ªûS‹
+(
+P¬ûÏbË
+ 
+¡©e
+) {
+
+817 
+SavedS‹
+ 
+§vedS‹
+ = (SavedS‹)
+¡©e
+;
+
+818 
+su³r
+.
+	`ÚRe¡ÜeIn¡ªûS‹
+(
+§vedS‹
+.
+	`g‘Su³rS‹
+());
+
+819 
+mCu¼’tPage
+ = 
+§vedS‹
+.
+cu¼’tPage
+;
+
+820 
+	`»que¡Layout
+();
+
+821 
+	}
+}
+
+823 @
+Ov”ride
+
+
+824 
+public
+ 
+P¬ûÏbË
+ 
+	$ÚSaveIn¡ªûS‹
+() {
+
+825 
+P¬ûÏbË
+ 
+su³rS‹
+ = 
+su³r
+.
+	`ÚSaveIn¡ªûS‹
+();
+
+826 
+SavedS‹
+ 
+§vedS‹
+ = 
+Ãw
+ 
+	`SavedS‹
+(
+su³rS‹
+);
+
+827 
+§vedS‹
+.
+cu¼’tPage
+ = 
+mCu¼’tPage
+;
+
+828  
+§vedS‹
+;
+
+829 
+	}
+}
+
+831 şas 
+	cSavedS‹
+ 
+ex‹nds
+ 
+	gBa£SavedS‹
+ {
+
+832 
+	gcu¼’tPage
+;
+
+834 
+public
+ 
+SavedS‹
+(
+P¬ûÏbË
+ 
+su³rS‹
+) {
+
+835 
+su³r
+(
+su³rS‹
+);
+
+838 
+´iv©e
+ 
+SavedS‹
+(
+P¬ûl
+ 
+š
+) {
+
+839 
+su³r
+(
+š
+);
+
+840 
+	gcu¼’tPage
+ = 
+š
+.
+»adIÁ
+();
+
+843 @
+Ov”ride
+
+
+844 
+public
+ 
+wr™eToP¬ûl
+(
+P¬ûl
+ 
+de¡
+, 
+æags
+) {
+
+845 
+	gsu³r
+.
+wr™eToP¬ûl
+(
+de¡
+, 
+æags
+);
+
+846 
+	gde¡
+.
+wr™eIÁ
+(
+cu¼’tPage
+);
+
+849 @
+Suµ»ssW¬nšgs
+("UnusedDeclaration")
+
+850 
+public
+ 
+fš®
+ 
+	gP¬ûÏbË
+.
+	gC»©Ü
+<
+	gSavedS‹
+> 
+	gCREATOR
+ = 
+Ãw
+ 
+P¬ûÏbË
+.
+C»©Ü
+<
+SavedS‹
+>() {
+
+851 @
+Ov”ride
+
+
+852 
+public
+ 
+SavedS‹
+ 
+ü—‹FromP¬ûl
+(
+P¬ûl
+ 
+š
+) {
+
+853  
+Ãw
+ 
+SavedS‹
+(
+š
+);
+
+856 @
+Ov”ride
+
+
+857 
+public
+ 
+	gSavedS‹
+[] 
+ÃwA¼ay
+(
+size
+) {
+
+858  
+Ãw
+ 
+	gSavedS‹
+[
+size
+];
+
+863 
+´iv©e
+ 
+Ch¬Sequ’û
+ 
+	$g‘T™Ë
+(
+i
+) {
+
+864 
+Ch¬Sequ’û
+ 
+t™Ë
+ = 
+mV›wPag”
+.
+	`g‘Ad­‹r
+().
+	`g‘PageT™Ë
+(
+i
+);
+
+865 ià(
+t™Ë
+ =ğ
+nuÎ
+) {
+
+866 
+t™Ë
+ = 
+EMPTY_TITLE
+;
+
+868  
+t™Ë
+;
+
+869 
+	}
+}
+
+	@library/src/com/viewpagerindicator/UnderlinePageIndicator.java
+
+16 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+;
+
+18 
+impÜt
+ 
+	gªdroid
+.
+	gcÚ‹Á
+.
+	gCÚ‹xt
+;
+
+19 
+impÜt
+ 
+	gªdroid
+.
+	gcÚ‹Á
+.
+	g»s
+.
+	gResourûs
+;
+
+20 
+impÜt
+ 
+	gªdroid
+.
+	gcÚ‹Á
+.
+	g»s
+.
+	gTy³dA¼ay
+;
+
+21 
+impÜt
+ 
+	gªdroid
+.
+	gg¿phics
+.
+	gCªvas
+;
+
+22 
+impÜt
+ 
+	gªdroid
+.
+	gg¿phics
+.
+	gPašt
+;
+
+23 
+impÜt
+ 
+	gªdroid
+.
+	gg¿phics
+.
+	gd¿wabË
+.
+	gD¿wabË
+;
+
+24 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gP¬ûl
+;
+
+25 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gP¬ûÏbË
+;
+
+26 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gMÙiÚEv’tCom·t
+;
+
+27 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wCÚfigu¿tiÚCom·t
+;
+
+28 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+;
+
+29 
+impÜt
+ 
+	gªdroid
+.
+	gut
+.
+	gA‰ribu‹S‘
+;
+
+30 
+impÜt
+ 
+	gªdroid
+.
+	gv›w
+.
+	gMÙiÚEv’t
+;
+
+31 
+impÜt
+ 
+	gªdroid
+.
+	gv›w
+.
+	gV›w
+;
+
+32 
+impÜt
+ 
+	gªdroid
+.
+	gv›w
+.
+	gV›wCÚfigu¿tiÚ
+;
+
+38 
+public
+ cÏs 
+	cUnd”lšePageIndiÿtÜ
+ 
+ex‹nds
+ 
+V›w
+ 
+im¶em’ts
+ 
+	mPageIndiÿtÜ
+ {
+
+39 
+´iv©e
+ 
+fš®
+ 
+	mINVALID_POINTER
+ = -1;
+
+40 
+´iv©e
+ 
+fš®
+ 
+	mFADE_FRAME_MS
+ = 30;
+
+42 
+´iv©e
+ 
+fš®
+ 
+Pašt
+ 
+	mmPašt
+ = 
+Ãw
+ Pašt(Pašt.
+ANTI_ALIAS_FLAG
+);
+
+44 
+´iv©e
+ 
+boŞ—n
+ 
+	mmFades
+;
+
+45 
+´iv©e
+ 
+	mmFadeD–ay
+;
+
+46 
+´iv©e
+ 
+	mmFadeL’gth
+;
+
+47 
+´iv©e
+ 
+	mmFadeBy
+;
+
+49 
+´iv©e
+ 
+V›wPag”
+ 
+	mmV›wPag”
+;
+
+50 
+´iv©e
+ 
+	mV›wPag”
+.
+OnPageChªgeLi¡’”
+ 
+	mmLi¡’”
+;
+
+51 
+´iv©e
+ 
+	mmSüŞlS‹
+;
+
+52 
+´iv©e
+ 
+	mmCu¼’tPage
+;
+
+53 
+´iv©e
+ 
+	mmPos™iÚOff£t
+;
+
+55 
+´iv©e
+ 
+	mmTouchSlİ
+;
+
+56 
+´iv©e
+ 
+	mmLa¡MÙiÚX
+ = -1;
+
+57 
+´iv©e
+ 
+	mmAùivePoš‹rId
+ = 
+INVALID_POINTER
+;
+
+58 
+´iv©e
+ 
+boŞ—n
+ 
+	mmIsD¿ggšg
+;
+
+60 
+´iv©e
+ 
+fš®
+ 
+RuÂabË
+ 
+	mmFadeRuÂabË
+ = 
+Ãw
+ 
+	$RuÂabË
+() {
+
+61 @
+Ov”ride
+ 
+public
+ 
+	`run
+() {
+
+62 ià(!
+mFades
+) ;
+
+64 
+fš®
+ 
+®pha
+ = 
+M©h
+.
+	`max
+(
+mPašt
+.
+	`g‘AÍha
+(è- 
+mFadeBy
+, 0);
+
+65 
+mPašt
+.
+	`£tAÍha
+(
+®pha
+);
+
+66 
+	`šv®id©e
+();
+
+67 ià(
+®pha
+ > 0) {
+
+68 
+	`po¡D–ayed
+(
+this
+, 
+FADE_FRAME_MS
+);
+
+73 
+public
+ 
+	$Und”lšePageIndiÿtÜ
+(
+CÚ‹xt
+ 
+cÚ‹xt
+) {
+
+74 
+	`this
+(
+cÚ‹xt
+, 
+nuÎ
+);
+
+75 
+	}
+}
+
+77 
+public
+ 
+	$Und”lšePageIndiÿtÜ
+(
+CÚ‹xt
+ 
+cÚ‹xt
+, 
+A‰ribu‹S‘
+ 
+©Œs
+) {
+
+78 
+	`this
+(
+cÚ‹xt
+, 
+©Œs
+, 
+R
+.
+©Œ
+.
+vpiUnd”lšePageIndiÿtÜStyË
+);
+
+79 
+	}
+}
+
+81 
+public
+ 
+	$Und”lšePageIndiÿtÜ
+(
+CÚ‹xt
+ 
+cÚ‹xt
+, 
+A‰ribu‹S‘
+ 
+©Œs
+, 
+defStyË
+) {
+
+82 
+	`su³r
+(
+cÚ‹xt
+, 
+©Œs
+, 
+defStyË
+);
+
+83 ià(
+	`isInEd™Mode
+()) ;
+
+85 
+fš®
+ 
+Resourûs
+ 
+»s
+ = 
+	`g‘Resourûs
+();
+
+88 
+fš®
+ 
+boŞ—n
+ 
+deçuÉFades
+ = 
+»s
+.
+	`g‘BoŞ—n
+(
+R
+.
+boŞ
+.
+deçuÉ_und”lše_šdiÿtÜ_çdes
+);
+
+89 
+fš®
+ 
+deçuÉFadeD–ay
+ = 
+»s
+.
+	`g‘IÁeg”
+(
+R
+.
+š‹g”
+.
+deçuÉ_und”lše_šdiÿtÜ_çde_d–ay
+);
+
+90 
+fš®
+ 
+deçuÉFadeL’gth
+ = 
+»s
+.
+	`g‘IÁeg”
+(
+R
+.
+š‹g”
+.
+deçuÉ_und”lše_šdiÿtÜ_çde_Ëngth
+);
+
+91 
+fš®
+ 
+deçuÉS–eùedCŞÜ
+ = 
+»s
+.
+	`g‘CŞÜ
+(
+R
+.
+cŞÜ
+.
+deçuÉ_und”lše_šdiÿtÜ_£Ëùed_cŞÜ
+);
+
+94 
+Ty³dA¼ay
+ 
+a
+ = 
+cÚ‹xt
+.
+	`obšStyËdA‰ribu‹s
+(
+©Œs
+, 
+R
+.
+¡yËabË
+.
+Und”lšePageIndiÿtÜ
+, 
+defStyË
+, 0);
+
+96 
+	`£tFades
+(
+a
+.
+	`g‘BoŞ—n
+(
+R
+.
+¡yËabË
+.
+Und”lšePageIndiÿtÜ_çdes
+, 
+deçuÉFades
+));
+
+97 
+	`£tS–eùedCŞÜ
+(
+a
+.
+	`g‘CŞÜ
+(
+R
+.
+¡yËabË
+.
+Und”lšePageIndiÿtÜ_£ËùedCŞÜ
+, 
+deçuÉS–eùedCŞÜ
+));
+
+98 
+	`£tFadeD–ay
+(
+a
+.
+	`g‘IÁeg”
+(
+R
+.
+¡yËabË
+.
+Und”lšePageIndiÿtÜ_çdeD–ay
+, 
+deçuÉFadeD–ay
+));
+
+99 
+	`£tFadeL’gth
+(
+a
+.
+	`g‘IÁeg”
+(
+R
+.
+¡yËabË
+.
+Und”lšePageIndiÿtÜ_çdeL’gth
+, 
+deçuÉFadeL’gth
+));
+
+101 
+D¿wabË
+ 
+background
+ = 
+a
+.
+	`g‘D¿wabË
+(
+R
+.
+¡yËabË
+.
+Und”lšePageIndiÿtÜ_ªdroid_background
+);
+
+102 ià(
+background
+ !ğ
+nuÎ
+) {
+
+103 
+	`£tBackgroundD¿wabË
+(
+background
+);
+
+106 
+a
+.
+	`»cyşe
+();
+
+108 
+fš®
+ 
+V›wCÚfigu¿tiÚ
+ 
+cÚfigu¿tiÚ
+ = V›wCÚfigu¿tiÚ.
+	`g‘
+(
+cÚ‹xt
+);
+
+109 
+mTouchSlİ
+ = 
+V›wCÚfigu¿tiÚCom·t
+.
+	`g‘SÿËdPagšgTouchSlİ
+(
+cÚfigu¿tiÚ
+);
+
+110 
+	}
+}
+
+112 
+public
+ 
+boŞ—n
+ 
+	$g‘Fades
+() {
+
+113  
+mFades
+;
+
+114 
+	}
+}
+
+116 
+public
+ 
+	$£tFades
+(
+boŞ—n
+ 
+çdes
+) {
+
+117 ià(
+çdes
+ !ğ
+mFades
+) {
+
+118 
+mFades
+ = 
+çdes
+;
+
+119 ià(
+çdes
+) {
+
+120 
+	`po¡
+(
+mFadeRuÂabË
+);
+
+122 
+	`»moveC®lbacks
+(
+mFadeRuÂabË
+);
+
+123 
+mPašt
+.
+	`£tAÍha
+(0xFF);
+
+124 
+	`šv®id©e
+();
+
+127 
+	}
+}
+
+129 
+public
+ 
+	$g‘FadeD–ay
+() {
+
+130  
+mFadeD–ay
+;
+
+131 
+	}
+}
+
+133 
+public
+ 
+	$£tFadeD–ay
+(
+çdeD–ay
+) {
+
+134 
+mFadeD–ay
+ = 
+çdeD–ay
+;
+
+135 
+	}
+}
+
+137 
+public
+ 
+	$g‘FadeL’gth
+() {
+
+138  
+mFadeL’gth
+;
+
+139 
+	}
+}
+
+141 
+public
+ 
+	$£tFadeL’gth
+(
+çdeL’gth
+) {
+
+142 
+mFadeL’gth
+ = 
+çdeL’gth
+;
+
+143 
+mFadeBy
+ = 0xFF / (
+mFadeL’gth
+ / 
+FADE_FRAME_MS
+);
+
+144 
+	}
+}
+
+146 
+public
+ 
+	$g‘S–eùedCŞÜ
+() {
+
+147  
+mPašt
+.
+	`g‘CŞÜ
+();
+
+148 
+	}
+}
+
+150 
+public
+ 
+	$£tS–eùedCŞÜ
+(
+£ËùedCŞÜ
+) {
+
+151 
+mPašt
+.
+	`£tCŞÜ
+(
+£ËùedCŞÜ
+);
+
+152 
+	`šv®id©e
+();
+
+153 
+	}
+}
+
+155 @
+Ov”ride
+
+
+156 
+´Ùeùed
+ 
+	$ÚD¿w
+(
+Cªvas
+ 
+ÿnvas
+) {
+
+157 
+su³r
+.
+	`ÚD¿w
+(
+ÿnvas
+);
+
+159 ià(
+mV›wPag”
+ =ğ
+nuÎ
+) {
+
+162 
+fš®
+ 
+couÁ
+ = 
+mV›wPag”
+.
+	`g‘Ad­‹r
+().
+	`g‘CouÁ
+();
+
+163 ià(
+couÁ
+ == 0) {
+
+167 ià(
+mCu¼’tPage
+ >ğ
+couÁ
+) {
+
+168 
+	`£tCu¼’tI‹m
+(
+couÁ
+ - 1);
+
+172 
+fš®
+ 
+·ddšgLeá
+ = 
+	`g‘PaddšgLeá
+();
+
+173 
+fš®
+ 
+·geWidth
+ = (
+	`g‘Width
+(è- 
+·ddšgLeá
+ - 
+	`g‘PaddšgRight
+()è/ (1à* 
+couÁ
+);
+
+174 
+fš®
+ 
+Ëá
+ = 
+·ddšgLeá
+ + 
+·geWidth
+ * (
+mCu¼’tPage
+ + 
+mPos™iÚOff£t
+);
+
+175 
+fš®
+ 
+right
+ = 
+Ëá
+ + 
+·geWidth
+;
+
+176 
+fš®
+ 
+tİ
+ = 
+	`g‘PaddšgTİ
+();
+
+177 
+fš®
+ 
+bÙtom
+ = 
+	`g‘Height
+(è- 
+	`g‘PaddšgBÙtom
+();
+
+178 
+ÿnvas
+.
+	`d¿wReù
+(
+Ëá
+, 
+tİ
+, 
+right
+, 
+bÙtom
+, 
+mPašt
+);
+
+179 
+	}
+}
+
+181 
+public
+ 
+boŞ—n
+ 
+	$ÚTouchEv’t
+(
+MÙiÚEv’t
+ 
+ev
+) {
+
+182 ià(
+su³r
+.
+	`ÚTouchEv’t
+(
+ev
+)) {
+
+183  
+Œue
+;
+
+185 ià((
+mV›wPag”
+ =ğ
+nuÎ
+è|| (mV›wPag”.
+	`g‘Ad­‹r
+().
+	`g‘CouÁ
+() == 0)) {
+
+186  
+çl£
+;
+
+189 
+fš®
+ 
+aùiÚ
+ = 
+ev
+.
+	`g‘AùiÚ
+(è& 
+MÙiÚEv’tCom·t
+.
+ACTION_MASK
+;
+
+190 
+aùiÚ
+) {
+
+191 
+MÙiÚEv’t
+.
+ACTION_DOWN
+:
+
+192 
+mAùivePoš‹rId
+ = 
+MÙiÚEv’tCom·t
+.
+	`g‘Poš‹rId
+(
+ev
+, 0);
+
+193 
+mLa¡MÙiÚX
+ = 
+ev
+.
+	`g‘X
+();
+
+196 
+MÙiÚEv’t
+.
+ACTION_MOVE
+: {
+
+197 
+fš®
+ 
+aùivePoš‹rIndex
+ = 
+MÙiÚEv’tCom·t
+.
+	`fšdPoš‹rIndex
+(
+ev
+, 
+mAùivePoš‹rId
+);
+
+198 
+fš®
+ 
+x
+ = 
+MÙiÚEv’tCom·t
+.
+	`g‘X
+(
+ev
+, 
+aùivePoš‹rIndex
+);
+
+199 
+fš®
+ 
+d–X
+ = 
+x
+ - 
+mLa¡MÙiÚX
+;
+
+201 ià(!
+mIsD¿ggšg
+) {
+
+202 ià(
+M©h
+.
+	`abs
+(
+d–X
+è> 
+mTouchSlİ
+) {
+
+203 
+mIsD¿ggšg
+ = 
+Œue
+;
+
+207 ià(
+mIsD¿ggšg
+) {
+
+208 
+mLa¡MÙiÚX
+ = 
+x
+;
+
+209 ià(
+mV›wPag”
+.
+	`isFakeD¿ggšg
+(è|| mV›wPag”.
+	`begšFakeD¿g
+()) {
+
+210 
+mV›wPag”
+.
+	`çkeD¿gBy
+(
+d–X
+);
+
+217 
+MÙiÚEv’t
+.
+ACTION_CANCEL
+:
+
+218 
+MÙiÚEv’t
+.
+ACTION_UP
+:
+
+219 ià(!
+mIsD¿ggšg
+) {
+
+220 
+fš®
+ 
+couÁ
+ = 
+mV›wPag”
+.
+	`g‘Ad­‹r
+().
+	`g‘CouÁ
+();
+
+221 
+fš®
+ 
+width
+ = 
+	`g‘Width
+();
+
+222 
+fš®
+ 
+h®fWidth
+ = 
+width
+ / 2f;
+
+223 
+fš®
+ 
+sixthWidth
+ = 
+width
+ / 6f;
+
+225 ià((
+mCu¼’tPage
+ > 0è&& (
+ev
+.
+	`g‘X
+(è< 
+h®fWidth
+ - 
+sixthWidth
+)) {
+
+226 ià(
+aùiÚ
+ !ğ
+MÙiÚEv’t
+.
+ACTION_CANCEL
+) {
+
+227 
+mV›wPag”
+.
+	`£tCu¼’tI‹m
+(
+mCu¼’tPage
+ - 1);
+
+229  
+Œue
+;
+
+230 } ià((
+mCu¼’tPage
+ < 
+couÁ
+ - 1è&& (
+ev
+.
+	`g‘X
+(è> 
+h®fWidth
+ + 
+sixthWidth
+)) {
+
+231 ià(
+aùiÚ
+ !ğ
+MÙiÚEv’t
+.
+ACTION_CANCEL
+) {
+
+232 
+mV›wPag”
+.
+	`£tCu¼’tI‹m
+(
+mCu¼’tPage
+ + 1);
+
+234  
+Œue
+;
+
+238 
+mIsD¿ggšg
+ = 
+çl£
+;
+
+239 
+mAùivePoš‹rId
+ = 
+INVALID_POINTER
+;
+
+240 ià(
+mV›wPag”
+.
+	`isFakeD¿ggšg
+()èmV›wPag”.
+	`’dFakeD¿g
+();
+
+243 
+MÙiÚEv’tCom·t
+.
+ACTION_POINTER_DOWN
+: {
+
+244 
+fš®
+ 
+šdex
+ = 
+MÙiÚEv’tCom·t
+.
+	`g‘AùiÚIndex
+(
+ev
+);
+
+245 
+mLa¡MÙiÚX
+ = 
+MÙiÚEv’tCom·t
+.
+	`g‘X
+(
+ev
+, 
+šdex
+);
+
+246 
+mAùivePoš‹rId
+ = 
+MÙiÚEv’tCom·t
+.
+	`g‘Poš‹rId
+(
+ev
+, 
+šdex
+);
+
+250 
+MÙiÚEv’tCom·t
+.
+ACTION_POINTER_UP
+:
+
+251 
+fš®
+ 
+poš‹rIndex
+ = 
+MÙiÚEv’tCom·t
+.
+	`g‘AùiÚIndex
+(
+ev
+);
+
+252 
+fš®
+ 
+poš‹rId
+ = 
+MÙiÚEv’tCom·t
+.
+	`g‘Poš‹rId
+(
+ev
+, 
+poš‹rIndex
+);
+
+253 ià(
+poš‹rId
+ =ğ
+mAùivePoš‹rId
+) {
+
+254 
+fš®
+ 
+ÃwPoš‹rIndex
+ = 
+poš‹rIndex
+ == 0 ? 1 : 0;
+
+255 
+mAùivePoš‹rId
+ = 
+MÙiÚEv’tCom·t
+.
+	`g‘Poš‹rId
+(
+ev
+, 
+ÃwPoš‹rIndex
+);
+
+257 
+mLa¡MÙiÚX
+ = 
+MÙiÚEv’tCom·t
+.
+	`g‘X
+(
+ev
+, MÙiÚEv’tCom·t.
+	`fšdPoš‹rIndex
+Óv, 
+mAùivePoš‹rId
+));
+
+261  
+Œue
+;
+
+262 
+	}
+}
+
+264 @
+Ov”ride
+
+
+265 
+public
+ 
+	$£tV›wPag”
+(
+V›wPag”
+ 
+v›wPag”
+) {
+
+266 ià(
+mV›wPag”
+ =ğ
+v›wPag”
+) {
+
+269 ià(
+mV›wPag”
+ !ğ
+nuÎ
+) {
+
+271 
+mV›wPag”
+.
+	`£tOnPageChªgeLi¡’”
+(
+nuÎ
+);
+
+273 ià(
+v›wPag”
+.
+	`g‘Ad­‹r
+(è=ğ
+nuÎ
+) {
+
+274 
+throw
+ 
+Ãw
+ 
+	`IÎeg®S‹Exû±iÚ
+("ViewPager does‚ot have‡dapter instance.");
+
+276 
+mV›wPag”
+ = 
+v›wPag”
+;
+
+277 
+mV›wPag”
+.
+	`£tOnPageChªgeLi¡’”
+(
+this
+);
+
+278 
+	`šv®id©e
+();
+
+279 
+	`po¡
+(
+Ãw
+ 
+	`RuÂabË
+() {
+
+280 @
+Ov”ride
+ 
+public
+ 
+	`run
+() {
+
+281 ià(
+mFades
+) {
+
+282 
+	`po¡
+(
+mFadeRuÂabË
+);
+
+286 
+	}
+}
+
+288 @
+Ov”ride
+
+
+289 
+public
+ 
+	$£tV›wPag”
+(
+V›wPag”
+ 
+v›w
+, 
+š™ŸlPos™iÚ
+) {
+
+290 
+	`£tV›wPag”
+(
+v›w
+);
+
+291 
+	`£tCu¼’tI‹m
+(
+š™ŸlPos™iÚ
+);
+
+292 
+	}
+}
+
+294 @
+Ov”ride
+
+
+295 
+public
+ 
+	$£tCu¼’tI‹m
+(
+™em
+) {
+
+296 ià(
+mV›wPag”
+ =ğ
+nuÎ
+) {
+
+297 
+throw
+ 
+Ãw
+ 
+	`IÎeg®S‹Exû±iÚ
+("ViewPager has‚ot been bound.");
+
+299 
+mV›wPag”
+.
+	`£tCu¼’tI‹m
+(
+™em
+);
+
+300 
+mCu¼’tPage
+ = 
+™em
+;
+
+301 
+	`šv®id©e
+();
+
+302 
+	}
+}
+
+304 @
+Ov”ride
+
+
+305 
+public
+ 
+	$nÙifyD©aS‘Chªged
+() {
+
+306 
+	`šv®id©e
+();
+
+307 
+	}
+}
+
+309 @
+Ov”ride
+
+
+310 
+public
+ 
+	$ÚPageSüŞlS‹Chªged
+(
+¡©e
+) {
+
+311 
+mSüŞlS‹
+ = 
+¡©e
+;
+
+313 ià(
+mLi¡’”
+ !ğ
+nuÎ
+) {
+
+314 
+mLi¡’”
+.
+	`ÚPageSüŞlS‹Chªged
+(
+¡©e
+);
+
+316 
+	}
+}
+
+318 @
+Ov”ride
+
+
+319 
+public
+ 
+	$ÚPageSüŞËd
+(
+pos™iÚ
+, 
+pos™iÚOff£t
+, 
+pos™iÚOff£tPix–s
+) {
+
+320 
+mCu¼’tPage
+ = 
+pos™iÚ
+;
+
+321 
+mPos™iÚOff£t
+ = 
+pos™iÚOff£t
+;
+
+322 ià(
+mFades
+) {
+
+323 ià(
+pos™iÚOff£tPix–s
+ > 0) {
+
+324 
+	`»moveC®lbacks
+(
+mFadeRuÂabË
+);
+
+325 
+mPašt
+.
+	`£tAÍha
+(0xFF);
+
+326 } ià(
+mSüŞlS‹
+ !ğ
+V›wPag”
+.
+SCROLL_STATE_DRAGGING
+) {
+
+327 
+	`po¡D–ayed
+(
+mFadeRuÂabË
+, 
+mFadeD–ay
+);
+
+330 
+	`šv®id©e
+();
+
+332 ià(
+mLi¡’”
+ !ğ
+nuÎ
+) {
+
+333 
+mLi¡’”
+.
+	`ÚPageSüŞËd
+(
+pos™iÚ
+, 
+pos™iÚOff£t
+, 
+pos™iÚOff£tPix–s
+);
+
+335 
+	}
+}
+
+337 @
+Ov”ride
+
+
+338 
+public
+ 
+	$ÚPageS–eùed
+(
+pos™iÚ
+) {
+
+339 ià(
+mSüŞlS‹
+ =ğ
+V›wPag”
+.
+SCROLL_STATE_IDLE
+) {
+
+340 
+mCu¼’tPage
+ = 
+pos™iÚ
+;
+
+341 
+mPos™iÚOff£t
+ = 0;
+
+342 
+	`šv®id©e
+();
+
+343 
+mFadeRuÂabË
+.
+	`run
+();
+
+345 ià(
+mLi¡’”
+ !ğ
+nuÎ
+) {
+
+346 
+mLi¡’”
+.
+	`ÚPageS–eùed
+(
+pos™iÚ
+);
+
+348 
+	}
+}
+
+350 @
+Ov”ride
+
+
+351 
+public
+ 
+	$£tOnPageChªgeLi¡’”
+(
+V›wPag”
+.
+OnPageChªgeLi¡’”
+ 
+li¡’”
+) {
+
+352 
+mLi¡’”
+ = 
+li¡’”
+;
+
+353 
+	}
+}
+
+355 @
+Ov”ride
+
+
+356 
+public
+ 
+	$ÚRe¡ÜeIn¡ªûS‹
+(
+P¬ûÏbË
+ 
+¡©e
+) {
+
+357 
+SavedS‹
+ 
+§vedS‹
+ = (SavedS‹)
+¡©e
+;
+
+358 
+su³r
+.
+	`ÚRe¡ÜeIn¡ªûS‹
+(
+§vedS‹
+.
+	`g‘Su³rS‹
+());
+
+359 
+mCu¼’tPage
+ = 
+§vedS‹
+.
+cu¼’tPage
+;
+
+360 
+	`»que¡Layout
+();
+
+361 
+	}
+}
+
+363 @
+Ov”ride
+
+
+364 
+public
+ 
+P¬ûÏbË
+ 
+	$ÚSaveIn¡ªûS‹
+() {
+
+365 
+P¬ûÏbË
+ 
+su³rS‹
+ = 
+su³r
+.
+	`ÚSaveIn¡ªûS‹
+();
+
+366 
+SavedS‹
+ 
+§vedS‹
+ = 
+Ãw
+ 
+	`SavedS‹
+(
+su³rS‹
+);
+
+367 
+§vedS‹
+.
+cu¼’tPage
+ = 
+mCu¼’tPage
+;
+
+368  
+§vedS‹
+;
+
+369 
+	}
+}
+
+371 şas 
+	cSavedS‹
+ 
+ex‹nds
+ 
+	gBa£SavedS‹
+ {
+
+372 
+	gcu¼’tPage
+;
+
+374 
+public
+ 
+SavedS‹
+(
+P¬ûÏbË
+ 
+su³rS‹
+) {
+
+375 
+su³r
+(
+su³rS‹
+);
+
+378 
+´iv©e
+ 
+SavedS‹
+(
+P¬ûl
+ 
+š
+) {
+
+379 
+su³r
+(
+š
+);
+
+380 
+	gcu¼’tPage
+ = 
+š
+.
+»adIÁ
+();
+
+383 @
+Ov”ride
+
+
+384 
+public
+ 
+wr™eToP¬ûl
+(
+P¬ûl
+ 
+de¡
+, 
+æags
+) {
+
+385 
+	gsu³r
+.
+wr™eToP¬ûl
+(
+de¡
+, 
+æags
+);
+
+386 
+	gde¡
+.
+wr™eIÁ
+(
+cu¼’tPage
+);
+
+389 @
+Suµ»ssW¬nšgs
+("UnusedDeclaration")
+
+390 
+public
+ 
+fš®
+ 
+	gC»©Ü
+<
+	gSavedS‹
+> 
+	gCREATOR
+ = 
+Ãw
+ 
+C»©Ü
+<
+SavedS‹
+>() {
+
+391 @
+Ov”ride
+
+
+392 
+public
+ 
+SavedS‹
+ 
+ü—‹FromP¬ûl
+(
+P¬ûl
+ 
+š
+) {
+
+393  
+Ãw
+ 
+SavedS‹
+(
+š
+);
+
+396 @
+Ov”ride
+
+
+397 
+public
+ 
+	gSavedS‹
+[] 
+ÃwA¼ay
+(
+size
+) {
+
+398  
+Ãw
+ 
+	gSavedS‹
+[
+size
+];
+
+	@sample/src/com/viewpagerindicator/sample/BaseSampleActivity.java
+
+1 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	g§m¶e
+;
+
+3 
+impÜt
+ 
+	gjava
+.
+	gut
+.
+	gRªdom
+;
+
+5 
+impÜt
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	gPageIndiÿtÜ
+;
+
+7 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	g­p
+.
+	gF¿gm’tAùiv™y
+;
+
+8 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+;
+
+9 
+impÜt
+ 
+	gªdroid
+.
+	gv›w
+.
+	gM’u
+;
+
+10 
+impÜt
+ 
+	gªdroid
+.
+	gv›w
+.
+	gM’uI‹m
+;
+
+11 
+impÜt
+ 
+	gªdroid
+.
+	gwidg‘
+.
+	gTß¡
+;
+
+13 
+public
+ 
+ab¡¿ù
+ cÏs 
+	cBa£Sam¶eAùiv™y
+ 
+ex‹nds
+ 
+	mF¿gm’tAùiv™y
+ {
+
+14 
+´iv©e
+ 
+fš®
+ 
+Rªdom
+ 
+	mRANDOM
+ = 
+Ãw
+ Random();
+
+16 
+Te¡F¿gm’tAd­‹r
+ 
+	mmAd­‹r
+;
+
+17 
+V›wPag”
+ 
+	mmPag”
+;
+
+18 
+PageIndiÿtÜ
+ 
+	mmIndiÿtÜ
+;
+
+20 @
+Ov”ride
+
+
+21 
+public
+ 
+boŞ—n
+ 
+	$ÚC»©eO±iÚsM’u
+(
+M’u
+ 
+m’u
+) {
+
+22 
+	`g‘M’uInæ©”
+().
+	`šæ©e
+(
+R
+.
+m’u
+.menu, menu);
+
+23  
+Œue
+;
+
+26 @
+Ov”ride
+
+
+27 
+public
+ 
+boŞ—n
+ 
+	$ÚO±iÚsI‹mS–eùed
+(
+M’uI‹m
+ 
+™em
+) {
+
+28 
+™em
+.
+	`g‘I‹mId
+()) {
+
+29 
+R
+.
+id
+.
+¿ndom
+:
+
+30 
+fš®
+ 
+·ge
+ = 
+RANDOM
+.
+	`ÃxtIÁ
+(
+mAd­‹r
+.
+	`g‘CouÁ
+());
+
+31 
+Tß¡
+.
+	`makeText
+(
+this
+, "ChªgšgØ·g" + 
+·ge
+, Tß¡.
+LENGTH_SHORT
+);
+
+32 
+mPag”
+.
+	`£tCu¼’tI‹m
+(
+·ge
+);
+
+33  
+Œue
+;
+
+35 
+R
+.
+id
+.
+add_·ge
+:
+
+36 ià(
+mAd­‹r
+.
+	`g‘CouÁ
+() < 10) {
+
+37 
+mAd­‹r
+.
+	`£tCouÁ
+(mAd­‹r.
+	`g‘CouÁ
+() + 1);
+
+38 
+mIndiÿtÜ
+.
+	`nÙifyD©aS‘Chªged
+();
+
+40  
+Œue
+;
+
+42 
+R
+.
+id
+.
+»move_·ge
+:
+
+43 ià(
+mAd­‹r
+.
+	`g‘CouÁ
+() > 1) {
+
+44 
+mAd­‹r
+.
+	`£tCouÁ
+(mAd­‹r.
+	`g‘CouÁ
+() - 1);
+
+45 
+mIndiÿtÜ
+.
+	`nÙifyD©aS‘Chªged
+();
+
+47  
+Œue
+;
+
+49  
+su³r
+.
+	`ÚO±iÚsI‹mS–eùed
+(
+™em
+);
+
+50 
+	}
+}
+
+	@sample/src/com/viewpagerindicator/sample/ListSamples.java
+
+1 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	g§m¶e
+;
+
+3 
+impÜt
+ 
+	gjava
+.
+	g‹xt
+.
+	gCŞÏtÜ
+;
+
+4 
+impÜt
+ 
+	gjava
+.
+	gut
+.
+	gA¼ayLi¡
+;
+
+5 
+impÜt
+ 
+	gjava
+.
+	gut
+.
+	gCŞËùiÚs
+;
+
+6 
+impÜt
+ 
+	gjava
+.
+	gut
+.
+	gCom·¿tÜ
+;
+
+7 
+impÜt
+ 
+	gjava
+.
+	gut
+.
+	gHashM­
+;
+
+8 
+impÜt
+ 
+	gjava
+.
+	gut
+.
+	gLi¡
+;
+
+9 
+impÜt
+ 
+	gjava
+.
+	gut
+.
+	gM­
+;
+
+10 
+impÜt
+ 
+	gªdroid
+.
+	g­p
+.
+	gLi¡Aùiv™y
+;
+
+11 
+impÜt
+ 
+	gªdroid
+.
+	gcÚ‹Á
+.
+	gIÁ’t
+;
+
+12 
+impÜt
+ 
+	gªdroid
+.
+	gcÚ‹Á
+.
+	gpm
+.
+	gPackageMªag”
+;
+
+13 
+impÜt
+ 
+	gªdroid
+.
+	gcÚ‹Á
+.
+	gpm
+.
+	gResŞveInfo
+;
+
+14 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gBundË
+;
+
+15 
+impÜt
+ 
+	gªdroid
+.
+	gv›w
+.
+	gV›w
+;
+
+16 
+impÜt
+ 
+	gªdroid
+.
+	gwidg‘
+.
+	gLi¡V›w
+;
+
+17 
+impÜt
+ 
+	gªdroid
+.
+	gwidg‘
+.
+	gSim¶eAd­‹r
+;
+
+19 
+public
+ cÏs 
+	cLi¡Sam¶es
+ 
+ex‹nds
+ 
+	mLi¡Aùiv™y
+ {
+
+21 @
+Ov”ride
+
+
+22 
+public
+ 
+	$ÚC»©e
+(
+BundË
+ 
+§vedIn¡ªûS‹
+) {
+
+23 
+su³r
+.
+	`ÚC»©e
+(
+§vedIn¡ªûS‹
+);
+
+25 
+IÁ’t
+ 
+š‹Á
+ = 
+	`g‘IÁ’t
+();
+
+26 
+SŒšg
+ 
+·th
+ = 
+š‹Á
+.
+	`g‘SŒšgExŒa
+("com.jakewharton.android.viewpagerindicator.sample.Path");
+
+28 ià(
+·th
+ =ğ
+nuÎ
+) {
+
+29 
+·th
+ = "";
+
+32 
+	`£tLi¡Ad­‹r
+(
+Ãw
+ 
+	`Sim¶eAd­‹r
+(
+this
+, 
+	`g‘D©a
+(
+·th
+),
+
+33 
+ªdroid
+.
+R
+.
+Ïyout
+.
+sim¶e_li¡_™em_1
+, 
+Ãw
+ 
+SŒšg
+[] { "title" },
+
+34 
+Ãw
+ [] { 
+ªdroid
+.
+R
+.
+id
+.
+‹xt1
+ }));
+
+35 
+	`g‘Li¡V›w
+().
+	`£tTextF‹rEÇbËd
+(
+Œue
+);
+
+38 
+´Ùeùed
+ 
+Li¡
+<
+M­
+<
+SŒšg
+, 
+Objeù
+>> 
+	$g‘D©a
+(
+SŒšg
+ 
+´efix
+) {
+
+39 
+Li¡
+<
+M­
+<
+SŒšg
+, 
+Objeù
+>> 
+myD©a
+ = 
+Ãw
+ 
+A¼ayLi¡
+<Map<String, Object>>();
+
+41 
+IÁ’t
+ 
+mašIÁ’t
+ = 
+Ãw
+ 
+	`IÁ’t
+(IÁ’t.
+ACTION_MAIN
+, 
+nuÎ
+);
+
+42 
+mašIÁ’t
+.
+	`addC©egÜy
+("com.jakewharton.android.viewpagerindicator.sample.SAMPLE");
+
+44 
+PackageMªag”
+ 
+pm
+ = 
+	`g‘PackageMªag”
+();
+
+45 
+Li¡
+<
+ResŞveInfo
+> 
+li¡
+ = 
+pm
+.
+	`qu”yIÁ’tAùiv™›s
+(
+mašIÁ’t
+, 0);
+
+47 ià(
+nuÎ
+ =ğ
+li¡
+)
+
+48  
+myD©a
+;
+
+50 
+SŒšg
+[] 
+´efixP©h
+;
+
+51 
+SŒšg
+ 
+´efixW™hSÏsh
+ = 
+´efix
+;
+
+53 ià(
+´efix
+.
+	`equ®s
+("")) {
+
+54 
+´efixP©h
+ = 
+nuÎ
+;
+
+56 
+´efixP©h
+ = 
+´efix
+.
+	`¥l™
+("/");
+
+57 
+´efixW™hSÏsh
+ = 
+´efix
+ + "/";
+
+60 
+Ën
+ = 
+li¡
+.
+	`size
+();
+
+62 
+M­
+<
+SŒšg
+, 
+BoŞ—n
+> 
+’Œ›s
+ = 
+Ãw
+ 
+HashM­
+<String, Boolean>();
+
+64 
+i
+ = 0; i < 
+Ën
+; i++) {
+
+65 
+ResŞveInfo
+ 
+šfo
+ = 
+li¡
+.
+	`g‘
+(
+i
+);
+
+66 
+Ch¬Sequ’û
+ 
+Ïb–Seq
+ = 
+šfo
+.
+	`lßdLab–
+(
+pm
+);
+
+67 
+SŒšg
+ 
+Ïb–
+ = 
+Ïb–Seq
+ !ğ
+nuÎ
+
+
+68 ? 
+Ïb–Seq
+.
+	`toSŒšg
+()
+
+69 : 
+šfo
+.
+aùiv™yInfo
+.
+Çme
+;
+
+71 ià(
+´efixW™hSÏsh
+.
+	`Ëngth
+(è=ğ0 || 
+Ïb–
+.
+	`¡¬tsW™h
+(prefixWithSlash)) {
+
+73 
+SŒšg
+[] 
+Ïb–P©h
+ = 
+Ïb–
+.
+	`¥l™
+("/");
+
+75 
+SŒšg
+ 
+ÃxtLab–
+ = 
+´efixP©h
+ =ğ
+nuÎ
+ ? 
+Ïb–P©h
+[0] :†ab–P©h[´efixP©h.
+Ëngth
+];
+
+77 ià((
+´efixP©h
+ !ğ
+nuÎ
+ ?…»fixP©h.
+Ëngth
+ : 0è=ğ
+Ïb–P©h
+.length - 1) {
+
+78 
+	`addI‹m
+(
+myD©a
+, 
+ÃxtLab–
+, 
+	`aùiv™yIÁ’t
+(
+
+79 
+šfo
+.
+aùiv™yInfo
+.
+­¶iÿtiÚInfo
+.
+·ckageName
+,
+
+80 
+šfo
+.
+aùiv™yInfo
+.
+Çme
+));
+
+82 ià(
+’Œ›s
+.
+	`g‘
+(
+ÃxtLab–
+è=ğ
+nuÎ
+) {
+
+83 
+	`addI‹m
+(
+myD©a
+, 
+ÃxtLab–
+, 
+	`brow£IÁ’t
+(
+´efix
+.
+	`equ®s
+("") ?‚extLabel :…refix + "/" +‚extLabel));
+
+84 
+’Œ›s
+.
+	`put
+(
+ÃxtLab–
+, 
+Œue
+);
+
+90 
+CŞËùiÚs
+.
+	`sÜt
+(
+myD©a
+, 
+NAME_COMPARATOR
+);
+
+92  
+myD©a
+;
+
+93 
+	}
+}
+
+95 
+´iv©e
+ 
+fš®
+ 
+	gCom·¿tÜ
+<
+	gM­
+<
+	gSŒšg
+, 
+	gObjeù
+>> 
+	gNAME_COMPARATOR
+ =
+
+96 
+Ãw
+ 
+Com·¿tÜ
+<
+M­
+<
+SŒšg
+, 
+	gObjeù
+>>() {
+
+97 
+´iv©e
+ 
+fš®
+ 
+CŞÏtÜ
+ 
+	gcŞÏtÜ
+ = CŞÏtÜ.
+g‘In¡ªû
+();
+
+99 
+public
+ 
+com·»
+(
+M­
+<
+SŒšg
+, 
+Objeù
+> 
+m­1
+, M­<SŒšg, Objeù> 
+m­2
+) {
+
+100  
+	gcŞÏtÜ
+.
+com·»
+(
+m­1
+.
+g‘
+("t™Ë"), 
+m­2
+.get("title"));
+
+104 
+´Ùeùed
+ 
+IÁ’t
+ 
+	$aùiv™yIÁ’t
+(
+SŒšg
+ 
+pkg
+, SŒšg 
+compÚ’tName
+) {
+
+105 
+IÁ’t
+ 
+»suÉ
+ = 
+Ãw
+ 
+	`IÁ’t
+();
+
+106 
+»suÉ
+.
+	`£tCÏssName
+(
+pkg
+, 
+compÚ’tName
+);
+
+107  
+»suÉ
+;
+
+108 
+	}
+}
+
+110 
+´Ùeùed
+ 
+IÁ’t
+ 
+	$brow£IÁ’t
+(
+SŒšg
+ 
+·th
+) {
+
+111 
+IÁ’t
+ 
+»suÉ
+ = 
+Ãw
+ 
+	`IÁ’t
+();
+
+112 
+»suÉ
+.
+	`£tCÏss
+(
+this
+, 
+Li¡Sam¶es
+.
+şass
+);
+
+113 
+»suÉ
+.
+	`putExŒa
+("com.jakewh¬tÚ.ªdroid.v›w·g”šdiÿtÜ.§m¶e.P©h", 
+·th
+);
+
+114  
+»suÉ
+;
+
+115 
+	}
+}
+
+117 
+´Ùeùed
+ 
+addI‹m
+(
+Li¡
+<
+M­
+<
+SŒšg
+, 
+Objeù
+>> 
+d©a
+, SŒšg 
+Çme
+, 
+IÁ’t
+ 
+š‹Á
+) {
+
+118 
+	gM­
+<
+	gSŒšg
+, 
+	gObjeù
+> 
+	g‹mp
+ = 
+Ãw
+ 
+HashM­
+<
+SŒšg
+, Object>();
+
+119 
+	g‹mp
+.
+put
+("t™Ë", 
+Çme
+);
+
+120 
+	g‹mp
+.
+put
+("š‹Á", 
+š‹Á
+);
+
+121 
+	gd©a
+.
+add
+(
+‹mp
+);
+
+124 @
+	gOv”ride
+
+
+125 @
+Suµ»ssW¬nšgs
+("unchecked")
+
+126 
+´Ùeùed
+ 
+	$ÚLi¡I‹mClick
+(
+Li¡V›w
+ 
+l
+, 
+V›w
+ 
+v
+, 
+pos™iÚ
+, 
+id
+) {
+
+127 
+M­
+<
+SŒšg
+, 
+Objeù
+> 
+m­
+ = (M­<SŒšg, Objeù>)
+l
+.
+	`g‘I‹mAtPos™iÚ
+(
+pos™iÚ
+);
+
+129 
+IÁ’t
+ 
+š‹Á
+ = (IÁ’tè
+m­
+.
+	`g‘
+("intent");
+
+130 
+	`¡¬tAùiv™y
+(
+š‹Á
+);
+
+131 
+	}
+}
+
+	@sample/src/com/viewpagerindicator/sample/SampleCirclesDefault.java
+
+1 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	g§m¶e
+;
+
+3 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gBundË
+;
+
+4 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+;
+
+5 
+impÜt
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	gCœşePageIndiÿtÜ
+;
+
+7 
+public
+ cÏs 
+	cSam¶eCœşesDeçuÉ
+ 
+ex‹nds
+ 
+	mBa£Sam¶eAùiv™y
+ {
+
+8 @
+Ov”ride
+
+
+9 
+´Ùeùed
+ 
+	$ÚC»©e
+(
+BundË
+ 
+§vedIn¡ªûS‹
+) {
+
+10 
+su³r
+.
+	`ÚC»©e
+(
+§vedIn¡ªûS‹
+);
+
+11 
+	`£tCÚ‹ÁV›w
+(
+R
+.
+Ïyout
+.
+sim¶e_cœşes
+);
+
+13 
+mAd­‹r
+ = 
+Ãw
+ 
+	`Te¡F¿gm’tAd­‹r
+(
+	`g‘SuµÜtF¿gm’tMªag”
+());
+
+15 
+mPag”
+ = (
+V›wPag”
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+·g”
+);
+
+16 
+mPag”
+.
+	`£tAd­‹r
+(
+mAd­‹r
+);
+
+18 
+mIndiÿtÜ
+ = (
+CœşePageIndiÿtÜ
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+šdiÿtÜ
+);
+
+19 
+mIndiÿtÜ
+.
+	`£tV›wPag”
+(
+mPag”
+);
+
+21 
+	}
+}
+
+	@sample/src/com/viewpagerindicator/sample/SampleCirclesInitialPage.java
+
+1 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	g§m¶e
+;
+
+3 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gBundË
+;
+
+4 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+;
+
+5 
+impÜt
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	gCœşePageIndiÿtÜ
+;
+
+7 
+public
+ cÏs 
+	cSam¶eCœşesIn™ŸlPage
+ 
+ex‹nds
+ 
+	mBa£Sam¶eAùiv™y
+ {
+
+8 @
+Ov”ride
+
+
+9 
+´Ùeùed
+ 
+	$ÚC»©e
+(
+BundË
+ 
+§vedIn¡ªûS‹
+) {
+
+10 
+su³r
+.
+	`ÚC»©e
+(
+§vedIn¡ªûS‹
+);
+
+11 
+	`£tCÚ‹ÁV›w
+(
+R
+.
+Ïyout
+.
+sim¶e_cœşes
+);
+
+13 
+mAd­‹r
+ = 
+Ãw
+ 
+	`Te¡F¿gm’tAd­‹r
+(
+	`g‘SuµÜtF¿gm’tMªag”
+());
+
+15 
+mPag”
+ = (
+V›wPag”
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+·g”
+);
+
+16 
+mPag”
+.
+	`£tAd­‹r
+(
+mAd­‹r
+);
+
+18 
+mIndiÿtÜ
+ = (
+CœşePageIndiÿtÜ
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+šdiÿtÜ
+);
+
+19 
+mIndiÿtÜ
+.
+	`£tV›wPag”
+(
+mPag”
+);
+
+20 
+mIndiÿtÜ
+.
+	`£tCu¼’tI‹m
+(
+mAd­‹r
+.
+	`g‘CouÁ
+() - 1);
+
+24 
+	}
+}
+
+	@sample/src/com/viewpagerindicator/sample/SampleCirclesSnap.java
+
+1 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	g§m¶e
+;
+
+3 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gBundË
+;
+
+4 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+;
+
+5 
+impÜt
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	gCœşePageIndiÿtÜ
+;
+
+7 
+public
+ cÏs 
+	cSam¶eCœşesSÇp
+ 
+ex‹nds
+ 
+	mBa£Sam¶eAùiv™y
+ {
+
+8 @
+Ov”ride
+
+
+9 
+´Ùeùed
+ 
+	$ÚC»©e
+(
+BundË
+ 
+§vedIn¡ªûS‹
+) {
+
+10 
+su³r
+.
+	`ÚC»©e
+(
+§vedIn¡ªûS‹
+);
+
+11 
+	`£tCÚ‹ÁV›w
+(
+R
+.
+Ïyout
+.
+sim¶e_cœşes
+);
+
+13 
+mAd­‹r
+ = 
+Ãw
+ 
+	`Te¡F¿gm’tAd­‹r
+(
+	`g‘SuµÜtF¿gm’tMªag”
+());
+
+15 
+mPag”
+ = (
+V›wPag”
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+·g”
+);
+
+16 
+mPag”
+.
+	`£tAd­‹r
+(
+mAd­‹r
+);
+
+18 
+CœşePageIndiÿtÜ
+ 
+šdiÿtÜ
+ = (CœşePageIndiÿtÜ)
+	`fšdV›wById
+(
+R
+.
+id
+.indicator);
+
+19 
+mIndiÿtÜ
+ = 
+šdiÿtÜ
+;
+
+20 
+šdiÿtÜ
+.
+	`£tV›wPag”
+(
+mPag”
+);
+
+21 
+šdiÿtÜ
+.
+	`£tSÇp
+(
+Œue
+);
+
+23 
+	}
+}
+
+	@sample/src/com/viewpagerindicator/sample/SampleCirclesStyledLayout.java
+
+1 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	g§m¶e
+;
+
+3 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gBundË
+;
+
+4 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+;
+
+5 
+impÜt
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	gCœşePageIndiÿtÜ
+;
+
+7 
+public
+ cÏs 
+	cSam¶eCœşesStyËdLayout
+ 
+ex‹nds
+ 
+	mBa£Sam¶eAùiv™y
+ {
+
+8 @
+Ov”ride
+
+
+9 
+´Ùeùed
+ 
+	$ÚC»©e
+(
+BundË
+ 
+§vedIn¡ªûS‹
+) {
+
+10 
+su³r
+.
+	`ÚC»©e
+(
+§vedIn¡ªûS‹
+);
+
+11 
+	`£tCÚ‹ÁV›w
+(
+R
+.
+Ïyout
+.
+themed_cœşes
+);
+
+13 
+mAd­‹r
+ = 
+Ãw
+ 
+	`Te¡F¿gm’tAd­‹r
+(
+	`g‘SuµÜtF¿gm’tMªag”
+());
+
+15 
+mPag”
+ = (
+V›wPag”
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+·g”
+);
+
+16 
+mPag”
+.
+	`£tAd­‹r
+(
+mAd­‹r
+);
+
+18 
+mIndiÿtÜ
+ = (
+CœşePageIndiÿtÜ
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+šdiÿtÜ
+);
+
+19 
+mIndiÿtÜ
+.
+	`£tV›wPag”
+(
+mPag”
+);
+
+21 
+	}
+}
+
+	@sample/src/com/viewpagerindicator/sample/SampleCirclesStyledMethods.java
+
+1 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	g§m¶e
+;
+
+3 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gBundË
+;
+
+4 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+;
+
+5 
+impÜt
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	gCœşePageIndiÿtÜ
+;
+
+7 
+public
+ cÏs 
+	cSam¶eCœşesStyËdM‘hods
+ 
+ex‹nds
+ 
+	mBa£Sam¶eAùiv™y
+ {
+
+8 @
+Ov”ride
+
+
+9 
+´Ùeùed
+ 
+	$ÚC»©e
+(
+BundË
+ 
+§vedIn¡ªûS‹
+) {
+
+10 
+su³r
+.
+	`ÚC»©e
+(
+§vedIn¡ªûS‹
+);
+
+11 
+	`£tCÚ‹ÁV›w
+(
+R
+.
+Ïyout
+.
+sim¶e_cœşes
+);
+
+13 
+mAd­‹r
+ = 
+Ãw
+ 
+	`Te¡F¿gm’tAd­‹r
+(
+	`g‘SuµÜtF¿gm’tMªag”
+());
+
+15 
+mPag”
+ = (
+V›wPag”
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+·g”
+);
+
+16 
+mPag”
+.
+	`£tAd­‹r
+(
+mAd­‹r
+);
+
+18 
+CœşePageIndiÿtÜ
+ 
+šdiÿtÜ
+ = (CœşePageIndiÿtÜ)
+	`fšdV›wById
+(
+R
+.
+id
+.indicator);
+
+19 
+mIndiÿtÜ
+ = 
+šdiÿtÜ
+;
+
+20 
+šdiÿtÜ
+.
+	`£tV›wPag”
+(
+mPag”
+);
+
+22 
+fš®
+ 
+d’s™y
+ = 
+	`g‘Resourûs
+().
+	`g‘Di¥ÏyM‘rics
+().density;
+
+23 
+šdiÿtÜ
+.
+	`£tBackgroundCŞÜ
+(0xFFCCCCCC);
+
+24 
+šdiÿtÜ
+.
+	`£tRadius
+(10 * 
+d’s™y
+);
+
+25 
+šdiÿtÜ
+.
+	`£tPageCŞÜ
+(0x880000FF);
+
+26 
+šdiÿtÜ
+.
+	`£tFlCŞÜ
+(0xFF888888);
+
+27 
+šdiÿtÜ
+.
+	`£tSŒokeCŞÜ
+(0xFF000000);
+
+28 
+šdiÿtÜ
+.
+	`£tSŒokeWidth
+(2 * 
+d’s™y
+);
+
+30 
+	}
+}
+
+	@sample/src/com/viewpagerindicator/sample/SampleCirclesStyledTheme.java
+
+1 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	g§m¶e
+;
+
+3 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gBundË
+;
+
+4 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+;
+
+5 
+impÜt
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	gCœşePageIndiÿtÜ
+;
+
+7 
+public
+ cÏs 
+	cSam¶eCœşesStyËdTheme
+ 
+ex‹nds
+ 
+	mBa£Sam¶eAùiv™y
+ {
+
+8 @
+Ov”ride
+
+
+9 
+´Ùeùed
+ 
+	$ÚC»©e
+(
+BundË
+ 
+§vedIn¡ªûS‹
+) {
+
+10 
+su³r
+.
+	`ÚC»©e
+(
+§vedIn¡ªûS‹
+);
+
+13 
+	`£tCÚ‹ÁV›w
+(
+R
+.
+Ïyout
+.
+sim¶e_cœşes
+);
+
+15 
+mAd­‹r
+ = 
+Ãw
+ 
+	`Te¡F¿gm’tAd­‹r
+(
+	`g‘SuµÜtF¿gm’tMªag”
+());
+
+17 
+mPag”
+ = (
+V›wPag”
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+·g”
+);
+
+18 
+mPag”
+.
+	`£tAd­‹r
+(
+mAd­‹r
+);
+
+20 
+mIndiÿtÜ
+ = (
+CœşePageIndiÿtÜ
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+šdiÿtÜ
+);
+
+21 
+mIndiÿtÜ
+.
+	`£tV›wPag”
+(
+mPag”
+);
+
+23 
+	}
+}
+
+	@sample/src/com/viewpagerindicator/sample/SampleCirclesWithListener.java
+
+1 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	g§m¶e
+;
+
+3 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gBundË
+;
+
+4 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+;
+
+5 
+impÜt
+ 
+	gªdroid
+.
+	gwidg‘
+.
+	gTß¡
+;
+
+6 
+impÜt
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	gCœşePageIndiÿtÜ
+;
+
+8 
+public
+ cÏs 
+	cSam¶eCœşesW™hLi¡’”
+ 
+ex‹nds
+ 
+	mBa£Sam¶eAùiv™y
+ {
+
+9 @
+Ov”ride
+
+
+10 
+´Ùeùed
+ 
+	$ÚC»©e
+(
+BundË
+ 
+§vedIn¡ªûS‹
+) {
+
+11 
+su³r
+.
+	`ÚC»©e
+(
+§vedIn¡ªûS‹
+);
+
+12 
+	`£tCÚ‹ÁV›w
+(
+R
+.
+Ïyout
+.
+sim¶e_cœşes
+);
+
+14 
+mAd­‹r
+ = 
+Ãw
+ 
+	`Te¡F¿gm’tAd­‹r
+(
+	`g‘SuµÜtF¿gm’tMªag”
+());
+
+16 
+mPag”
+ = (
+V›wPag”
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+·g”
+);
+
+17 
+mPag”
+.
+	`£tAd­‹r
+(
+mAd­‹r
+);
+
+19 
+mIndiÿtÜ
+ = (
+CœşePageIndiÿtÜ
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+šdiÿtÜ
+);
+
+20 
+mIndiÿtÜ
+.
+	`£tV›wPag”
+(
+mPag”
+);
+
+23 
+mIndiÿtÜ
+.
+	`£tOnPageChªgeLi¡’”
+(
+Ãw
+ 
+V›wPag”
+.
+	`OnPageChªgeLi¡’”
+() {
+
+24 @
+Ov”ride
+
+
+25 
+public
+ 
+	`ÚPageS–eùed
+(
+pos™iÚ
+) {
+
+26 
+Tß¡
+.
+	`makeText
+(
+Sam¶eCœşesW™hLi¡’”
+.
+this
+, "ChªgedØ·g" + 
+pos™iÚ
+, Tß¡.
+LENGTH_SHORT
+).
+	`show
+();
+
+29 @
+Ov”ride
+
+
+30 
+public
+ 
+	`ÚPageSüŞËd
+(
+pos™iÚ
+, 
+pos™iÚOff£t
+, 
+pos™iÚOff£tPix–s
+) {
+
+33 @
+Ov”ride
+
+
+34 
+public
+ 
+	`ÚPageSüŞlS‹Chªged
+(
+¡©e
+) {
+
+38 
+	}
+}
+
+	@sample/src/com/viewpagerindicator/sample/SampleIconsDefault.java
+
+1 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	g§m¶e
+;
+
+3 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gBundË
+;
+
+4 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+;
+
+5 
+impÜt
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	gIcÚPageIndiÿtÜ
+;
+
+7 
+public
+ cÏs 
+	cSam¶eIcÚsDeçuÉ
+ 
+ex‹nds
+ 
+	mBa£Sam¶eAùiv™y
+ {
+
+8 @
+Ov”ride
+
+
+9 
+´Ùeùed
+ 
+	$ÚC»©e
+(
+BundË
+ 
+§vedIn¡ªûS‹
+) {
+
+10 
+su³r
+.
+	`ÚC»©e
+(
+§vedIn¡ªûS‹
+);
+
+11 
+	`£tCÚ‹ÁV›w
+(
+R
+.
+Ïyout
+.
+sim¶e_icÚs
+);
+
+13 
+mAd­‹r
+ = 
+Ãw
+ 
+	`Te¡F¿gm’tAd­‹r
+(
+	`g‘SuµÜtF¿gm’tMªag”
+());
+
+15 
+mPag”
+ = (
+V›wPag”
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+·g”
+);
+
+16 
+mPag”
+.
+	`£tAd­‹r
+(
+mAd­‹r
+);
+
+18 
+mIndiÿtÜ
+ = (
+IcÚPageIndiÿtÜ
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+šdiÿtÜ
+);
+
+19 
+mIndiÿtÜ
+.
+	`£tV›wPag”
+(
+mPag”
+);
+
+21 
+	}
+}
+
+	@sample/src/com/viewpagerindicator/sample/SampleLinesDefault.java
+
+1 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	g§m¶e
+;
+
+3 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gBundË
+;
+
+4 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+;
+
+5 
+impÜt
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	gLšePageIndiÿtÜ
+;
+
+7 
+public
+ cÏs 
+	cSam¶eLšesDeçuÉ
+ 
+ex‹nds
+ 
+	mBa£Sam¶eAùiv™y
+ {
+
+8 @
+Ov”ride
+
+
+9 
+´Ùeùed
+ 
+	$ÚC»©e
+(
+BundË
+ 
+§vedIn¡ªûS‹
+) {
+
+10 
+su³r
+.
+	`ÚC»©e
+(
+§vedIn¡ªûS‹
+);
+
+11 
+	`£tCÚ‹ÁV›w
+(
+R
+.
+Ïyout
+.
+sim¶e_lšes
+);
+
+13 
+mAd­‹r
+ = 
+Ãw
+ 
+	`Te¡F¿gm’tAd­‹r
+(
+	`g‘SuµÜtF¿gm’tMªag”
+());
+
+15 
+mPag”
+ = (
+V›wPag”
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+·g”
+);
+
+16 
+mPag”
+.
+	`£tAd­‹r
+(
+mAd­‹r
+);
+
+18 
+mIndiÿtÜ
+ = (
+LšePageIndiÿtÜ
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+šdiÿtÜ
+);
+
+19 
+mIndiÿtÜ
+.
+	`£tV›wPag”
+(
+mPag”
+);
+
+21 
+	}
+}
+
+	@sample/src/com/viewpagerindicator/sample/SampleLinesStyledLayout.java
+
+1 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	g§m¶e
+;
+
+3 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gBundË
+;
+
+4 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+;
+
+5 
+impÜt
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	gLšePageIndiÿtÜ
+;
+
+7 
+public
+ cÏs 
+	cSam¶eLšesStyËdLayout
+ 
+ex‹nds
+ 
+	mBa£Sam¶eAùiv™y
+ {
+
+8 @
+Ov”ride
+
+
+9 
+´Ùeùed
+ 
+	$ÚC»©e
+(
+BundË
+ 
+§vedIn¡ªûS‹
+) {
+
+10 
+su³r
+.
+	`ÚC»©e
+(
+§vedIn¡ªûS‹
+);
+
+11 
+	`£tCÚ‹ÁV›w
+(
+R
+.
+Ïyout
+.
+themed_lšes
+);
+
+13 
+mAd­‹r
+ = 
+Ãw
+ 
+	`Te¡F¿gm’tAd­‹r
+(
+	`g‘SuµÜtF¿gm’tMªag”
+());
+
+15 
+mPag”
+ = (
+V›wPag”
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+·g”
+);
+
+16 
+mPag”
+.
+	`£tAd­‹r
+(
+mAd­‹r
+);
+
+18 
+mIndiÿtÜ
+ = (
+LšePageIndiÿtÜ
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+šdiÿtÜ
+);
+
+19 
+mIndiÿtÜ
+.
+	`£tV›wPag”
+(
+mPag”
+);
+
+21 
+	}
+}
+
+	@sample/src/com/viewpagerindicator/sample/SampleLinesStyledMethods.java
+
+1 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	g§m¶e
+;
+
+3 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gBundË
+;
+
+4 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+;
+
+5 
+impÜt
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	gLšePageIndiÿtÜ
+;
+
+7 
+public
+ cÏs 
+	cSam¶eLšesStyËdM‘hods
+ 
+ex‹nds
+ 
+	mBa£Sam¶eAùiv™y
+ {
+
+8 @
+Ov”ride
+
+
+9 
+´Ùeùed
+ 
+	$ÚC»©e
+(
+BundË
+ 
+§vedIn¡ªûS‹
+) {
+
+10 
+su³r
+.
+	`ÚC»©e
+(
+§vedIn¡ªûS‹
+);
+
+11 
+	`£tCÚ‹ÁV›w
+(
+R
+.
+Ïyout
+.
+sim¶e_lšes
+);
+
+13 
+mAd­‹r
+ = 
+Ãw
+ 
+	`Te¡F¿gm’tAd­‹r
+(
+	`g‘SuµÜtF¿gm’tMªag”
+());
+
+15 
+mPag”
+ = (
+V›wPag”
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+·g”
+);
+
+16 
+mPag”
+.
+	`£tAd­‹r
+(
+mAd­‹r
+);
+
+18 
+LšePageIndiÿtÜ
+ 
+šdiÿtÜ
+ = (LšePageIndiÿtÜ)
+	`fšdV›wById
+(
+R
+.
+id
+.indicator);
+
+19 
+mIndiÿtÜ
+ = 
+šdiÿtÜ
+;
+
+20 
+šdiÿtÜ
+.
+	`£tV›wPag”
+(
+mPag”
+);
+
+22 
+fš®
+ 
+d’s™y
+ = 
+	`g‘Resourûs
+().
+	`g‘Di¥ÏyM‘rics
+().density;
+
+23 
+šdiÿtÜ
+.
+	`£tS–eùedCŞÜ
+(0x88FF0000);
+
+24 
+šdiÿtÜ
+.
+	`£tUn£ËùedCŞÜ
+(0xFF888888);
+
+25 
+šdiÿtÜ
+.
+	`£tSŒokeWidth
+(4 * 
+d’s™y
+);
+
+26 
+šdiÿtÜ
+.
+	`£tLšeWidth
+(30 * 
+d’s™y
+);
+
+28 
+	}
+}
+
+	@sample/src/com/viewpagerindicator/sample/SampleLinesStyledTheme.java
+
+1 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	g§m¶e
+;
+
+3 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gBundË
+;
+
+4 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+;
+
+5 
+impÜt
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	gLšePageIndiÿtÜ
+;
+
+7 
+public
+ cÏs 
+	cSam¶eLšesStyËdTheme
+ 
+ex‹nds
+ 
+	mBa£Sam¶eAùiv™y
+ {
+
+8 @
+Ov”ride
+
+
+9 
+´Ùeùed
+ 
+	$ÚC»©e
+(
+BundË
+ 
+§vedIn¡ªûS‹
+) {
+
+10 
+su³r
+.
+	`ÚC»©e
+(
+§vedIn¡ªûS‹
+);
+
+13 
+	`£tCÚ‹ÁV›w
+(
+R
+.
+Ïyout
+.
+sim¶e_lšes
+);
+
+15 
+mAd­‹r
+ = 
+Ãw
+ 
+	`Te¡F¿gm’tAd­‹r
+(
+	`g‘SuµÜtF¿gm’tMªag”
+());
+
+17 
+mPag”
+ = (
+V›wPag”
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+·g”
+);
+
+18 
+mPag”
+.
+	`£tAd­‹r
+(
+mAd­‹r
+);
+
+20 
+mIndiÿtÜ
+ = (
+LšePageIndiÿtÜ
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+šdiÿtÜ
+);
+
+21 
+mIndiÿtÜ
+.
+	`£tV›wPag”
+(
+mPag”
+);
+
+23 
+	}
+}
+
+	@sample/src/com/viewpagerindicator/sample/SampleTabsDefault.java
+
+1 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	g§m¶e
+;
+
+3 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gBundË
+;
+
+4 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	g­p
+.
+	gF¿gm’t
+;
+
+5 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	g­p
+.
+	gF¿gm’tAùiv™y
+;
+
+6 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	g­p
+.
+	gF¿gm’tMªag”
+;
+
+7 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	g­p
+.
+	gF¿gm’tPag”Ad­‹r
+;
+
+8 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+;
+
+9 
+impÜt
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	gTabPageIndiÿtÜ
+;
+
+11 
+public
+ cÏs 
+	cSam¶eTabsDeçuÉ
+ 
+ex‹nds
+ 
+	mF¿gm’tAùiv™y
+ {
+
+12 
+´iv©e
+ 
+fš®
+ 
+	mSŒšg
+[] 
+	mCONTENT
+ = 
+Ãw
+ 
+SŒšg
+[] { "Recent", "Artists", "Albums", "Songs", "Playlists", "Genres" };
+
+14 @
+Ov”ride
+
+
+15 
+´Ùeùed
+ 
+	$ÚC»©e
+(
+BundË
+ 
+§vedIn¡ªûS‹
+) {
+
+16 
+su³r
+.
+	`ÚC»©e
+(
+§vedIn¡ªûS‹
+);
+
+17 
+	`£tCÚ‹ÁV›w
+(
+R
+.
+Ïyout
+.
+sim¶e_bs
+);
+
+19 
+F¿gm’tPag”Ad­‹r
+ 
+ad­‹r
+ = 
+Ãw
+ 
+	`GoogËMusicAd­‹r
+(
+	`g‘SuµÜtF¿gm’tMªag”
+());
+
+21 
+V›wPag”
+ 
+·g”
+ = (V›wPag”)
+	`fšdV›wById
+(
+R
+.
+id
+.pager);
+
+22 
+·g”
+.
+	`£tAd­‹r
+(
+ad­‹r
+);
+
+24 
+TabPageIndiÿtÜ
+ 
+šdiÿtÜ
+ = (TabPageIndiÿtÜ)
+	`fšdV›wById
+(
+R
+.
+id
+.indicator);
+
+25 
+šdiÿtÜ
+.
+	`£tV›wPag”
+(
+·g”
+);
+
+26 
+	}
+}
+
+28 şas 
+	cGoogËMusicAd­‹r
+ 
+ex‹nds
+ 
+	gF¿gm’tPag”Ad­‹r
+ {
+
+29 
+public
+ 
+GoogËMusicAd­‹r
+(
+F¿gm’tMªag”
+ 
+fm
+) {
+
+30 
+su³r
+(
+fm
+);
+
+33 @
+Ov”ride
+
+
+34 
+public
+ 
+F¿gm’t
+ 
+g‘I‹m
+(
+pos™iÚ
+) {
+
+35  
+	gTe¡F¿gm’t
+.
+ÃwIn¡ªû
+(
+CONTENT
+[
+pos™iÚ
+ % CONTENT.
+Ëngth
+]);
+
+38 @
+Ov”ride
+
+
+39 
+public
+ 
+Ch¬Sequ’û
+ 
+g‘PageT™Ë
+(
+pos™iÚ
+) {
+
+40  
+	gCONTENT
+[
+pos™iÚ
+ % 
+CONTENT
+.
+Ëngth
+].
+toUµ”Ca£
+();
+
+43 @
+Ov”ride
+
+
+44 
+public
+ 
+g‘CouÁ
+() {
+
+45  
+	gCONTENT
+.
+	gËngth
+;
+
+	@sample/src/com/viewpagerindicator/sample/SampleTabsStyled.java
+
+1 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	g§m¶e
+;
+
+3 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gBundË
+;
+
+4 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	g­p
+.
+	gF¿gm’t
+;
+
+5 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	g­p
+.
+	gF¿gm’tAùiv™y
+;
+
+6 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	g­p
+.
+	gF¿gm’tMªag”
+;
+
+7 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	g­p
+.
+	gF¿gm’tPag”Ad­‹r
+;
+
+8 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+;
+
+9 
+impÜt
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	gTabPageIndiÿtÜ
+;
+
+11 
+public
+ cÏs 
+	cSam¶eTabsStyËd
+ 
+ex‹nds
+ 
+	mF¿gm’tAùiv™y
+ {
+
+12 
+´iv©e
+ 
+fš®
+ 
+	mSŒšg
+[] 
+	mCONTENT
+ = 
+Ãw
+ 
+SŒšg
+[] { "Recent", "Artists", "Albums", "Songs", "Playlists", "Genres" };
+
+14 @
+Ov”ride
+
+
+15 
+´Ùeùed
+ 
+	$ÚC»©e
+(
+BundË
+ 
+§vedIn¡ªûS‹
+) {
+
+16 
+su³r
+.
+	`ÚC»©e
+(
+§vedIn¡ªûS‹
+);
+
+17 
+	`£tCÚ‹ÁV›w
+(
+R
+.
+Ïyout
+.
+sim¶e_bs
+);
+
+19 
+F¿gm’tPag”Ad­‹r
+ 
+ad­‹r
+ = 
+Ãw
+ 
+	`GoogËMusicAd­‹r
+(
+	`g‘SuµÜtF¿gm’tMªag”
+());
+
+21 
+V›wPag”
+ 
+·g”
+ = (V›wPag”)
+	`fšdV›wById
+(
+R
+.
+id
+.pager);
+
+22 
+·g”
+.
+	`£tAd­‹r
+(
+ad­‹r
+);
+
+24 
+TabPageIndiÿtÜ
+ 
+šdiÿtÜ
+ = (TabPageIndiÿtÜ)
+	`fšdV›wById
+(
+R
+.
+id
+.indicator);
+
+25 
+šdiÿtÜ
+.
+	`£tV›wPag”
+(
+·g”
+);
+
+26 
+	}
+}
+
+28 şas 
+	cGoogËMusicAd­‹r
+ 
+ex‹nds
+ 
+	gF¿gm’tPag”Ad­‹r
+ {
+
+29 
+public
+ 
+GoogËMusicAd­‹r
+(
+F¿gm’tMªag”
+ 
+fm
+) {
+
+30 
+su³r
+(
+fm
+);
+
+33 @
+Ov”ride
+
+
+34 
+public
+ 
+F¿gm’t
+ 
+g‘I‹m
+(
+pos™iÚ
+) {
+
+35  
+	gTe¡F¿gm’t
+.
+ÃwIn¡ªû
+(
+CONTENT
+[
+pos™iÚ
+ % CONTENT.
+Ëngth
+]);
+
+38 @
+Ov”ride
+
+
+39 
+public
+ 
+Ch¬Sequ’û
+ 
+g‘PageT™Ë
+(
+pos™iÚ
+) {
+
+40  
+	gCONTENT
+[
+pos™iÚ
+ % 
+CONTENT
+.
+Ëngth
+].
+toUµ”Ca£
+();
+
+43 @
+Ov”ride
+
+
+44 
+public
+ 
+g‘CouÁ
+() {
+
+45  
+	gCONTENT
+.
+	gËngth
+;
+
+	@sample/src/com/viewpagerindicator/sample/SampleTabsWithIcons.java
+
+1 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	g§m¶e
+;
+
+3 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gBundË
+;
+
+4 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	g­p
+.
+	gF¿gm’t
+;
+
+5 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	g­p
+.
+	gF¿gm’tAùiv™y
+;
+
+6 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	g­p
+.
+	gF¿gm’tMªag”
+;
+
+7 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	g­p
+.
+	gF¿gm’tPag”Ad­‹r
+;
+
+8 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+;
+
+9 
+impÜt
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	gIcÚPag”Ad­‹r
+;
+
+10 
+impÜt
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	gTabPageIndiÿtÜ
+;
+
+12 
+public
+ cÏs 
+	cSam¶eTabsW™hIcÚs
+ 
+ex‹nds
+ 
+	mF¿gm’tAùiv™y
+ {
+
+13 
+´iv©e
+ 
+fš®
+ 
+	mSŒšg
+[] 
+	mCONTENT
+ = 
+Ãw
+ 
+SŒšg
+[] { "Calendar", "Camera", "Alarms", "Location" };
+
+14 
+´iv©e
+ 
+fš®
+ [] 
+	gICONS
+ = 
+Ãw
+ [] {
+
+15 
+R
+.
+d¿wabË
+.
+³rm_group_ÿËnd¬
+,
+
+16 
+R
+.
+d¿wabË
+.
+³rm_group_ÿm”a
+,
+
+17 
+R
+.
+d¿wabË
+.
+³rm_group_deviû_®¬ms
+,
+
+18 
+R
+.
+d¿wabË
+.
+³rm_group_loÿtiÚ
+,
+
+21 @
+Ov”ride
+
+
+22 
+´Ùeùed
+ 
+	$ÚC»©e
+(
+BundË
+ 
+§vedIn¡ªûS‹
+) {
+
+23 
+su³r
+.
+	`ÚC»©e
+(
+§vedIn¡ªûS‹
+);
+
+24 
+	`£tCÚ‹ÁV›w
+(
+R
+.
+Ïyout
+.
+sim¶e_bs
+);
+
+26 
+F¿gm’tPag”Ad­‹r
+ 
+ad­‹r
+ = 
+Ãw
+ 
+	`GoogËMusicAd­‹r
+(
+	`g‘SuµÜtF¿gm’tMªag”
+());
+
+28 
+V›wPag”
+ 
+·g”
+ = (V›wPag”)
+	`fšdV›wById
+(
+R
+.
+id
+.pager);
+
+29 
+·g”
+.
+	`£tAd­‹r
+(
+ad­‹r
+);
+
+31 
+TabPageIndiÿtÜ
+ 
+šdiÿtÜ
+ = (TabPageIndiÿtÜ)
+	`fšdV›wById
+(
+R
+.
+id
+.indicator);
+
+32 
+šdiÿtÜ
+.
+	`£tV›wPag”
+(
+·g”
+);
+
+33 
+	}
+}
+
+35 şas 
+	cGoogËMusicAd­‹r
+ 
+ex‹nds
+ 
+F¿gm’tPag”Ad­‹r
+ 
+im¶em’ts
+ 
+	gIcÚPag”Ad­‹r
+ {
+
+36 
+public
+ 
+GoogËMusicAd­‹r
+(
+F¿gm’tMªag”
+ 
+fm
+) {
+
+37 
+su³r
+(
+fm
+);
+
+40 @
+Ov”ride
+
+
+41 
+public
+ 
+F¿gm’t
+ 
+g‘I‹m
+(
+pos™iÚ
+) {
+
+42  
+	gTe¡F¿gm’t
+.
+ÃwIn¡ªû
+(
+CONTENT
+[
+pos™iÚ
+ % CONTENT.
+Ëngth
+]);
+
+45 @
+Ov”ride
+
+
+46 
+public
+ 
+Ch¬Sequ’û
+ 
+g‘PageT™Ë
+(
+pos™iÚ
+) {
+
+47  
+	gCONTENT
+[
+pos™iÚ
+ % 
+CONTENT
+.
+Ëngth
+].
+toUµ”Ca£
+();
+
+50 @
+Ov”ride
+ 
+public
+ 
+g‘IcÚResId
+(
+šdex
+) {
+
+51  
+	gICONS
+[
+šdex
+];
+
+54 @
+Ov”ride
+
+
+55 
+public
+ 
+g‘CouÁ
+() {
+
+56  
+	gCONTENT
+.
+	gËngth
+;
+
+	@sample/src/com/viewpagerindicator/sample/SampleTitlesBottom.java
+
+1 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	g§m¶e
+;
+
+3 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gBundË
+;
+
+4 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+;
+
+5 
+impÜt
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	gT™ËPageIndiÿtÜ
+;
+
+7 
+public
+ cÏs 
+	cSam¶eT™ËsBÙtom
+ 
+ex‹nds
+ 
+	mBa£Sam¶eAùiv™y
+ {
+
+8 @
+Ov”ride
+
+
+9 
+´Ùeùed
+ 
+	$ÚC»©e
+(
+BundË
+ 
+§vedIn¡ªûS‹
+) {
+
+10 
+su³r
+.
+	`ÚC»©e
+(
+§vedIn¡ªûS‹
+);
+
+11 
+	`£tCÚ‹ÁV›w
+(
+R
+.
+Ïyout
+.
+sim¶e_t™Ës_bÙtom
+);
+
+13 
+mAd­‹r
+ = 
+Ãw
+ 
+	`Te¡F¿gm’tAd­‹r
+(
+	`g‘SuµÜtF¿gm’tMªag”
+());
+
+15 
+mPag”
+ = (
+V›wPag”
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+·g”
+);
+
+16 
+mPag”
+.
+	`£tAd­‹r
+(
+mAd­‹r
+);
+
+18 
+mIndiÿtÜ
+ = (
+T™ËPageIndiÿtÜ
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+šdiÿtÜ
+);
+
+19 
+mIndiÿtÜ
+.
+	`£tV›wPag”
+(
+mPag”
+);
+
+21 
+	}
+}
+
+	@sample/src/com/viewpagerindicator/sample/SampleTitlesCenterClickListener.java
+
+1 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	g§m¶e
+;
+
+3 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gBundË
+;
+
+4 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+;
+
+5 
+impÜt
+ 
+	gªdroid
+.
+	gwidg‘
+.
+	gTß¡
+;
+
+7 
+impÜt
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	gT™ËPageIndiÿtÜ
+;
+
+8 
+impÜt
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	gT™ËPageIndiÿtÜ
+.
+	gIndiÿtÜStyË
+;
+
+9 
+impÜt
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	gT™ËPageIndiÿtÜ
+.
+	gOnC’‹rI‹mClickLi¡’”
+;
+
+11 
+public
+ cÏs 
+	cSam¶eT™ËsC’‹rClickLi¡’”
+ 
+ex‹nds
+ 
+Ba£Sam¶eAùiv™y
+ 
+im¶em’ts
+ 
+	mOnC’‹rI‹mClickLi¡’”
+ {
+
+12 @
+Ov”ride
+
+
+13 
+´Ùeùed
+ 
+	$ÚC»©e
+(
+BundË
+ 
+§vedIn¡ªûS‹
+) {
+
+14 
+su³r
+.
+	`ÚC»©e
+(
+§vedIn¡ªûS‹
+);
+
+15 
+	`£tCÚ‹ÁV›w
+(
+R
+.
+Ïyout
+.
+sim¶e_t™Ës
+);
+
+17 
+mAd­‹r
+ = 
+Ãw
+ 
+	`Te¡F¿gm’tAd­‹r
+(
+	`g‘SuµÜtF¿gm’tMªag”
+());
+
+19 
+mPag”
+ = (
+V›wPag”
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+·g”
+);
+
+20 
+mPag”
+.
+	`£tAd­‹r
+(
+mAd­‹r
+);
+
+22 
+T™ËPageIndiÿtÜ
+ 
+šdiÿtÜ
+ = (T™ËPageIndiÿtÜ)
+	`fšdV›wById
+(
+R
+.
+id
+.indicator);
+
+23 
+šdiÿtÜ
+.
+	`£tV›wPag”
+(
+mPag”
+);
+
+24 
+šdiÿtÜ
+.
+	`£tFoÙ”IndiÿtÜStyË
+(
+IndiÿtÜStyË
+.
+Und”lše
+);
+
+25 
+šdiÿtÜ
+.
+	`£tOnC’‹rI‹mClickLi¡’”
+(
+this
+);
+
+26 
+mIndiÿtÜ
+ = 
+šdiÿtÜ
+;
+
+29 @
+Ov”ride
+
+
+30 
+public
+ 
+	$ÚC’‹rI‹mClick
+(
+pos™iÚ
+) {
+
+31 
+Tß¡
+.
+	`makeText
+(
+this
+, "You clickedhûÁ”™Ë!", Tß¡.
+LENGTH_SHORT
+).
+	`show
+();
+
+32 
+	}
+}
+
+	@sample/src/com/viewpagerindicator/sample/SampleTitlesDefault.java
+
+1 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	g§m¶e
+;
+
+3 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gBundË
+;
+
+4 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+;
+
+6 
+impÜt
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	gT™ËPageIndiÿtÜ
+;
+
+8 
+public
+ cÏs 
+	cSam¶eT™ËsDeçuÉ
+ 
+ex‹nds
+ 
+	mBa£Sam¶eAùiv™y
+ {
+
+9 @
+Ov”ride
+
+
+10 
+´Ùeùed
+ 
+	$ÚC»©e
+(
+BundË
+ 
+§vedIn¡ªûS‹
+) {
+
+11 
+su³r
+.
+	`ÚC»©e
+(
+§vedIn¡ªûS‹
+);
+
+12 
+	`£tCÚ‹ÁV›w
+(
+R
+.
+Ïyout
+.
+sim¶e_t™Ës
+);
+
+14 
+mAd­‹r
+ = 
+Ãw
+ 
+	`Te¡F¿gm’tAd­‹r
+(
+	`g‘SuµÜtF¿gm’tMªag”
+());
+
+16 
+mPag”
+ = (
+V›wPag”
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+·g”
+);
+
+17 
+mPag”
+.
+	`£tAd­‹r
+(
+mAd­‹r
+);
+
+19 
+mIndiÿtÜ
+ = (
+T™ËPageIndiÿtÜ
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+šdiÿtÜ
+);
+
+20 
+mIndiÿtÜ
+.
+	`£tV›wPag”
+(
+mPag”
+);
+
+22 
+	}
+}
+
+	@sample/src/com/viewpagerindicator/sample/SampleTitlesInitialPage.java
+
+1 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	g§m¶e
+;
+
+3 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gBundË
+;
+
+4 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+;
+
+6 
+impÜt
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	gT™ËPageIndiÿtÜ
+;
+
+8 
+public
+ cÏs 
+	cSam¶eT™ËsIn™ŸlPage
+ 
+ex‹nds
+ 
+	mBa£Sam¶eAùiv™y
+ {
+
+9 @
+Ov”ride
+
+
+10 
+´Ùeùed
+ 
+	$ÚC»©e
+(
+BundË
+ 
+§vedIn¡ªûS‹
+) {
+
+11 
+su³r
+.
+	`ÚC»©e
+(
+§vedIn¡ªûS‹
+);
+
+12 
+	`£tCÚ‹ÁV›w
+(
+R
+.
+Ïyout
+.
+sim¶e_t™Ës
+);
+
+14 
+mAd­‹r
+ = 
+Ãw
+ 
+	`Te¡F¿gm’tAd­‹r
+(
+	`g‘SuµÜtF¿gm’tMªag”
+());
+
+16 
+mPag”
+ = (
+V›wPag”
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+·g”
+);
+
+17 
+mPag”
+.
+	`£tAd­‹r
+(
+mAd­‹r
+);
+
+19 
+mIndiÿtÜ
+ = (
+T™ËPageIndiÿtÜ
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+šdiÿtÜ
+);
+
+20 
+mIndiÿtÜ
+.
+	`£tV›wPag”
+(
+mPag”
+);
+
+21 
+mIndiÿtÜ
+.
+	`£tCu¼’tI‹m
+(
+mAd­‹r
+.
+	`g‘CouÁ
+() - 1);
+
+25 
+	}
+}
+
+	@sample/src/com/viewpagerindicator/sample/SampleTitlesStyledLayout.java
+
+1 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	g§m¶e
+;
+
+3 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gBundË
+;
+
+4 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+;
+
+6 
+impÜt
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	gT™ËPageIndiÿtÜ
+;
+
+8 
+public
+ cÏs 
+	cSam¶eT™ËsStyËdLayout
+ 
+ex‹nds
+ 
+	mBa£Sam¶eAùiv™y
+ {
+
+9 @
+Ov”ride
+
+
+10 
+´Ùeùed
+ 
+	$ÚC»©e
+(
+BundË
+ 
+§vedIn¡ªûS‹
+) {
+
+11 
+su³r
+.
+	`ÚC»©e
+(
+§vedIn¡ªûS‹
+);
+
+12 
+	`£tCÚ‹ÁV›w
+(
+R
+.
+Ïyout
+.
+themed_t™Ës
+);
+
+14 
+mAd­‹r
+ = 
+Ãw
+ 
+	`Te¡F¿gm’tAd­‹r
+(
+	`g‘SuµÜtF¿gm’tMªag”
+());
+
+16 
+mPag”
+ = (
+V›wPag”
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+·g”
+);
+
+17 
+mPag”
+.
+	`£tAd­‹r
+(
+mAd­‹r
+);
+
+19 
+mIndiÿtÜ
+ = (
+T™ËPageIndiÿtÜ
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+šdiÿtÜ
+);
+
+20 
+mIndiÿtÜ
+.
+	`£tV›wPag”
+(
+mPag”
+);
+
+22 
+	}
+}
+
+	@sample/src/com/viewpagerindicator/sample/SampleTitlesStyledMethods.java
+
+1 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	g§m¶e
+;
+
+3 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gBundË
+;
+
+4 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+;
+
+6 
+impÜt
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	gT™ËPageIndiÿtÜ
+;
+
+7 
+impÜt
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	gT™ËPageIndiÿtÜ
+.
+	gIndiÿtÜStyË
+;
+
+9 
+public
+ cÏs 
+	cSam¶eT™ËsStyËdM‘hods
+ 
+ex‹nds
+ 
+	mBa£Sam¶eAùiv™y
+ {
+
+10 @
+Ov”ride
+
+
+11 
+´Ùeùed
+ 
+	$ÚC»©e
+(
+BundË
+ 
+§vedIn¡ªûS‹
+) {
+
+12 
+su³r
+.
+	`ÚC»©e
+(
+§vedIn¡ªûS‹
+);
+
+13 
+	`£tCÚ‹ÁV›w
+(
+R
+.
+Ïyout
+.
+sim¶e_t™Ës
+);
+
+15 
+mAd­‹r
+ = 
+Ãw
+ 
+	`Te¡F¿gm’tAd­‹r
+(
+	`g‘SuµÜtF¿gm’tMªag”
+());
+
+17 
+mPag”
+ = (
+V›wPag”
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+·g”
+);
+
+18 
+mPag”
+.
+	`£tAd­‹r
+(
+mAd­‹r
+);
+
+20 
+T™ËPageIndiÿtÜ
+ 
+šdiÿtÜ
+ = (T™ËPageIndiÿtÜ)
+	`fšdV›wById
+(
+R
+.
+id
+.indicator);
+
+21 
+mIndiÿtÜ
+ = 
+šdiÿtÜ
+;
+
+22 
+šdiÿtÜ
+.
+	`£tV›wPag”
+(
+mPag”
+);
+
+24 
+fš®
+ 
+d’s™y
+ = 
+	`g‘Resourûs
+().
+	`g‘Di¥ÏyM‘rics
+().density;
+
+25 
+šdiÿtÜ
+.
+	`£tBackgroundCŞÜ
+(0x18FF0000);
+
+26 
+šdiÿtÜ
+.
+	`£tFoÙ”CŞÜ
+(0xFFAA2222);
+
+27 
+šdiÿtÜ
+.
+	`£tFoÙ”LšeHeight
+(1 * 
+d’s™y
+);
+
+28 
+šdiÿtÜ
+.
+	`£tFoÙ”IndiÿtÜHeight
+(3 * 
+d’s™y
+);
+
+29 
+šdiÿtÜ
+.
+	`£tFoÙ”IndiÿtÜStyË
+(
+IndiÿtÜStyË
+.
+Und”lše
+);
+
+30 
+šdiÿtÜ
+.
+	`£tTextCŞÜ
+(0xAA000000);
+
+31 
+šdiÿtÜ
+.
+	`£tS–eùedCŞÜ
+(0xFF000000);
+
+32 
+šdiÿtÜ
+.
+	`£tS–eùedBŞd
+(
+Œue
+);
+
+34 
+	}
+}
+
+	@sample/src/com/viewpagerindicator/sample/SampleTitlesStyledTheme.java
+
+1 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	g§m¶e
+;
+
+3 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gBundË
+;
+
+4 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+;
+
+6 
+impÜt
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	gT™ËPageIndiÿtÜ
+;
+
+8 
+public
+ cÏs 
+	cSam¶eT™ËsStyËdTheme
+ 
+ex‹nds
+ 
+	mBa£Sam¶eAùiv™y
+ {
+
+9 @
+Ov”ride
+
+
+10 
+´Ùeùed
+ 
+	$ÚC»©e
+(
+BundË
+ 
+§vedIn¡ªûS‹
+) {
+
+11 
+su³r
+.
+	`ÚC»©e
+(
+§vedIn¡ªûS‹
+);
+
+14 
+	`£tCÚ‹ÁV›w
+(
+R
+.
+Ïyout
+.
+sim¶e_t™Ës
+);
+
+16 
+mAd­‹r
+ = 
+Ãw
+ 
+	`Te¡F¿gm’tAd­‹r
+(
+	`g‘SuµÜtF¿gm’tMªag”
+());
+
+18 
+mPag”
+ = (
+V›wPag”
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+·g”
+);
+
+19 
+mPag”
+.
+	`£tAd­‹r
+(
+mAd­‹r
+);
+
+21 
+mIndiÿtÜ
+ = (
+T™ËPageIndiÿtÜ
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+šdiÿtÜ
+);
+
+22 
+mIndiÿtÜ
+.
+	`£tV›wPag”
+(
+mPag”
+);
+
+24 
+	}
+}
+
+	@sample/src/com/viewpagerindicator/sample/SampleTitlesTriangle.java
+
+1 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	g§m¶e
+;
+
+3 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gBundË
+;
+
+4 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+;
+
+6 
+impÜt
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	gT™ËPageIndiÿtÜ
+;
+
+7 
+impÜt
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	gT™ËPageIndiÿtÜ
+.
+	gIndiÿtÜStyË
+;
+
+9 
+public
+ cÏs 
+	cSam¶eT™ËsTrŸngË
+ 
+ex‹nds
+ 
+	mBa£Sam¶eAùiv™y
+ {
+
+10 @
+Ov”ride
+
+
+11 
+´Ùeùed
+ 
+	$ÚC»©e
+(
+BundË
+ 
+§vedIn¡ªûS‹
+) {
+
+12 
+su³r
+.
+	`ÚC»©e
+(
+§vedIn¡ªûS‹
+);
+
+13 
+	`£tCÚ‹ÁV›w
+(
+R
+.
+Ïyout
+.
+sim¶e_t™Ës
+);
+
+15 
+mAd­‹r
+ = 
+Ãw
+ 
+	`Te¡F¿gm’tAd­‹r
+(
+	`g‘SuµÜtF¿gm’tMªag”
+());
+
+17 
+mPag”
+ = (
+V›wPag”
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+·g”
+);
+
+18 
+mPag”
+.
+	`£tAd­‹r
+(
+mAd­‹r
+);
+
+20 
+T™ËPageIndiÿtÜ
+ 
+šdiÿtÜ
+ = (T™ËPageIndiÿtÜ)
+	`fšdV›wById
+(
+R
+.
+id
+.indicator);
+
+21 
+šdiÿtÜ
+.
+	`£tV›wPag”
+(
+mPag”
+);
+
+22 
+šdiÿtÜ
+.
+	`£tFoÙ”IndiÿtÜStyË
+(
+IndiÿtÜStyË
+.
+TrŸngË
+);
+
+23 
+mIndiÿtÜ
+ = 
+šdiÿtÜ
+;
+
+25 
+	}
+}
+
+	@sample/src/com/viewpagerindicator/sample/SampleTitlesWithListener.java
+
+1 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	g§m¶e
+;
+
+3 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gBundË
+;
+
+4 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+;
+
+5 
+impÜt
+ 
+	gªdroid
+.
+	gwidg‘
+.
+	gTß¡
+;
+
+7 
+impÜt
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	gT™ËPageIndiÿtÜ
+;
+
+9 
+public
+ cÏs 
+	cSam¶eT™ËsW™hLi¡’”
+ 
+ex‹nds
+ 
+	mBa£Sam¶eAùiv™y
+ {
+
+10 @
+Ov”ride
+
+
+11 
+´Ùeùed
+ 
+	$ÚC»©e
+(
+BundË
+ 
+§vedIn¡ªûS‹
+) {
+
+12 
+su³r
+.
+	`ÚC»©e
+(
+§vedIn¡ªûS‹
+);
+
+13 
+	`£tCÚ‹ÁV›w
+(
+R
+.
+Ïyout
+.
+sim¶e_t™Ës
+);
+
+15 
+mAd­‹r
+ = 
+Ãw
+ 
+	`Te¡F¿gm’tAd­‹r
+(
+	`g‘SuµÜtF¿gm’tMªag”
+());
+
+17 
+mPag”
+ = (
+V›wPag”
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+·g”
+);
+
+18 
+mPag”
+.
+	`£tAd­‹r
+(
+mAd­‹r
+);
+
+20 
+mIndiÿtÜ
+ = (
+T™ËPageIndiÿtÜ
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+šdiÿtÜ
+);
+
+21 
+mIndiÿtÜ
+.
+	`£tV›wPag”
+(
+mPag”
+);
+
+24 
+mIndiÿtÜ
+.
+	`£tOnPageChªgeLi¡’”
+(
+Ãw
+ 
+V›wPag”
+.
+	`OnPageChªgeLi¡’”
+() {
+
+25 @
+Ov”ride
+
+
+26 
+public
+ 
+	`ÚPageS–eùed
+(
+pos™iÚ
+) {
+
+27 
+Tß¡
+.
+	`makeText
+(
+Sam¶eT™ËsW™hLi¡’”
+.
+this
+, "ChªgedØ·g" + 
+pos™iÚ
+, Tß¡.
+LENGTH_SHORT
+).
+	`show
+();
+
+30 @
+Ov”ride
+
+
+31 
+public
+ 
+	`ÚPageSüŞËd
+(
+pos™iÚ
+, 
+pos™iÚOff£t
+, 
+pos™iÚOff£tPix–s
+) {
+
+34 @
+Ov”ride
+
+
+35 
+public
+ 
+	`ÚPageSüŞlS‹Chªged
+(
+¡©e
+) {
+
+39 
+	}
+}
+
+	@sample/src/com/viewpagerindicator/sample/SampleUnderlinesDefault.java
+
+1 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	g§m¶e
+;
+
+3 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gBundË
+;
+
+4 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+;
+
+5 
+impÜt
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	gUnd”lšePageIndiÿtÜ
+;
+
+7 
+public
+ cÏs 
+	cSam¶eUnd”lšesDeçuÉ
+ 
+ex‹nds
+ 
+	mBa£Sam¶eAùiv™y
+ {
+
+8 @
+Ov”ride
+
+
+9 
+´Ùeùed
+ 
+	$ÚC»©e
+(
+BundË
+ 
+§vedIn¡ªûS‹
+) {
+
+10 
+su³r
+.
+	`ÚC»©e
+(
+§vedIn¡ªûS‹
+);
+
+11 
+	`£tCÚ‹ÁV›w
+(
+R
+.
+Ïyout
+.
+sim¶e_und”lšes
+);
+
+13 
+mAd­‹r
+ = 
+Ãw
+ 
+	`Te¡F¿gm’tAd­‹r
+(
+	`g‘SuµÜtF¿gm’tMªag”
+());
+
+15 
+mPag”
+ = (
+V›wPag”
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+·g”
+);
+
+16 
+mPag”
+.
+	`£tAd­‹r
+(
+mAd­‹r
+);
+
+18 
+mIndiÿtÜ
+ = (
+Und”lšePageIndiÿtÜ
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+šdiÿtÜ
+);
+
+19 
+mIndiÿtÜ
+.
+	`£tV›wPag”
+(
+mPag”
+);
+
+21 
+	}
+}
+
+	@sample/src/com/viewpagerindicator/sample/SampleUnderlinesNoFade.java
+
+1 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	g§m¶e
+;
+
+3 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gBundË
+;
+
+4 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+;
+
+5 
+impÜt
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	gUnd”lšePageIndiÿtÜ
+;
+
+7 
+public
+ cÏs 
+	cSam¶eUnd”lšesNoFade
+ 
+ex‹nds
+ 
+	mBa£Sam¶eAùiv™y
+ {
+
+8 @
+Ov”ride
+
+
+9 
+´Ùeùed
+ 
+	$ÚC»©e
+(
+BundË
+ 
+§vedIn¡ªûS‹
+) {
+
+10 
+su³r
+.
+	`ÚC»©e
+(
+§vedIn¡ªûS‹
+);
+
+11 
+	`£tCÚ‹ÁV›w
+(
+R
+.
+Ïyout
+.
+sim¶e_und”lšes
+);
+
+13 
+mAd­‹r
+ = 
+Ãw
+ 
+	`Te¡F¿gm’tAd­‹r
+(
+	`g‘SuµÜtF¿gm’tMªag”
+());
+
+15 
+mPag”
+ = (
+V›wPag”
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+·g”
+);
+
+16 
+mPag”
+.
+	`£tAd­‹r
+(
+mAd­‹r
+);
+
+18 
+Und”lšePageIndiÿtÜ
+ 
+šdiÿtÜ
+ = (Und”lšePageIndiÿtÜ)
+	`fšdV›wById
+(
+R
+.
+id
+.indicator);
+
+19 
+šdiÿtÜ
+.
+	`£tV›wPag”
+(
+mPag”
+);
+
+20 
+šdiÿtÜ
+.
+	`£tFades
+(
+çl£
+);
+
+21 
+mIndiÿtÜ
+ = 
+šdiÿtÜ
+;
+
+23 
+	}
+}
+
+	@sample/src/com/viewpagerindicator/sample/SampleUnderlinesStyledLayout.java
+
+1 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	g§m¶e
+;
+
+3 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gBundË
+;
+
+4 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+;
+
+5 
+impÜt
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	gUnd”lšePageIndiÿtÜ
+;
+
+7 
+public
+ cÏs 
+	cSam¶eUnd”lšesStyËdLayout
+ 
+ex‹nds
+ 
+	mBa£Sam¶eAùiv™y
+ {
+
+8 @
+Ov”ride
+
+
+9 
+´Ùeùed
+ 
+	$ÚC»©e
+(
+BundË
+ 
+§vedIn¡ªûS‹
+) {
+
+10 
+su³r
+.
+	`ÚC»©e
+(
+§vedIn¡ªûS‹
+);
+
+11 
+	`£tCÚ‹ÁV›w
+(
+R
+.
+Ïyout
+.
+themed_und”lšes
+);
+
+13 
+mAd­‹r
+ = 
+Ãw
+ 
+	`Te¡F¿gm’tAd­‹r
+(
+	`g‘SuµÜtF¿gm’tMªag”
+());
+
+15 
+mPag”
+ = (
+V›wPag”
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+·g”
+);
+
+16 
+mPag”
+.
+	`£tAd­‹r
+(
+mAd­‹r
+);
+
+18 
+mIndiÿtÜ
+ = (
+Und”lšePageIndiÿtÜ
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+šdiÿtÜ
+);
+
+19 
+mIndiÿtÜ
+.
+	`£tV›wPag”
+(
+mPag”
+);
+
+21 
+	}
+}
+
+	@sample/src/com/viewpagerindicator/sample/SampleUnderlinesStyledMethods.java
+
+1 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	g§m¶e
+;
+
+3 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gBundË
+;
+
+4 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+;
+
+5 
+impÜt
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	gUnd”lšePageIndiÿtÜ
+;
+
+7 
+public
+ cÏs 
+	cSam¶eUnd”lšesStyËdM‘hods
+ 
+ex‹nds
+ 
+	mBa£Sam¶eAùiv™y
+ {
+
+8 @
+Ov”ride
+
+
+9 
+´Ùeùed
+ 
+	$ÚC»©e
+(
+BundË
+ 
+§vedIn¡ªûS‹
+) {
+
+10 
+su³r
+.
+	`ÚC»©e
+(
+§vedIn¡ªûS‹
+);
+
+11 
+	`£tCÚ‹ÁV›w
+(
+R
+.
+Ïyout
+.
+sim¶e_und”lšes
+);
+
+13 
+mAd­‹r
+ = 
+Ãw
+ 
+	`Te¡F¿gm’tAd­‹r
+(
+	`g‘SuµÜtF¿gm’tMªag”
+());
+
+15 
+mPag”
+ = (
+V›wPag”
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+·g”
+);
+
+16 
+mPag”
+.
+	`£tAd­‹r
+(
+mAd­‹r
+);
+
+18 
+Und”lšePageIndiÿtÜ
+ 
+šdiÿtÜ
+ = (Und”lšePageIndiÿtÜ)
+	`fšdV›wById
+(
+R
+.
+id
+.indicator);
+
+19 
+mIndiÿtÜ
+ = 
+šdiÿtÜ
+;
+
+20 
+šdiÿtÜ
+.
+	`£tV›wPag”
+(
+mPag”
+);
+
+21 
+šdiÿtÜ
+.
+	`£tS–eùedCŞÜ
+(0xFFCC0000);
+
+22 
+šdiÿtÜ
+.
+	`£tBackgroundCŞÜ
+(0xFFCCCCCC);
+
+23 
+šdiÿtÜ
+.
+	`£tFadeD–ay
+(1000);
+
+24 
+šdiÿtÜ
+.
+	`£tFadeL’gth
+(1000);
+
+26 
+	}
+}
+
+	@sample/src/com/viewpagerindicator/sample/SampleUnderlinesStyledTheme.java
+
+1 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	g§m¶e
+;
+
+3 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gBundË
+;
+
+4 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	gv›w
+.
+	gV›wPag”
+;
+
+5 
+impÜt
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	gUnd”lšePageIndiÿtÜ
+;
+
+7 
+public
+ cÏs 
+	cSam¶eUnd”lšesStyËdTheme
+ 
+ex‹nds
+ 
+	mBa£Sam¶eAùiv™y
+ {
+
+8 @
+Ov”ride
+
+
+9 
+´Ùeùed
+ 
+	$ÚC»©e
+(
+BundË
+ 
+§vedIn¡ªûS‹
+) {
+
+10 
+su³r
+.
+	`ÚC»©e
+(
+§vedIn¡ªûS‹
+);
+
+13 
+	`£tCÚ‹ÁV›w
+(
+R
+.
+Ïyout
+.
+sim¶e_und”lšes
+);
+
+15 
+mAd­‹r
+ = 
+Ãw
+ 
+	`Te¡F¿gm’tAd­‹r
+(
+	`g‘SuµÜtF¿gm’tMªag”
+());
+
+17 
+mPag”
+ = (
+V›wPag”
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+·g”
+);
+
+18 
+mPag”
+.
+	`£tAd­‹r
+(
+mAd­‹r
+);
+
+20 
+mIndiÿtÜ
+ = (
+Und”lšePageIndiÿtÜ
+)
+	`fšdV›wById
+(
+R
+.
+id
+.
+šdiÿtÜ
+);
+
+21 
+mIndiÿtÜ
+.
+	`£tV›wPag”
+(
+mPag”
+);
+
+23 
+	}
+}
+
+	@sample/src/com/viewpagerindicator/sample/TestFragment.java
+
+1 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	g§m¶e
+;
+
+3 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gBundË
+;
+
+4 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	g­p
+.
+	gF¿gm’t
+;
+
+5 
+impÜt
+ 
+	gªdroid
+.
+	gv›w
+.
+	gG¿v™y
+;
+
+6 
+impÜt
+ 
+	gªdroid
+.
+	gv›w
+.
+	gLayoutInæ©”
+;
+
+7 
+impÜt
+ 
+	gªdroid
+.
+	gv›w
+.
+	gV›w
+;
+
+8 
+impÜt
+ 
+	gªdroid
+.
+	gv›w
+.
+	gV›wGroup
+;
+
+9 
+impÜt
+ 
+	gªdroid
+.
+	gwidg‘
+.
+	gLš—rLayout
+;
+
+10 
+impÜt
+ 
+	gªdroid
+.
+	gwidg‘
+.
+	gLš—rLayout
+.
+	gLayoutP¬ams
+;
+
+11 
+impÜt
+ 
+	gªdroid
+.
+	gwidg‘
+.
+	gTextV›w
+;
+
+13 
+public
+ 
+fš®
+ cÏs 
+	cTe¡F¿gm’t
+ 
+ex‹nds
+ 
+	mF¿gm’t
+ {
+
+14 
+´iv©e
+ 
+fš®
+ 
+SŒšg
+ 
+	mKEY_CONTENT
+ = "TestFragment:Content";
+
+16 
+public
+ 
+Te¡F¿gm’t
+ 
+	$ÃwIn¡ªû
+(
+SŒšg
+ 
+cÚ‹Á
+) {
+
+17 
+Te¡F¿gm’t
+ 
+äagm’t
+ = 
+Ãw
+ 
+	`Te¡F¿gm’t
+();
+
+19 
+SŒšgBud”
+ 
+bud”
+ = 
+Ãw
+ 
+	`SŒšgBud”
+();
+
+20 
+i
+ = 0; i < 20; i++) {
+
+21 
+bud”
+.
+	`­³nd
+(
+cÚ‹Á
+).append(" ");
+
+23 
+bud”
+.
+	`d–‘eCh¬At
+(bud”.
+	`Ëngth
+() - 1);
+
+24 
+äagm’t
+.
+mCÚ‹Á
+ = 
+bud”
+.
+	`toSŒšg
+();
+
+26  
+äagm’t
+;
+
+29 
+´iv©e
+ 
+SŒšg
+ 
+mCÚ‹Á
+ = "???";
+
+31 @
+Ov”ride
+
+
+32 
+public
+ 
+	$ÚC»©e
+(
+BundË
+ 
+§vedIn¡ªûS‹
+) {
+
+33 
+su³r
+.
+	`ÚC»©e
+(
+§vedIn¡ªûS‹
+);
+
+35 ià((
+§vedIn¡ªûS‹
+ !ğ
+nuÎ
+è&& savedIn¡ªûS‹.
+	`cÚšsKey
+(
+KEY_CONTENT
+)) {
+
+36 
+mCÚ‹Á
+ = 
+§vedIn¡ªûS‹
+.
+	`g‘SŒšg
+(
+KEY_CONTENT
+);
+
+38 
+	}
+}
+
+40 @
+Ov”ride
+
+
+41 
+public
+ 
+V›w
+ 
+	$ÚC»©eV›w
+(
+LayoutInæ©”
+ 
+šæ©”
+, 
+V›wGroup
+ 
+cÚš”
+, 
+BundË
+ 
+§vedIn¡ªûS‹
+) {
+
+42 
+TextV›w
+ 
+‹xt
+ = 
+Ãw
+ 
+	`TextV›w
+(
+	`g‘Aùiv™y
+());
+
+43 
+‹xt
+.
+	`£tG¿v™y
+(
+G¿v™y
+.
+CENTER
+);
+
+44 
+‹xt
+.
+	`£tText
+(
+mCÚ‹Á
+);
+
+45 
+‹xt
+.
+	`£tTextSize
+(20 * 
+	`g‘Resourûs
+().
+	`g‘Di¥ÏyM‘rics
+().
+d’s™y
+);
+
+46 
+‹xt
+.
+	`£tPaddšg
+(20, 20, 20, 20);
+
+48 
+Lš—rLayout
+ 
+Ïyout
+ = 
+Ãw
+ 
+	`Lš—rLayout
+(
+	`g‘Aùiv™y
+());
+
+49 
+Ïyout
+.
+	`£tLayoutP¬ams
+(
+Ãw
+ 
+	`LayoutP¬ams
+(
+LayoutP¬ams
+.
+FILL_PARENT
+, LayoutParams.FILL_PARENT));
+
+50 
+Ïyout
+.
+	`£tG¿v™y
+(
+G¿v™y
+.
+CENTER
+);
+
+51 
+Ïyout
+.
+	`addV›w
+(
+‹xt
+);
+
+53  
+Ïyout
+;
+
+54 
+	}
+}
+
+56 @
+Ov”ride
+
+
+57 
+public
+ 
+	$ÚSaveIn¡ªûS‹
+(
+BundË
+ 
+outS‹
+) {
+
+58 
+su³r
+.
+	`ÚSaveIn¡ªûS‹
+(
+outS‹
+);
+
+59 
+outS‹
+.
+	`putSŒšg
+(
+KEY_CONTENT
+, 
+mCÚ‹Á
+);
+
+60 
+	}
+}
+
+	@sample/src/com/viewpagerindicator/sample/TestFragmentAdapter.java
+
+1 
+·ckage
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	g§m¶e
+;
+
+3 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	g­p
+.
+	gF¿gm’t
+;
+
+4 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	g­p
+.
+	gF¿gm’tMªag”
+;
+
+5 
+impÜt
+ 
+	gªdroid
+.
+	gsuµÜt
+.
+	gv4
+.
+	g­p
+.
+	gF¿gm’tPag”Ad­‹r
+;
+
+6 
+impÜt
+ 
+	gcom
+.
+	gv›w·g”šdiÿtÜ
+.
+	gIcÚPag”Ad­‹r
+;
+
+8 şas 
+	cTe¡F¿gm’tAd­‹r
+ 
+ex‹nds
+ 
+F¿gm’tPag”Ad­‹r
+ 
+im¶em’ts
+ 
+	mIcÚPag”Ad­‹r
+ {
+
+9 
+´Ùeùed
+ 
+fš®
+ 
+	mSŒšg
+[] 
+	mCONTENT
+ = 
+Ãw
+ 
+SŒšg
+[] { "This", "Is", "A", "Test", };
+
+10 
+´Ùeùed
+ 
+fš®
+ [] 
+	gICONS
+ = 
+Ãw
+ [] {
+
+11 
+R
+.
+d¿wabË
+.
+³rm_group_ÿËnd¬
+,
+
+12 
+R
+.
+d¿wabË
+.
+³rm_group_ÿm”a
+,
+
+13 
+R
+.
+d¿wabË
+.
+³rm_group_deviû_®¬ms
+,
+
+14 
+R
+.
+d¿wabË
+.
+³rm_group_loÿtiÚ
+
+
+17 
+´iv©e
+ 
+	gmCouÁ
+ = 
+CONTENT
+.
+Ëngth
+;
+
+19 
+public
+ 
+	$Te¡F¿gm’tAd­‹r
+(
+F¿gm’tMªag”
+ 
+fm
+) {
+
+20 
+	`su³r
+(
+fm
+);
+
+21 
+	}
+}
+
+23 @
+Ov”ride
+
+
+24 
+public
+ 
+F¿gm’t
+ 
+	$g‘I‹m
+(
+pos™iÚ
+) {
+
+25  
+Te¡F¿gm’t
+.
+	`ÃwIn¡ªû
+(
+CONTENT
+[
+pos™iÚ
+ % CONTENT.
+Ëngth
+]);
+
+26 
+	}
+}
+
+28 @
+Ov”ride
+
+
+29 
+public
+ 
+	$g‘CouÁ
+() {
+
+30  
+mCouÁ
+;
+
+31 
+	}
+}
+
+33 @
+Ov”ride
+
+
+34 
+public
+ 
+Ch¬Sequ’û
+ 
+	$g‘PageT™Ë
+(
+pos™iÚ
+) {
+
+35  
+Te¡F¿gm’tAd­‹r
+.
+CONTENT
+[
+pos™iÚ
+ % CONTENT.
+Ëngth
+];
+
+36 
+	}
+}
+
+38 @
+Ov”ride
+
+
+39 
+public
+ 
+	$g‘IcÚResId
+(
+šdex
+) {
+
+40  
+ICONS
+[
+šdex
+ % ICONS.
+Ëngth
+];
+
+41 
+	}
+}
+
+43 
+public
+ 
+	$£tCouÁ
+(
+couÁ
+) {
+
+44 ià(
+couÁ
+ > 0 && count <= 10) {
+
+45 
+mCouÁ
+ = 
+couÁ
+;
+
+46 
+	`nÙifyD©aS‘Chªged
+();
+
+48 
+	}
+}
+
+	@
+1
+.
+0
+44
+2881
+library/gen/com/viewpagerindicator/BuildConfig.java
+library/gen/com/viewpagerindicator/R.java
+library/src/com/viewpagerindicator/CirclePageIndicator.java
+library/src/com/viewpagerindicator/IconPageIndicator.java
+library/src/com/viewpagerindicator/IconPagerAdapter.java
+library/src/com/viewpagerindicator/IcsLinearLayout.java
+library/src/com/viewpagerindicator/LinePageIndicator.java
+library/src/com/viewpagerindicator/PageIndicator.java
+library/src/com/viewpagerindicator/TabPageIndicator.java
+library/src/com/viewpagerindicator/TitlePageIndicator.java
+library/src/com/viewpagerindicator/UnderlinePageIndicator.java
+sample/src/com/viewpagerindicator/sample/BaseSampleActivity.java
+sample/src/com/viewpagerindicator/sample/ListSamples.java
+sample/src/com/viewpagerindicator/sample/SampleCirclesDefault.java
+sample/src/com/viewpagerindicator/sample/SampleCirclesInitialPage.java
+sample/src/com/viewpagerindicator/sample/SampleCirclesSnap.java
+sample/src/com/viewpagerindicator/sample/SampleCirclesStyledLayout.java
+sample/src/com/viewpagerindicator/sample/SampleCirclesStyledMethods.java
+sample/src/com/viewpagerindicator/sample/SampleCirclesStyledTheme.java
+sample/src/com/viewpagerindicator/sample/SampleCirclesWithListener.java
+sample/src/com/viewpagerindicator/sample/SampleIconsDefault.java
+sample/src/com/viewpagerindicator/sample/SampleLinesDefault.java
+sample/src/com/viewpagerindicator/sample/SampleLinesStyledLayout.java
+sample/src/com/viewpagerindicator/sample/SampleLinesStyledMethods.java
+sample/src/com/viewpagerindicator/sample/SampleLinesStyledTheme.java
+sample/src/com/viewpagerindicator/sample/SampleTabsDefault.java
+sample/src/com/viewpagerindicator/sample/SampleTabsStyled.java
+sample/src/com/viewpagerindicator/sample/SampleTabsWithIcons.java
+sample/src/com/viewpagerindicator/sample/SampleTitlesBottom.java
+sample/src/com/viewpagerindicator/sample/SampleTitlesCenterClickListener.java
+sample/src/com/viewpagerindicator/sample/SampleTitlesDefault.java
+sample/src/com/viewpagerindicator/sample/SampleTitlesInitialPage.java
+sample/src/com/viewpagerindicator/sample/SampleTitlesStyledLayout.java
+sample/src/com/viewpagerindicator/sample/SampleTitlesStyledMethods.java
+sample/src/com/viewpagerindicator/sample/SampleTitlesStyledTheme.java
+sample/src/com/viewpagerindicator/sample/SampleTitlesTriangle.java
+sample/src/com/viewpagerindicator/sample/SampleTitlesWithListener.java
+sample/src/com/viewpagerindicator/sample/SampleUnderlinesDefault.java
+sample/src/com/viewpagerindicator/sample/SampleUnderlinesNoFade.java
+sample/src/com/viewpagerindicator/sample/SampleUnderlinesStyledLayout.java
+sample/src/com/viewpagerindicator/sample/SampleUnderlinesStyledMethods.java
+sample/src/com/viewpagerindicator/sample/SampleUnderlinesStyledTheme.java
+sample/src/com/viewpagerindicator/sample/TestFragment.java
+sample/src/com/viewpagerindicator/sample/TestFragmentAdapter.java

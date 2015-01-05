@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="#ffffff"
+    android:clickable="true"
+>
+ 
+    <LinearLayout 
+      android:id="@+id/quikchat_search "
+    android:layout_width="fill_parent"
+    android:orientation="horizontal"
+    android:layout_alignParentTop="true" 
+    android:layout_gravity="top" 
+    android:layout_height="45.0dip"  
+     android:focusable="true" 
+      android:focusableInTouchMode="true">
+    	<EditText
+            android:id="@+id/quikchat_search_text"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0"
+            android:gravity="left"
+            android:text=""
+            android:clickable="true"
+            android:hint="@string/quikchat_search_text_hint"
+            android:cursorVisible = "true"
+			android:textColor="#000000"
+			android:singleLine="true" 
+		  
+            android:textSize="18.0dip" />
+    	<Button
+            android:id="@+id/quikchat_search_button"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="3.0"
+            android:gravity="center"
+            android:text="@string/quikchat_search_button_hint"
+            
+            android:textColor="#000000"
+            android:width="80dp"
+            
+            android:textSize="18.0dip" />
+        
+     </LinearLayout>
+
+    <ListView
+        android:id="@+id/quikchat_listview"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+		android:layout_above="@+id/quikchat_pair "
+		android:layout_below="@+id/quikchat_search "
+         android:background="#e5e5e5"
+        android:divider="#000"
+        android:dividerHeight="1px"
+        android:listSelector="@android:color/transparent"
+
+        android:transcriptMode="normal"
+       >
+    </ListView>
+    
+        <LinearLayout 
+      android:id="@+id/quikchat_pair "
+    android:layout_width="fill_parent"
+     android:orientation="horizontal"
+    android:layout_gravity="bottom" 
+    android:layout_alignParentBottom="true" 
+    android:layout_height="45.0dip"
+    android:paddingTop="2dp">
+    	<EditText
+            android:id="@+id/quikchat_pair_text"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0"
+            android:gravity="left"
+            android:textColor="#000000"
+            android:text=""
+            android:clickable="true"
+            android:cursorVisible = "true"
+            android:hint="@string/quikchat_pair_text_hint"
+            android:textSize="18.0dip" />
+    	<Button
+            android:id="@+id/quikchat_pair_button"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="3.0"
+            android:gravity="center"
+            android:text="@string/quikchat_pair_button_hint"
+            android:textColor="#000000"
+            android:singleLine="true" 
+            android:textSize="18.0dip" />
+        
+     </LinearLayout>
+    
+</RelativeLayout>

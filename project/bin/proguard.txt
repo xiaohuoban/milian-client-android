@@ -1,0 +1,40 @@
+# view res/layout/main.xml #generated:11
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view AndroidManifest.xml #generated:45
+-keep class com.milian.im.ChatActivity$MsgReciever { <init>(...); }
+
+# view AndroidManifest.xml #generated:54
+-keep class com.milian.im.MainActivity$MsgReciever { <init>(...); }
+
+# view AndroidManifest.xml #generated:30
+-keep class com.milian.im.service.XmppMgrService { <init>(...); }
+
+# view AndroidManifest.xml #generated:87
+-keep class com.milian.im.ui.ChatActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:61
+-keep class com.milian.im.ui.ContactInfoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:74
+-keep class com.milian.im.ui.ContactsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:35
+-keep class com.milian.im.ui.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:82
+-keep class com.milian.im.ui.MeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:66
+-keep class com.milian.im.ui.QuikChatActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:70
+-keep class com.milian.im.ui.SayActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:78
+-keep class com.milian.im.ui.TogetherActivity { <init>(...); }
+
+# onClick res/layout/chat.xml #generated:17
+# onClick res/layout/contact_info.xml #generated:19
+-keepclassmembers class * { *** chat_back(...); }
+

@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 标题栏   "   android:background="@drawable/chat_bg_default"-->
+<LinearLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#e0e0e0"
+    android:divider="#000"
+    android:orientation="vertical"
+    >
+<!-- 标题栏   android:background="@drawable/title_bar"-->
+    <RelativeLayout
+        android:id="@+id/me_header_image_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="80dp"
+        android:background="#cccccc"
+        android:divider="#000"
+        android:gravity="center_vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerInParent="true"
+            android:text="头像"
+            android:textColor="#333333"
+            android:gravity="center"
+            android:textSize="20sp" />
+
+  
+
+        <ImageView
+            android:id="@+id/me_header_image"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_centerInParent="true"
+            android:background="@drawable/abaose"
+            android:clickable="true"
+            android:src="@drawable/abaose" />
+        
+             <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="1px"
+            android:background="#000"
+	/>
+    </RelativeLayout>
+    
+
+    
+    <!-- 标题栏   android:background="@drawable/title_bar"-->
+    <RelativeLayout
+        android:id="@+id/me_rl_layout"
+          android:layout_below="@id/me_header_image_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:background="#cccccc"
+         android:focusableInTouchMode="true"
+        android:gravity="center_vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerInParent="true"
+            android:text="名字"
+            android:textColor="#333333"
+            android:gravity="center"
+            android:textSize="20sp" />
+
+  
+
+        <EditText
+            android:id="@+id/me_name"
+			android:textColor="#333333"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:clickable="true"
+            android:gravity="center"
+            android:textSize="20sp" 
+            android:divider="#000" />
+             <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="1px"
+            android:background="#000"
+	/>
+    </RelativeLayout>
+
+ 
+      <RelativeLayout
+        android:id="@+id/me_username_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:background="#88cccc"
+         android:focusableInTouchMode="true"
+        android:gravity="center_vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerInParent="true"
+            android:text="Username"
+            android:textColor="#333333"
+            android:gravity="center"
+            android:textSize="16sp" />
+
+  
+
+        <EditText
+            android:id="@+id/me_username"
+			android:textColor="#333333"
+			android:layout_width="220dp"
+			android:singleLine="true"
+			android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true"
+            android:clickable="true"
+            android:gravity="center"
+            android:textSize="16sp" 
+            android:divider="#000" />
+                 <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="1px"
+            android:background="#000"
+	/>
+    </RelativeLayout>       
+  
+            <RelativeLayout
+        android:id="@+id/me_server_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:background="#88cccc"
+         android:focusableInTouchMode="true"
+        android:gravity="center_vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerInParent="true"
+            android:singleLine="true"
+            android:text="Server"
+            android:textColor="#333333"
+            android:gravity="center"
+            android:textSize="16sp" />
+
+  
+
+        <EditText
+            android:id="@+id/me_server"
+			android:textColor="#333333"
+			android:layout_width="220dp"
+			android:singleLine="true"
+			android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true"
+            android:clickable="true"
+            android:gravity="center"
+            android:textSize="16sp" 
+            android:divider="#000" />
+                 <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="1px"
+            android:background="#000"
+	/>
+    </RelativeLayout>       
+         
+  
+ 
+      <RelativeLayout
+        android:id="@+id/me_username_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:background="#88cccc"
+         android:focusableInTouchMode="true"
+        android:gravity="center_vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerInParent="true"
+            android:text="Password"
+            android:textColor="#333333"
+            android:gravity="center"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/me_password"
+            android:layout_width="220dp"
+            android:layout_height="wrap_content"
+           android:layout_alignParentRight="true"
+            android:layout_centerInParent="true"
+            android:singleLine="true"
+            android:clickable="true"
+            android:gravity="center"
+            android:textColor="#333333"
+            android:textSize="16sp" />
+
+              <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="1px"
+            android:background="#000"
+	/>
+    </RelativeLayout>       
+    
+            <RelativeLayout
+        android:id="@+id/me_modify_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:background="#88cccc"
+         android:focusableInTouchMode="true"
+        android:gravity="center_vertical" >
+
+        <Button
+            android:id="@+id/me_modify"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+               android:layout_centerInParent="true"
+            android:text="修改账号"
+            
+            android:textColor="#333333"
+            android:gravity="center"
+            android:textSize="20sp" />
+
+
+              <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="1px"
+            android:background="#000"
+	/>
+    </RelativeLayout>   
+    
+            <RelativeLayout
+        android:id="@+id/me_state_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:background="#cccccc"
+         android:focusableInTouchMode="true"
+        android:gravity="center_vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerInParent="true"
+            android:text="State"
+            android:textColor="#333333"
+            android:gravity="center"
+            android:textSize="20sp" />
+
+  
+
+        <TextView
+            android:id="@+id/me_state"
+			android:textColor="#333333"
+			android:layout_width="150dp"
+			android:layout_height="wrap_content"
+			
+            android:layout_centerInParent="true"
+            android:clickable="true"
+            android:gravity="center"
+            android:textSize="20sp" 
+            android:divider="#000" />
+                <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="1px"
+            android:background="#000"
+	/>
+    </RelativeLayout>       
+      
+</LinearLayout>
