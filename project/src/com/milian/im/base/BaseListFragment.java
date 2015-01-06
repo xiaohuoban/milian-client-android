@@ -1,4 +1,5 @@
-package com.milian.base;
+package com.milian.im.base;
+
 import java.io.Serializable;
 
 import android.R;

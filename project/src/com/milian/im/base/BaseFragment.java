@@ -1,4 +1,4 @@
-package com.milian.base;
+package com.milian.im.base;
 
 import java.io.Serializable;
  
@@ -19,7 +19,7 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.ViewGroup;
-import com.lidroid.xutils;
+import com.lidroid.xutils.*;;
 
 public class BaseFragment  extends Fragment {
 	int layoutResource;

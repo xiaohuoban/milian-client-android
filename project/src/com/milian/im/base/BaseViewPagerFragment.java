@@ -1,4 +1,4 @@
-package com.milian.base;
+package com.milian.im.base;
 
 import java.util.ArrayList;
  
